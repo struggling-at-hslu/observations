@@ -17,14 +17,14 @@ Schopenhauer)**
   Systemtechniker Waldmann und vom Professor für extraterrestrischen
   Kurzwellenfunk Klaper. Von Holzcomputer bis Mainframe, von
   Satellitenkommunikation bis ZigBee und durch alle OSI-Layer hindurch erhält
-  der Studierende eine Schnellbleiche über _alles das Informatische Betreffend
+  der Studierende eine Schnellbleiche über _alles das Informatische Betreffende
   und alles damit Zusammenhängende_.
 - DMATH: Bürgler Seppis praktische Zahlentheorie und theoretische Zahlenpraxis
   mit theoretischen und praktischen Zählübungen (ohne Fingereinsatz); offiziell
   als _diskrete Mathematik_ geführt.
 - FKOM: Deutsch für Informatiker inklusive einer Einführung in _das Internet_
   von einem Nicht-Informatiker erteilt an Informatiker.
-- ISF: Der europareisende Security-Kosmopolit Hämmerli und der altgediente und
+- ISF: Der europareisende Security-Kosmopolit Hämmerli und der altgediente, 
   drittweltgewandte Wirtschaftsinformatik-Haudegen Marfurt wechseln sich
   zwischen einschläfernd-theoretischen (Hämmerli) und anschaulich-praktischen
   (Marfurt) Themen zum Thema Informationssicherheit ab.
@@ -33,8 +33,8 @@ Schopenhauer)**
   des _Pearson_-Verlages anhand verschiedenster Aufgaben zur Differentiel- und
   Integralrechnung bei Herrn Dr. Schmidt.
 - MOD: Ein weiteres Kurmann-Modul mit Schwäbisch-Exkursen erteilt durch den
-  Professor Zimmermann. Die UML-Notation, die bereits im vorherigen
-  Semester vorausgesetzt wurde, wird hier eingeführt.
+  Professor Zimmermann. Die UML-Notation, die bereits im vorhergehenden Semester
+  vorausgesetzt wurde, wird hier endlich eingeführt.
 - OOP: Das Modul, das gleichzeitig mit PLAB am Montagnachmittag und gleichzeitig
   mit dem Auschlafen am Dienstagvormittag stattfand für Studierende, die nicht
   schon mehrjährig Java-geschädigt sind.
@@ -52,8 +52,8 @@ Schopenhauer)**
   veranschaulichen soll.
 - PTA: Mit der sogenannten _Projekt- und Teamarbeit_ (auf Englisch: _pointless
   team assignment_) wurde der absolute Tiefpunkt des Studiums strategisch an
-  dessen Anfang gesetzt. Das Kennenlernen -- gemäss Modulverantwortlichem
-  Hofstetter für dieses Modul essenzieller Bestandteil und eigentlicher Zweck --
+  dessen Anfang gesetzt. Das gegenseitige Kennenlernen ‒ gemäss Modulverantwortlichem
+  Hofstetter für dieses Modul essenzieller Bestandteil und eigentlicher Zweck ‒ 
   fand aufgrund missverständlicher Planung leider erst gegen Ende der ersten
   Semesterhälfte statt. Die Reflexionen, bei denen es nur scheinbar um die
   Reflexion der Arbeit zum Thema "Digitale Mobilität" ging, diente den
@@ -62,11 +62,11 @@ Schopenhauer)**
   vernichtenden Rückmeldungen auf unbefriedigend präsentierte Zwischenergebnisse
   von Herr Doktor Germanist Aebi. Die Auslosung des Präsentierenden bei der
   Abschlusspräsentation, die den grössten Teil der Gesamtbewertung ausmachte,
-  sollte den Studierenden wohl den hohen Stellenwert der Variable Zufall auf dem
-  Lebensweg vor Augen führen und sie dadurch zur demütigen Einkehr anhalten. Die
-  Welt ist ungerecht, die Hölle ist unerbittlich, der Teufel allgegenwärtig ‒
-  und die HSLU _grausam_. Die eigentliche Projektarbeit wurde durch verschiedene
-  sogenannte _Inputs_ ergänzt:
+  sollte den Studierenden wohl den hohen Stellenwert der Variable Zufall für den
+  weiteren Studienverlauf und künftigen Lebensweg vor Augen führen und sie
+  dadurch zur demütigen Einkehr anhalten. Die Welt ist ungerecht ‒ die HSLU
+  _grausam_. Die eigentliche Projektarbeit wurde durch verschiedene sogenannte
+  _Inputs_ ergänzt:
     - Präsentieren I-XXVI: Videoanalyse studentischer Kurzpräsentationen mit
       packendem Livekommentar vom Herr Dozenten Albert.
     - Literaturrecherche: Einführung in die Literraturrecherche erteilt am
