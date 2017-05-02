@@ -52,7 +52,17 @@
   sollte den Studierenden wohl den hohen Stellenwert der Variable Zufall auf dem
   Lebensweg vor Augen führen und sie dadurch zur demütigen Einkehr anhalten. Die
   Welt ist ungerecht, die Hölle ist unerbittlich, der Teufel allgegenwärtig ‒
-  und die HSLU _grausam_.
+  und die HSLU _grausam_. Die eigentliche Projektarbeit wurde durch verschiedene
+  sogenannte _Inputs_ ergänzt:
+    - Präsentieren I-XXVI: Videoanalyse studentischer Kurzpräsentationen mit
+      packendem Livekommentar vom Herr Dozenten Albert.
+    - Literaturrecherche: Einführung in die Literraturrecherche erteilt am
+      Einführungstag, sodass der Stoff bis zur Anwendung garantiert wieder
+      vergessen wurde.
+    - Design Thinking: 30 Studierende sitzen sich in einem Raum gegenüber und
+      basteln zu House-Musik eine sogenannte Brieftasche aus Moosgummi, Schnur
+      und Papier bis einer der Dozenten Gugolz oder [wie hiess er nochmal?]
+      mit einer Hupe das Ende der Übungsphase signalisierten.
 - SELL: Das aufgrund seiner geringen Pflichtanwesenheit äusserst beliebte _self
   directed english language learning_, bei dem in Zweiergruppen über ein selbst
   gewähltes Thema referiert werden musste, ist das ideale Alternativprogramm zum
