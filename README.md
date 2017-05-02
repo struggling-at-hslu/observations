@@ -40,7 +40,7 @@ zum Zweck der Belustigung (während schwerer Vorlesungsstunden) geschrieben.
   wird ein fiktives Konzept für eine fiktive (und zum Untergang verdammten)
   Firma ausgearbeitet, das den Studierenden wohl die Unbedingheit des Scheiterns
   (und dessen Erscheinung im Raum-Zeit-Kontinuum (in seiner Materialisierung (in
-  der seienden Seinswelt (durch das seiende Seiende repräsentiert)))) vermittelt
+  der seienden Seinswelt (mittels hermeneutischer Dialektik)))) vermittelt
   durch Herrn Prof. Dr. nat. phil. Martin Jud veranschaulichen soll.
 - PTA: Mit der sogenannten _Projekt- und Teamarbeit_ (auf Englisch: _pointless
   team assignment_) wurde der absolute Tiefpunkt des Studiums strategisch an
