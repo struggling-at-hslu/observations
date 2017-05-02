@@ -5,6 +5,9 @@ zum Zweck der Belustigung (während schwerer Vorlesungsstunden) geschrieben.
 
 # Inoffizielle Modulbeschreibungen
 
+**_«Das Schicksal ist grausam und die Menschen sind erbärmlich»_ (Arthur
+Schopenhauer)**
+
 - AD: Algorithmen und Datenstrukturen (und Nebenläufigkeit!) sagt schon alles.
   Es geht wirklich um Algorithmen und um Datenstrukturen (und um
   Nebenläufigkeit!), was anhand von mehr oder weniger sinnvollen Aufgaben
@@ -30,14 +33,17 @@ zum Zweck der Belustigung (während schwerer Vorlesungsstunden) geschrieben.
   des _Pearson_-Verlages anhand verschiedenster Aufgaben zur Differentiel- und
   Integralrechnung bei Herrn Dr. Schmidt.
 - MOD: Ein weiteres Kurmann-Modul mit Schwäbisch-Exkursen erteilt durch den
-  Professor [wie hiess er nochmal?]. Die UML-Notation, die bereits im vorherigen
+  Professor Zimmermann. Die UML-Notation, die bereits im vorherigen
   Semester vorausgesetzt wurde, wird hier eingeführt.
 - OOP: Das Modul, das gleichzeitig mit PLAB am Montagnachmittag und gleichzeitig
   mit dem Auschlafen am Dienstagvormittag stattfand für Studierende, die nicht
   schon mehrjährig Java-geschädigt sind.
-- PLAB: Ruedis und Joachims lustiges Programmier-Labor...
+- PLAB: Die bereits in Java bewanderten Studierenden durften unter der
+  Anleitung von Prof. Ruedi Arnold und dem externen Aushilfsassistenten Joachim
+  (ohne Nachname) ihre bereits vorhandenen Java-Kenntnisse durch selbstgehaltene
+  Vorträge und Kurzübungen vertiefen.
 - PMB: Projektmanagement, theoretische Physik und _Mensch & Umwelt_ in einem. Es
-  wird ein fiktives Konzept für eine fiktive (und zum Untergang verdammten)
+  wird ein fiktives Konzept für eine fiktive (und zum Untergang verdammte)
   Firma ausgearbeitet, das den Studierenden wohl die Unbedingheit des Scheiterns
   (und dessen Erscheinung im Raum-Zeit-Kontinuum (in seiner physisch-reellen
   Materialisierung (in der seienden Seinswelt (veranschaulicht durch eine
@@ -46,8 +52,8 @@ zum Zweck der Belustigung (während schwerer Vorlesungsstunden) geschrieben.
   veranschaulichen soll.
 - PTA: Mit der sogenannten _Projekt- und Teamarbeit_ (auf Englisch: _pointless
   team assignment_) wurde der absolute Tiefpunkt des Studiums strategisch an
-  dessen Anfang gesetzt. Das Kennenlernen, das gemäss dem Modulverantwortlichem
-  Hofstetter für dieses Modul essenzieller Bestandteil und eigentlicher Zweck,
+  dessen Anfang gesetzt. Das Kennenlernen -- gemäss Modulverantwortlichem
+  Hofstetter für dieses Modul essenzieller Bestandteil und eigentlicher Zweck --
   fand aufgrund missverständlicher Planung leider erst gegen Ende der ersten
   Semesterhälfte statt. Die Reflexionen, bei denen es nur scheinbar um die
   Reflexion der Arbeit zum Thema "Digitale Mobilität" ging, diente den
