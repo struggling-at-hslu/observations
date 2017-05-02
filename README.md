@@ -1,3 +1,8 @@
+# Disclaimer
+
+Die folgenden Beobachtungen und Betrachtungen sind rein subjektiver Natur und
+zum Zweck der Belustigung (während schwerer Vorlesungsstunden) geschrieben.
+
 # Inoffizielle Modulbeschreibungen
 
 - AD: Algorithmen und Datenstrukturen (und Nebenläufigkeit!) sagt schon alles.
@@ -21,9 +26,9 @@
   zwischen einschläfernd-theoretischen (Hämmerli) und anschaulich-praktischen
   (Marfurt) Themen zum Thema Informationssicherheit ab.
 - ITEO: Auch als _Waldmann-Joho-Kurmannscher Informatik-Almanach_ bekannt.
-- MATH: Evaluationsseminar für die E-Learning-Plattform des _Pearson_-Verlages
-  anhand verschiedenster Aufgaben zur Differentiel- und Integralrechnung bei
-  Herrn Dr. Schmidt.
+- MATH: Evaluationsseminar für die E-Learning-Plattform _Learning Catalytics_
+  des _Pearson_-Verlages anhand verschiedenster Aufgaben zur Differentiel- und
+  Integralrechnung bei Herrn Dr. Schmidt.
 - MOD: Ein weiteres Kurmann-Modul mit Schwäbisch-Exkursen erteilt durch den
   Professor [wie hiess er nochmal?]. Die UML-Notation, die bereits im vorherigen
   Semester vorausgesetzt wurde, wird hier eingeführt.
