@@ -1,0 +1,54 @@
+---
+---
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Publications</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+            html {
+                max-width: 100%;
+                overflow-x: hidden;
+                overflow-y: hidden;
+                background-color: #E3E3E5;
+            }
+            ul {
+                list-style-type: none;
+                padding: 0;
+                display: flex;
+            }
+            li {
+                text-align: center;
+                padding: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <ul>
+            {% for img in site.static_files %}
+                {% if img.path contains "/book-publications/" %}
+                    <li>
+                        <div);>
+                            <img src=".{{ img.path }}"/>
+                        </div>
+                    </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js"></script>
+        <script>
+            $(function(){
+                $("body").mousewheel(function(event, delta) {
+                    this.scrollLeft -= (delta * 5);
+                    event.preventDefault();
+                });
+            });
+        </script>
+    </body>
+</html>
