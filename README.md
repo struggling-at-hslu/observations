@@ -22,10 +22,11 @@ Schopenhauer)**
   Satellitenkommunikation bis ZigBee und durch alle OSI-Layer hindurch erhält
   der Studierende eine Schnellbleiche über _alles das Informatische Betreffende
   und alles damit Zusammenhängende_.
-- DBS: Im Modul Datenbanksysteme machen wir Big Data mit cloud-basierten
-  NoSQL-Datenbanken, die vermutlich als Docker-Images auf einem
-  Kubernetes-Cluster laufen, mit Blockchain die wir vermutlich per verteiltem
-  Echtzeit-Java manipulieren.
+- DBS: Im Modul Datenbanksysteme machen wir _Big Data_ mit cloud-basierten
+  _NoSQL_-Datenbanken, die vermutlich als _Docker_-Images auf einem verteilten
+  _IoT_-_Kubernetes_-Cluster laufen, mit _Blockchain_ die wir vermutlich per
+  verteiltem Echtzeit-Java manipulieren, per _Machine Learning_ trainieren und
+  mittels _Augmented Reality_ **Bingo!**...
 - DMATH: Dr. Joseph Bürglers praktische Zahlentheorie und theoretische Zahlenpraxis
   mit theoretischen und praktischen Zählübungen (ohne Fingereinsatz); offiziell
   als _diskrete Mathematik_ geführt.
