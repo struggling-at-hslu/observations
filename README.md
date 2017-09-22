@@ -26,7 +26,10 @@ Schopenhauer)**
   _NoSQL_-Datenbanken, die vermutlich als _Docker_-Images auf einem verteilten
   _IoT_-_Kubernetes_-Cluster laufen, mit _Blockchain_ die wir vermutlich per
   verteiltem Echtzeit-Java manipulieren, per _Machine Learning_ trainieren und
-  mittels _Augmented Reality_ **Bingo!**...
+  mittels _Augmented Reality_ **Bingo!**... Im Rahmen einer Satiresitzung lehnte
+  sich der Modulverantwortliche mit der kühnen These, dass Digitalisierung ein
+  wichtiger Trend sei, weit aus dem Fenster und erwähnte auch den Begriff
+  _Industrie 4.0_.
 - DMATH: Dr. Joseph Bürglers praktische Zahlentheorie und theoretische Zahlenpraxis
   mit theoretischen und praktischen Zählübungen (ohne Fingereinsatz); offiziell
   als _diskrete Mathematik_ geführt.
