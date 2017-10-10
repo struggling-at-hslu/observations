@@ -6,8 +6,8 @@ Einige der Beobachtungen wurden sogar zum reinen Zwecke der Unterhaltung
 _erdichtet_, d.h. vollends erstunken und erlogen. Doch wie wusste Aristoteles es
 so schön auf den Punkt zu bringen?
 
-**_«denn die Dichtung teilt mehr das Allgemeine, die Geschichtsschreibung
-jedoch das Besondere mit»_ (Aristoteles, Poetik)**
+_«denn die Dichtung teilt mehr das Allgemeine, die Geschichtsschreibung
+jedoch das Besondere mit»_ (Aristoteles, Poetik)
 
 Wir haben es also hier nicht mit blanken Lügen und böswilliger Diffamierung,
 sondern mit _höheren Wahrheiten_ zu tun!
@@ -39,7 +39,7 @@ Schopenhauer)**
   scheitere.
 - DBS: Im Modul Datenbanksysteme machen wir _Big Data_ mit cloud-basierten
   _NoSQL_-Datenbanken, die vermutlich als _Docker_-Images auf einem verteilten
-  _IoT_-_Kubernetes_-Cluster laufen, mit _Blockchain_ die wir vermutlich per
+  _IoT_-_Kubernetes_-Cluster laufen, mit _Blockchain_, die wir vermutlich per
   verteiltem Echtzeit-Java manipulieren, per _Machine Learning_ trainieren und
   mittels _Augmented Reality_ **Bingo!**... Im Rahmen einer Satiresitzung lehnte
   sich der Modulverantwortliche mit der kühnen These, dass Digitalisierung ein
