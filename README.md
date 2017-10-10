@@ -91,9 +91,9 @@ Schopenhauer)**
   seienden Seinswelt (veranschaulicht durch eine hermeneutischer Dialektik
   (anhand eines teleologisch-analytischen Ansatzes (usw. usf.)))))) vermittelt
   durch Herrn Prof. Dr. nat. phil. Martin Jud veranschaulichen soll.
-- PREN I: Im Flagschiff unter den Projektmoduel dreht es sich dieses Jahr um die
+- PREN I: Im Flaggschiff unter den Projektmoduel geht es dieses Jahr um die
   Konzipierung einer autonomen sogenannten _Laufkatze_, die eine Last orten,
-  aufnehmen und punktgenau am Zielbereich ablegen soll. Die Gruppengrösse
+  aufnehmen und punktgenau im Zielbereich ablegen soll. Die Gruppengrösse
   übertrifft mit sieben bis acht jedes vernünftige Mass, die Organisation in
   Horw ist aber derjenigen in Rotkreuz um Lichtjahre voraus. Oft wird auf das
   Modul _Kontext 1_ verwiesen, das bei den Rotkreuzern unter den Studierenden
@@ -133,11 +133,12 @@ Schopenhauer)**
 - VSK: Im sagenumwobenen Modul _Verteilte Systeme und Komponenten_ geht es
   darum, eine selbst von der HSLU selbst unter HSLU-Standards als _schlecht_
   beurteilte Software in einen ordentlicheren Zustand zu überführen. Dazu
-  doziert Herr Prof. Dr. nat. phil. Martin Jud unter anderem zu den Themen _die
-  Struktur des Strukturlosen: ein Kriegsbericht von der Modulplanungsfront_,
-  _Chaos als ästhetische Kategorie oder: wie man Java-Packages strukturiert_ und
-  schliesslich _Irrungen, Wirrungen: was uns die späte Prosa Fontanes über die
-  Konzeption und Planung von Software zu sagen hat_.
+  doziert Herr Prof. Dr. nat. phil. Martin Jud unter anderem zu den Themen _«die
+  Struktur des Strukturlosen: ein Kriegsbericht von der Modulplanungsfront»_;
+  _«Chaos als ästhetische Kategorie oder: wie man Java-Packages strukturiert»_
+  und schliesslich _«Irrungen, Wirrungen: was uns die späte Prosa Fontanes über
+  die Konzeption und Planung von Software nach dem SoDa-Vorgehensmodell zu sagen
+  hat»_.
 - WEBTEC: Peter Infangers _tour de force_ durch die Web-Technologien HTML, CSS
   und JavaScript etc. mit Zurschaustellung seiner privaten Büchersammlung zu
   selbigen Themen und Surftipps wie `rotten.com` ist ein beliebtes und
