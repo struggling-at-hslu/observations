@@ -22,6 +22,12 @@ Schopenhauer)**
   Satellitenkommunikation bis ZigBee und durch alle OSI-Layer hindurch erhält
   der Studierende eine Schnellbleiche über _alles das Informatische Betreffende
   und alles damit Zusammenhängende_.
+- CSA: C# in Action ist eine Einführung in die Programmiersprache C#, die von
+  den C#-Apolegeten ‒ Leute, die sich einen Apple-Sticker auf ihr Microsoft
+  Surface kleben! ‒ immer als «viel besser als Java» bewertet wird. Nach
+  erfolgter Einführung soll ein zweimotoriger Roboter angesteuert werden, was
+  gemäss studentischen Berichten immer aufgrund schlechter Konnektivität
+  scheitere.
 - DBS: Im Modul Datenbanksysteme machen wir _Big Data_ mit cloud-basierten
   _NoSQL_-Datenbanken, die vermutlich als _Docker_-Images auf einem verteilten
   _IoT_-_Kubernetes_-Cluster laufen, mit _Blockchain_ die wir vermutlich per
@@ -29,10 +35,21 @@ Schopenhauer)**
   mittels _Augmented Reality_ **Bingo!**... Im Rahmen einer Satiresitzung lehnte
   sich der Modulverantwortliche mit der kühnen These, dass Digitalisierung ein
   wichtiger Trend sei, weit aus dem Fenster und erwähnte auch den Begriff
-  _Industrie 4.0_.
+  _Industrie 4.0_. Der Modulverantwortliche Prof. Dr. Michael Kaufmann
+  hat weder Kosten noch Mühen gescheut und erarbeitete für die Vorlesung eigene
+  sogenannte Standards, die zwar mit den wirklichen und tatsächlichen Standards
+  in Konflikt stehen, worüber aber ein von ihm selbstgeschriebenes und den
+  Studierenden über die Bibliothek zur Verfügung gestelltes Buch hinweghelfen
+  soll. Der Gruppenarbeitsstumpfsinn erreicht dabei einen neuen _Höhepunkt_,
+  sprich einen persönlichen _Tiefpunkt_. Ob wohl der Lektüre Prof. Dr. Kaufmanns
+  etwas darüber zu finden ist, wie man Theoriefragen zu viert beantwortet?
 - DMATH: Dr. Joseph Bürglers praktische Zahlentheorie und theoretische Zahlenpraxis
   mit theoretischen und praktischen Zählübungen (ohne Fingereinsatz); offiziell
   als _diskrete Mathematik_ geführt.
+- EENG: English for Engineers (und Wirtschaftsingenieure!) ist ein Modul, das
+  hält, was es verspricht; die bisher einzige Überraschung war das Ausbleiben
+  von Überraschungen. Selbst der Gruppenarbeitsstumpfsinn wird auf ein
+  erträgliches Mindestmass reduziert.
 - FKOM: Fachkommunikation oder Deutsch für Informatiker inklusive einer
   Einführung in _das Internet_ von einem Nicht-Informatiker erteilt an
   Informatiker. Es wurde gebloggt und einmal fiel sogar das Wort
@@ -68,6 +85,15 @@ Schopenhauer)**
   seienden Seinswelt (veranschaulicht durch eine hermeneutischer Dialektik
   (anhand eines teleologisch-analytischen Ansatzes (usw. usf.)))))) vermittelt
   durch Herrn Prof. Dr. nat. phil. Martin Jud veranschaulichen soll.
+- PREN I: Im Flagschiff unter den Projektmoduel dreht es sich dieses Jahr um die
+  Konzipierung einer autonomen sogenannten _Laufkatze_, die eine Last orten,
+  aufnehmen und punktgenau am Zielbereich ablegen soll. Die Gruppengrösse
+  übertrifft mit sieben bis acht jedes vernünftige Mass, die Organisation in
+  Horw ist aber derjenigen in Rotkreuz um Lichtjahre voraus. Oft wird auf das
+  Modul _Kontext 1_ verwiesen, das bei den Rotkreuzern unter den Studierenden
+  nur als Verweis in ein geistiges Vakuum verstanden wird. Melancholisch
+  veranlagte Studierende geraten dabei schon einmal ins Grübeln («Ach dort
+  hätten wir etwas über _die gute Projektführung_ erfahren sollen!»)
 - PTA: Mit der sogenannten _Projekt- und Teamarbeit_ (auf Englisch: _pointless
   team assignment_) wurde der absolute Tiefpunkt des Studiums strategisch an den
   Anfang desselben gesetzt. Das gegenseitige Kennenlernen in Sechsergruppen ‒
@@ -98,6 +124,14 @@ Schopenhauer)**
   directed english language learning_, bei dem in Zweiergruppen über ein selbst
   gewähltes Thema referiert werden musste, ist das ideale Alternativprogramm zum
   mittwöchlichen Feierabendbier.
+- VSK: Im sagenumwobenen Modul _Verteilte Systeme und Komponenten_ geht es
+  darum, eine selbst von der HSLU selbst unter HSLU-Standards als _schlecht_
+  beurteilte Software in einen ordentlicheren Zustand zu überführen. Dazu
+  doziert Herr Prof. Dr. nat. phil. Martin Jud unter anderem zu den Themen _die
+  Struktur des Strukturlosen: ein Kriegsbericht von der Modulplanungsfront_,
+  _Chaos als ästhetische Kategorie oder: wie man Java-Packages strukturiert_ und
+  schliesslich _Irrungen, Wirrungen: was uns die späte Prosa Fontanes über die
+  Konzeption und Planung von Software zu sagen hat_.
 - WEBTEC: Peter Infangers _tour de force_ durch die Web-Technologien HTML, CSS
   und JavaScript etc. mit Zurschaustellung seiner privaten Büchersammlung zu
   selbigen Themen und Surftipps wie `rotten.com` ist ein beliebtes und
