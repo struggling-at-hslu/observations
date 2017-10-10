@@ -46,5 +46,5 @@ hätte, sich vor Beginn des ersten Nachmittagslektionenblockes ein Mittagessen z
 Leibe zu führen, wurden von der Studenplanungskomission der HSLU ‒ Informatik
 damit entgegnet, dass man sich bei der Semesterplanung nicht auf studentische
 Phantastereien, sondern nur auf etablierte Fakten verlassen dürfe. Wer sich mit
-Zeitreisen und Lichtgeschwindigkeit befassen wolle, hätte sei an dieser Schule
+Zeitreisen und Lichtgeschwindigkeit befassen wolle, sei an dieser Schule
 am falschen Ort.
