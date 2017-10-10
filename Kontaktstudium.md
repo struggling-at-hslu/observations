@@ -1,4 +1,4 @@
-# Ereignisse
+# Kontaktstudium
 
 ## Einschwingen
 
@@ -20,7 +20,7 @@ künftig nur noch in Vierer- und Fünfergruppen aufzusuchen, verkündete der
 Schulleiter Prof. Dr. R. Heussler. Man sei zum Schluss gekommen, dass dies der
 Kommunikation unter den Studierenden förderlich sei, und diese dadurch weitere
 Fähigkeiten im organisatorischen Bereich _en passant_ erlangen würden. Einwände
-betreffend Privatsphäre, Selbständigkeit und Effizient seien eigenbrötlisch,
+betreffend Privatsphäre, Selbständigkeit und Effizient seien eigenbrötlerisch,
 reaktionär und kontraproduktiv; sie würden den Bemühungen der Schule, die
 Studierenden auf den Arbeitsmarkt vorzubereiten, nur entgegenlaufen.
 
