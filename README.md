@@ -107,7 +107,7 @@ Schopenhauer)**
   Bestandteil und dessen eigentlicher Zweck ‒ fand aufgrund missverständlicher
   Planung leider erst gegen Ende der ersten Semesterhälfte statt. Die
   Reflexionen, bei denen es nur scheinbar um die Reflexion der zu erstellenden
-  Arbeit zum Thema "Digitale Mobilität" ging, diente den Studierenden dazu, sich
+  Arbeit zum Thema «Digitale Mobilität» ging, diente den Studierenden dazu, sich
   Gedanken darüber zu machen, was sie denn an dieser Institution überhaupt
   verloren haben. Besonders motivierend waren dabei die vernichtenden
   Rückmeldungen auf unbefriedigend präsentierte Zwischenergebnisse von Herr Dr.
@@ -143,7 +143,7 @@ Schopenhauer)**
   und JavaScript etc. mit Zurschaustellung seiner privaten Büchersammlung zu
   selbigen Themen und Surftipps wie `rotten.com` ist ein beliebtes und
   kurzweiliges Donnerstagnachmittagsvergnügen, das unter Studierenden auch unter
-  der Modulkategorie "betreutes Surfen" geführt wird. Mit einem 6.9 Gigabyte
+  der Modulkategorie «betreutes Surfen» geführt wird. Mit einem 6.9 Gigabyte
   grossem Ubuntu-Image für ein _Hello World_-Beispiel mit AJAX kommt dabei
   _cutting edge_-Technologie höchster Güte zum Einsatz. Bei der Modulendprüfung
   ist ein hohes Bearbeitungstempo wichtig, damit man möglichst bald wieder gehen
