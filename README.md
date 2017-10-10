@@ -41,8 +41,14 @@ Schopenhauer)**
   in Konflikt stehen, worüber aber ein von ihm selbstgeschriebenes und den
   Studierenden über die Bibliothek zur Verfügung gestelltes Buch hinweghelfen
   soll. Der Gruppenarbeitsstumpfsinn erreicht dabei einen neuen _Höhepunkt_,
-  sprich einen persönlichen _Tiefpunkt_. Ob wohl der Lektüre Prof. Dr. Kaufmanns
-  etwas darüber zu finden ist, wie man Theoriefragen zu viert beantwortet?
+  sprich einen persönlichen _Tiefpunkt_. Ob wohl in der Lektüre Prof. Dr. Kaufmanns
+  etwas darüber zu finden ist, wie man Theoriefragen zu viert beantwortet...?
+  Aufgrund vieler Abwesenheiten von Prof. Dr. Kaufmann müssen die Studierenden
+  oftmals mit seinem ebenfalls aus dem universitären Fribourger Informatikfilz
+  stammenden Assistenten Denzler vorlieb nehmen, der im Nebenfach scheinbar
+  Angli*zi*stik (sic!) belegt hat (bei Prof. G. Alao?) und auch mit den
+  gängigsten Trump- und Nordkorea-Witzen bestens vertraut ist. But who cares
+  anyway?
 - DMATH: Dr. Joseph Bürglers praktische Zahlentheorie und theoretische Zahlenpraxis
   mit theoretischen und praktischen Zählübungen (ohne Fingereinsatz); offiziell
   als _diskrete Mathematik_ geführt.
