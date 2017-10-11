@@ -59,14 +59,14 @@ hochwillkommener Zustupf zu unserer Forschung!» (der Hochschulrat) ‒ bot die
 Institutsleitung an, die Studierenden zu medizinischen Studien den beiden
 Pharmafirmen «selbstverständlich kostenlos» (der Institutsleiter) zur Verfügung
 zu stellen. Die Pharmafirmen, dankbar für die zupackende Mithilfe der
-Hochschule, beschloss, der einen Gruppe _ein leichtes Beruhigungsmittel_, der
-anderen Gruppe _ein starkes Aufputschmittel_ zu verabreichen, was zu diesem
-Zweck unter Aufsicht eines Pharmareferenten vom Kantinenpersonal in den
-entsprechenden, vorher aufs Genaueste bestimmten Dosen unter das Mittagsmenü
-gemischt wurde. Als der Pharmareferent die Studierenden nach dem eingenommenen
-Essen und dem darauf absolvierten ersten Nachmittagsblock zu ihrem Wohlbefinden
-und zu ihrer selbst eingeschätzten Leistungsfähigkeit befragen wollte, musste er
-die verheisungsvolle Studie jedoch abbrechen, da in der Vorlesung von Prof. K.
-Uhrmann sämtliche Zuhörer ins Koma gefallen waren und bisher noch nicht wieder
-aufgewacht sind. Unter Laborbedingungen konnte der Effekt bis dato nicht
-reproduziert werden.
+Hochschule, beschloss, im Rahmen eines _Doppelblindtests_ der einen Gruppe _ein
+leichtes Beruhigungsmittel_, der anderen Gruppe _ein starkes Aufputschmittel_ zu
+verabreichen, was zu diesem Zweck unter Aufsicht des Pharmastudienleiters vom
+Kantinenpersonal in den entsprechenden, vorher aufs Genaueste bestimmten Dosen
+unter das Mittagsmenü gemischt wurde. Als der Pharmastudienleiter die
+Studierenden nach dem eingenommenen Essen und dem darauf absolvierten ersten
+Nachmittagsblock zu ihrem Wohlbefinden und zu ihrer selbst eingeschätzten
+Leistungsfähigkeit befragen wollte, musste er die verheisungsvolle Studie jedoch
+abbrechen, da in der Vorlesung von Prof. K.  Uhrmann sämtliche Zuhörer ins Koma
+gefallen waren und bisher noch nicht wieder aufgewacht sind. Unter
+Laborbedingungen konnte der Effekt bis dato nicht reproduziert werden.
