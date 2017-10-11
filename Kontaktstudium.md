@@ -66,7 +66,7 @@ entsprechenden, vorher aufs Genaueste bestimmten Dosen unter das Mittagsmenü
 gemischt wurde. Als der Pharmareferent die Studierenden nach dem eingenommenen
 Essen und dem darauf absolvierten ersten Nachmittagsblock zu ihrem Wohlbefinden
 und zu ihrer selbst eingeschätzten Leistungsfähigkeit befragen wollte, musste er
-die verheisungsvolle Studie jedoch abbrechen, da in der Vorlesung von Prof. K
+die verheisungsvolle Studie jedoch abbrechen, da in der Vorlesung von Prof. K.
 Uhrmann sämtliche Zuhörer ins Koma gefallen waren und bisher noch nicht wieder
 aufgewacht sind. Unter Laborbedingungen konnte der Effekt bis dato nicht
 reproduziert werden.
