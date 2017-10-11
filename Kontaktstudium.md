@@ -61,7 +61,7 @@ Pharmafirmen «selbstverständlich kostenlos» (der Institutsleiter) zur Verfüg
 zu stellen. Die Pharmafirmen, dankbar für die zupackende Mithilfe der
 Hochschule, beschloss, der einen Gruppe _ein leichtes Beruhigungsmittel_, der
 anderen Gruppe _ein starkes Aufputschmittel_ zu verabreichen, was zu diesem
-Zweck unter Aufsicht eines Pharmareferenten vom Kantinenpersonals in den
+Zweck unter Aufsicht eines Pharmareferenten vom Kantinenpersonal in den
 entsprechenden, vorher aufs Genaueste bestimmten Dosen unter das Mittagsmenü
 gemischt wurde. Als der Pharmareferent die Studierenden nach dem eingenommenen
 Essen und dem darauf absolvierten ersten Nachmittagsblock zu ihrem Wohlbefinden
