@@ -1,6 +1,4 @@
-# Kontaktstudium
-
-## Einschwingen
+# Einschwingen
 
 Pünktlich zum Beginn des Kontaktstudiums, also am Montag der Kalenderwoche 38,
 aber keinesfalls am Montag*morgen* dieser Woche, wurde einem Studierenden der
@@ -13,7 +11,7 @@ bereits vor Semesterbeginn kommuniziertes Problem. Es habe sich eben noch nicht
 alles eingeschwungen, dies gelte eben auch für die Gebäudetechnik. Aber man
 arbeite daran.
 
-## In Gruppen
+# In Gruppen
 
 Aus organisatorischen und didaktischen Gründen seien die Toilettenkabinen
 künftig nur noch in Vierer- und Fünfergruppen aufzusuchen, verkündete der
@@ -24,7 +22,7 @@ betreffend Privatsphäre, Selbständigkeit und Effizient seien eigenbrötlerisch
 reaktionär und kontraproduktiv; sie würden den Bemühungen der Schule, die
 Studierenden auf den Arbeitsmarkt vorzubereiten, nur entgegenlaufen.
 
-## Verlustrechnung
+# Verlustrechnung
 
 Als sich in einer Vorlesung von Prof. Dr. H. Emmerli zum Thema Risikomanagement
 plötzlich ein Element der Deckenverkleidung löste, herunterdonnerte, dabei
@@ -36,7 +34,7 @@ entstandene Schadensausmass zu kalkulieren. Mit der Bemerkung, dass es ein Segen
 sei, solch gutes Anschauungsmaterial frei Haus geliefert zu bekommen,
 verabschiedete er die Überlebenden ins Wochenende.
 
-## Fortbewegung
+# Fortbewegung
 
 Gerüchte, dass es einer Gruppe von Studierenden der Informatik, Elektrotechnik
 und des Maschinenbaus in einem gemeinsamen interdisziplinärem Projekt gelungen
@@ -49,7 +47,7 @@ Phantastereien, sondern nur auf etablierte Fakten verlassen dürfe. Wer sich mit
 Zeitreisen und Lichtgeschwindigkeit befassen wolle, sei an dieser Schule
 am falschen Ort.
 
-## Doppelblindtest
+# Doppelblindtest
 
 Sich für die finanzielle Unterstützung zweier grosser ortsansässiger
 Pharmafirmen bedankend ‒ «eine überaus grosszügige Spende!» (die
