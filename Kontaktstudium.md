@@ -31,9 +31,9 @@ plötzlich ein Element der Deckenverkleidung löste, herunterdonnerte, dabei
 mehrere Studierende im Vorlesungssaal erschlug, andere bloss schwer verletzte
 und dabei auch noch mehrere studentische Laptops zu Bruch gingen und
 dementsprechend Datenverlust entstand, griff der Dozierende ‒ ein Praktiker! ‒
-sogleich zu seinem Taschenrechner, um das dabei entstandene Schadensausmass zu
-kalkulieren. Mit der Bemerkung, dass sei ein Segen sei, solch gutes
-Anschauungsmaterial frei Haus geliefert zu bekommen, verabschiedete er die
+geistesgegenwärtig zu seinem Taschenrechner, um das dabei entstandene
+Schadensausmass zu kalkulieren. Mit der Bemerkung, dass es ein Segen sei, solch
+gutes Anschauungsmaterial frei Haus geliefert zu bekommen, verabschiedete er die
 Überlebenden ins Wochenende.
 
 ## Fortbewegung
@@ -48,3 +48,25 @@ damit entgegnet, dass man sich bei der Semesterplanung nicht auf studentische
 Phantastereien, sondern nur auf etablierte Fakten verlassen dürfe. Wer sich mit
 Zeitreisen und Lichtgeschwindigkeit befassen wolle, sei an dieser Schule
 am falschen Ort.
+
+## Doppelblindtest
+
+Sich für die finanziellen Unterstützung zweier grosser ortsansässiger
+Pharmafirmen bedankend ‒ «eine überaus grosszügige Spende!» (die
+Studiengangleitung); «ein selbstloser Beitrag an unser aufstrebendes Institut!»
+(das Rektorat); «ein im Anflug altruistischer Spendierfreude getätigter
+hochwillkommener Zustupf zu unserer Forschung!» (der Hochschulrat) ‒ bot die
+Institutsleitung an, die Studierenden zu medizinischen Studien den beiden
+Pharmafirmen «selbstverständlich kostenlos» (der Institutsleiter) zur Verfügung
+zu stellen. Die Pharmafirmen, dankbar für die zupackende Mithilfe von der
+Hochschule, beschloss, der einen Gruppe _ein leichtes Beruhigungsmittel_ und der
+anderen Gruppe _ein starkes Aufputschmittel_ zu verabreichen, was zu diesem
+Zweck unter Aufsicht eines Pharmareferenten vom Kantinenpersonals in den
+entsprechenden, vorher aufs Genaueste bestimmten Dosen unter das Mittagsmenü
+gemischt wurde. Als der Pharmareferent die Studierenden nach dem eingenommenen
+Essen und dem darauf absolvierten ersten Nachmittagsblock zu ihrem Wohlbefinden
+und zu ihrer selbst eingeschätzten Leistungsfähigkeit befragen wollte, musste er
+die verheisungsvolle Studie jedoch abbrechen, da in der Vorlesung von Prof. A
+Kurer sämtliche Zuhörer ins Koma gefallen waren und bisher noch nicht wieder
+aufgewacht sind. Unter Laborbedingungen konnte der Effekt bis dato nicht
+reproduziert werden.
