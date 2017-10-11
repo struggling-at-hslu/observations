@@ -28,13 +28,13 @@ Studierenden auf den Arbeitsmarkt vorzubereiten, nur entgegenlaufen.
 
 Als sich in einer Vorlesung von Prof. Dr. H. Emmerli zum Thema Risikomanagement
 plötzlich ein Element der Deckenverkleidung löste, herunterdonnerte, dabei
-mehrere Studierende im Vorlesungssaal erschlug, andere bloss schwer verletzte
-und dabei auch noch mehrere studentische Laptops zu Bruch gingen und
-dementsprechend Datenverlust entstand, griff der Dozierende ‒ ein Praktiker! ‒
-geistesgegenwärtig zu seinem Taschenrechner, um das dabei entstandene
-Schadensausmass zu kalkulieren. Mit der Bemerkung, dass es ein Segen sei, solch
-gutes Anschauungsmaterial frei Haus geliefert zu bekommen, verabschiedete er die
-Überlebenden ins Wochenende.
+mehrere Studierende im Vorlesungssaal erschlug, andere bloss verletzte, die
+meisten davon schwer, und dabei auch noch mehrere studentische Laptops zu Bruch
+gingen und dementsprechend Datenverlust entstand, griff der Dozierende ‒ ein
+Praktiker! ‒ geistesgegenwärtig zu seinem Taschenrechner, um das dabei
+entstandene Schadensausmass zu kalkulieren. Mit der Bemerkung, dass es ein Segen
+sei, solch gutes Anschauungsmaterial frei Haus geliefert zu bekommen,
+verabschiedete er die Überlebenden ins Wochenende.
 
 ## Fortbewegung
 
