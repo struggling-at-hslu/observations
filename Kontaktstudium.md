@@ -26,7 +26,7 @@ Studierenden auf den Arbeitsmarkt vorzubereiten, nur entgegenlaufen.
 
 ## Verlustrechnung
 
-Als sich in einer Vorlesung von Prof. Dr. B. Hamster zum Thema Risikomanagement
+Als sich in einer Vorlesung von Prof. Dr. H. Emmerli zum Thema Risikomanagement
 plötzlich ein Element der Deckenverkleidung löste, herunterdonnerte, dabei
 mehrere Studierende im Vorlesungssaal erschlug, andere bloss schwer verletzte
 und dabei auch noch mehrere studentische Laptops zu Bruch gingen und
@@ -66,7 +66,7 @@ entsprechenden, vorher aufs Genaueste bestimmten Dosen unter das Mittagsmenü
 gemischt wurde. Als der Pharmareferent die Studierenden nach dem eingenommenen
 Essen und dem darauf absolvierten ersten Nachmittagsblock zu ihrem Wohlbefinden
 und zu ihrer selbst eingeschätzten Leistungsfähigkeit befragen wollte, musste er
-die verheisungsvolle Studie jedoch abbrechen, da in der Vorlesung von Prof. A
-Kurer sämtliche Zuhörer ins Koma gefallen waren und bisher noch nicht wieder
+die verheisungsvolle Studie jedoch abbrechen, da in der Vorlesung von Prof. K
+Uhrmann sämtliche Zuhörer ins Koma gefallen waren und bisher noch nicht wieder
 aufgewacht sind. Unter Laborbedingungen konnte der Effekt bis dato nicht
 reproduziert werden.
