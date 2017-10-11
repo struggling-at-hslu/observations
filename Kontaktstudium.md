@@ -51,15 +51,15 @@ am falschen Ort.
 
 ## Doppelblindtest
 
-Sich für die finanziellen Unterstützung zweier grosser ortsansässiger
+Sich für die finanzielle Unterstützung zweier grosser ortsansässiger
 Pharmafirmen bedankend ‒ «eine überaus grosszügige Spende!» (die
 Studiengangleitung); «ein selbstloser Beitrag an unser aufstrebendes Institut!»
 (das Rektorat); «ein im Anflug altruistischer Spendierfreude getätigter
 hochwillkommener Zustupf zu unserer Forschung!» (der Hochschulrat) ‒ bot die
 Institutsleitung an, die Studierenden zu medizinischen Studien den beiden
 Pharmafirmen «selbstverständlich kostenlos» (der Institutsleiter) zur Verfügung
-zu stellen. Die Pharmafirmen, dankbar für die zupackende Mithilfe von der
-Hochschule, beschloss, der einen Gruppe _ein leichtes Beruhigungsmittel_ und der
+zu stellen. Die Pharmafirmen, dankbar für die zupackende Mithilfe der
+Hochschule, beschloss, der einen Gruppe _ein leichtes Beruhigungsmittel_, der
 anderen Gruppe _ein starkes Aufputschmittel_ zu verabreichen, was zu diesem
 Zweck unter Aufsicht eines Pharmareferenten vom Kantinenpersonals in den
 entsprechenden, vorher aufs Genaueste bestimmten Dosen unter das Mittagsmenü
