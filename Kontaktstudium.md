@@ -1,6 +1,6 @@
 # Einschwingen
 
-Pünktlich zum Beginn des Kontaktstudiums, also am Montag der Kalenderwoche 38,
+Pünktlich zu Beginn des Kontaktstudiums, also am Montag der Kalenderwoche 38,
 aber keinesfalls am Montag*morgen* dieser Woche, wurde einem Studierenden der
 HSLU ‒ Informatik auf dem Suurstoffi-Areal in Rotkreuz vom automatischen
 Türöffnungs- und -schliessmechanismus ein Arm abgetrennt. Der Studiengangleiter
@@ -57,7 +57,7 @@ hochwillkommener Zustupf zu unserer Forschung!» (der Hochschulrat) ‒ bot die
 Institutsleitung an, die Studierenden zu medizinischen Studien den beiden
 Pharmafirmen «selbstverständlich kostenlos» (der Institutsleiter) zur Verfügung
 zu stellen. Die Pharmafirmen, dankbar für die zupackende Mithilfe der
-Hochschule, beschloss, im Rahmen eines _Doppelblindtests_ der einen Gruppe _ein
+Hochschule, beschlossen, im Rahmen eines _Doppelblindtests_ der einen Gruppe _ein
 leichtes Beruhigungsmittel_, der anderen Gruppe _ein starkes Aufputschmittel_ zu
 verabreichen, was zu diesem Zweck unter Aufsicht des Pharmastudienleiters vom
 Kantinenpersonal in den entsprechenden, vorher aufs Genaueste bestimmten Dosen

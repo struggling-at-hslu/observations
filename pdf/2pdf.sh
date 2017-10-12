@@ -1,6 +1,6 @@
 #!/bin/sh
 
-INFILE=Kontaktstudium.md
+INFILE=../Kontaktstudium.md
 OUTFILE=Kontaktstudium.pdf
 
 pandoc -S -s \
