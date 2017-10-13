@@ -65,6 +65,21 @@ unter das Mittagsmenü gemischt wurde. Als der Pharmastudienleiter die
 Studierenden nach dem eingenommenen Essen und dem darauf absolvierten ersten
 Nachmittagsblock zu ihrem Wohlbefinden und zu ihrer selbst eingeschätzten
 Leistungsfähigkeit befragen wollte, musste er die verheissungsvolle Studie jedoch
-abbrechen, da in der Vorlesung von Prof. K.  Uhrmann sämtliche Zuhörer ins Koma
+abbrechen, da in der Vorlesung von Prof. K. Uhrmann sämtliche Zuhörer ins Koma
 gefallen waren und bisher noch nicht wieder aufgewacht sind. Unter
 Laborbedingungen konnte der Effekt bis dato nicht reproduziert werden.
+
+# Die Antiquiertheit des Menschen
+
+Als sich nach einer Datenbankvorlesungen mehrere Studierende das Leben nehmen
+wollten ‒ einige legten sich vor dem Bahnhof Rotkreuz auf die Geleise, andere
+versuchten vom Gebäude S41 unter Anleitung von Prof. Dr. Rosenzweig aus dem
+dritten Stock zu springen, wieder andere stellten sich in die Türöffnung des
+Haupteingangs, um sich so vom automatischen Türöffnungs- und
+-schliessmechanismus erdrücken zu lassen; manche betätigten den
+_Zitronentee_-Knopf am Heissgetränktautomaten ‒ wollte der Dozierende Prof. Dr.
+K. de Man seine These von der Überholtheit des Menschen und seinem veralteten,
+viel zu wenig leistungsvollem Gehirn («dieser elende Legacy-Fleischapparat mit
+all den Fehlfunktionen!») nicht zurücknehmen oder auch nur relativieren. Über
+die Selbstmordversuche konnte er aber nur den Kopf schütteln, denn man solle ja
+schliesslich _der Sache nicht vorgreifen_.
