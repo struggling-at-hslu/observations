@@ -1,7 +1,7 @@
 #!/bin/sh
 
-INFILE=../Kontaktstudium.md
-OUTFILE=Kontaktstudium.pdf
+INFILE=kontaktstudium.md
+OUTFILE=kontaktstudium.pdf
 
 pandoc -S -s \
     --variable papersize=a4 \
