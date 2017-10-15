@@ -1,7 +1,7 @@
 # Einschwingen
 
 Pünktlich zu Beginn des Kontaktstudiums, also am Montag der Kalenderwoche 38,
-aber keinesfalls am Montag*morgen* dieser Woche, wurde einem Studierenden der
+aber keinesfalls am Montag*morgen* dieser Woche, wurde einem Studenten der
 HSLU ‒ Informatik auf dem Suurstoffi-Areal in Rotkreuz vom automatischen
 Türöffnungs- und -schliessmechanismus ein Arm abgetrennt. Der Studiengangleiter
 Prof. Dr. D. Helmer meinte dazu vor der Presse Stellung nehmend, dass man mit
@@ -16,17 +16,18 @@ arbeite daran.
 Aus organisatorischen und didaktischen Gründen seien die Toilettenkabinen
 künftig nur noch in Vierer- und Fünfergruppen aufzusuchen, verkündete der
 Schulleiter Prof. Dr. R. Heussler. Man sei zum Schluss gekommen, dass dies der
-Kommunikation unter den Studierenden förderlich sei, und diese dadurch weitere
+Kommunikation unter den Studenten förderlich sei, und diese dadurch weitere
 Fähigkeiten im organisatorischen Bereich _en passant_ erlangen würden. Einwände
 betreffend Privatsphäre, Selbständigkeit und Effizient seien eigenbrötlerisch,
 reaktionär und kontraproduktiv; sie würden den Bemühungen der Schule, die
-Studierenden auf den Arbeitsmarkt vorzubereiten, nur entgegenlaufen.
+Studenten auf den Arbeitsmarkt und somit _auf die Praxis_ vorzubereiten, nur
+entgegenlaufen.
 
 # Verlustrechnung
 
 Als sich in einer Vorlesung von Prof. Dr. H. Emmerli zum Thema Risikomanagement
 plötzlich ein Element der Deckenverkleidung löste, herunterdonnerte, dabei
-mehrere Studierende im Vorlesungssaal erschlug, andere bloss verletzte, die
+mehrere Studenten im Vorlesungssaal erschlug, andere bloss verletzte, die
 meisten davon schwer, und dabei auch noch mehrere studentische Laptops zu Bruch
 gingen und dementsprechend Datenverlust entstand, griff der Dozierende ‒ ein
 Praktiker! ‒ geistesgegenwärtig zu seinem Taschenrechner, um das dabei
@@ -36,7 +37,7 @@ verabschiedete er die Überlebenden ins Wochenende.
 
 # Fortbewegung
 
-Gerüchte, dass es einer Gruppe von Studierenden der Informatik, Elektrotechnik
+Gerüchte, dass es einer Gruppe von Studenten der Informatik, Elektrotechnik
 und des Maschinenbaus in einem gemeinsamen interdisziplinärem Projekt gelungen
 sei, ein Fortbewegungsmittel zu entwickeln, womit man um 12 Uhr Mittag in Horw
 abfahrend Rotkreuz noch weit vor 13 Uhr erreichen, und also sogar noch Zeit
@@ -54,7 +55,7 @@ Pharmafirmen bedankend ‒ «eine überaus grosszügige Spende!» (die
 Studiengangleitung); «ein selbstloser Beitrag an unser aufstrebendes Institut!»
 (das Rektorat); «ein im Anflug altruistischer Spendierfreude getätigter
 hochwillkommener Zustupf zu unserer Forschung!» (der Hochschulrat) ‒ bot die
-Institutsleitung an, die Studierenden zu medizinischen Studien den beiden
+Institutsleitung an, die Studenten zu medizinischen Studien den beiden
 Pharmafirmen «selbstverständlich kostenlos» (der Institutsleiter) zur Verfügung
 zu stellen. Die Pharmafirmen, dankbar für die zupackende Mithilfe der
 Hochschule, beschlossen, im Rahmen eines _Doppelblindtests_ der einen Gruppe _ein
@@ -62,7 +63,7 @@ leichtes Beruhigungsmittel_, der anderen Gruppe _ein starkes Aufputschmittel_ zu
 verabreichen, was zu diesem Zweck unter Aufsicht des Pharmastudienleiters vom
 Kantinenpersonal in den entsprechenden, vorher aufs Genaueste bestimmten Dosen
 unter das Mittagsmenü gemischt wurde. Als der Pharmastudienleiter die
-Studierenden nach dem eingenommenen Essen und dem darauf absolvierten ersten
+Studenten nach dem eingenommenen Essen und dem darauf absolvierten ersten
 Nachmittagsblock zu ihrem Wohlbefinden und zu ihrer selbst eingeschätzten
 Leistungsfähigkeit befragen wollte, musste er die verheissungsvolle Studie jedoch
 abbrechen, da in der Vorlesung von Prof. K. Uhrmann sämtliche Zuhörer ins Koma
@@ -71,7 +72,7 @@ Laborbedingungen konnte der Effekt bis dato nicht reproduziert werden.
 
 # Die Antiquiertheit des Menschen
 
-Als sich nach einer Datenbankvorlesungen mehrere Studierende das Leben nehmen
+Als sich nach einer Datenbankvorlesungen mehrere Studenten das Leben nehmen
 wollten ‒ einige legten sich vor dem Bahnhof Rotkreuz auf die Geleise, andere
 versuchten vom Gebäude S41 unter Anleitung von Prof. Dr. Rosenzweig aus dem
 dritten Stock zu springen, wieder andere stellten sich in die Türöffnung des
@@ -83,3 +84,20 @@ viel zu wenig leistungsvollem Gehirn («dieser elende Legacy-Fleischapparat mit
 all den Fehlfunktionen!») nicht zurücknehmen oder auch nur relativieren. Über
 die Selbstmordversuche konnte er aber nur den Kopf schütteln, denn man solle ja
 schliesslich _der Sache nicht vorgreifen_.
+
+# Orgie
+
+Sich nach einer scheinbar ausgearteten Vorlesung über die Studenten 
+beklagend, rapportierte Prof. K. Uhrmann seine Beschwerde wie folgt an die
+Schulleitung: «unerlaubter Einsatz von Pyrotechnik im Vorlesungsraum; Lärmpegel
+sondergleichen, v.a. lautes Gelächter, sodass an Vorlesungsbetrieb nicht zu
+denken war; ausgelassene Stimmung; starke Unordnung: Gegenstände, die im
+Vorlesungsbetrieb nichts verloren haben, kreuz und quer durch den Vorlesungsraum
+verteilt; Studenten verschleierten ihre Identität mittels travestierender,
+eigens zu diesem Zweck in den Vorlesungsraum eingeschleuster
+Köstumierungsartikel; Abfeuern von Projektilen mittels Druckluftwaffen in
+Richtung der Leinwand; ohrenbetäubender Lärm durch die Betätigung primitivster
+Blasinstrumente usw. usf.; von Lehrbetrieb konnte keine Rede sein, _Orgie_ wäre
+das passende Wort!». Mit diesen Vorwürfen konfrontiert, gab ein Student
+schliesslich zu Protokoll, er habe während der Vorlesung eine Tischbombe
+abgefeuert.
