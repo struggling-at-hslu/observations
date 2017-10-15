@@ -7,21 +7,22 @@ Türöffnungs- und -schliessmechanismus ein Arm abgetrennt. Der Studiengangleite
 Prof. Dr. D. Helmer meinte dazu vor der Presse Stellung nehmend, dass man mit
 solcherlei Problemen in der Anfangsphase noch zu rechnen habe. Die Fehlfunktion
 des automatischen Türöffnungs- und -schliessmechanismus sei ein bekanntes und
-bereits vor Semesterbeginn kommuniziertes Problem. Es habe sich eben noch nicht
-alles eingeschwungen, dies gelte eben auch für die Gebäudetechnik. Aber man
+bereits vor Semesterbeginn kommuniziertes Problem. Es habe sich eben _noch nicht
+alles eingeschwungen_, dies gelte eben auch für die Gebäudetechnik. Aber man
 arbeite daran.
 
 # In Gruppen
 
 Aus organisatorischen und didaktischen Gründen seien die Toilettenkabinen
 künftig nur noch in Vierer- und Fünfergruppen aufzusuchen, verkündete der
-Schulleiter Prof. Dr. R. Heussler. Man sei zum Schluss gekommen, dass dies der
-Kommunikation unter den Studenten förderlich sei, und diese dadurch weitere
-Fähigkeiten im organisatorischen Bereich _en passant_ erlangen würden. Einwände
-betreffend Privatsphäre, Selbständigkeit und Effizient seien eigenbrötlerisch,
-reaktionär und kontraproduktiv; sie würden den Bemühungen der Schule, die
-Studenten auf den Arbeitsmarkt und somit _auf die Praxis_ vorzubereiten, nur
-entgegenlaufen.
+Schulleiter Prof. Dr. R. Heussler zu Beginn des Herbstsemesters 2017. Man sei
+zum Schluss gekommen, dass dies der Kommunikation unter den Studenten förderlich
+sei, und diese dadurch weitere Fähigkeiten im organisatorischen und
+zwischenmenschlichen Bereich _en passant_ erlangen würden. Einwände betreffend
+Privatsphäre, Selbständigkeit, Effektivität und Spontaneität seien
+eigenbrötlerisch, reaktionär und kontraproduktiv; sie würden den Bemühungen der
+Schule, die Studenten auf den Arbeitsmarkt und somit _auf die Praxis_
+vorzubereiten, nur entgegenlaufen.
 
 # Verlustrechnung
 
@@ -40,7 +41,7 @@ verabschiedete er die Überlebenden ins Wochenende.
 Gerüchte, dass es einer Gruppe von Studenten der Informatik, Elektrotechnik
 und des Maschinenbaus in einem gemeinsamen interdisziplinärem Projekt gelungen
 sei, ein Fortbewegungsmittel zu entwickeln, womit man um 12 Uhr Mittag in Horw
-abfahrend Rotkreuz noch weit vor 13 Uhr erreichen, und also sogar noch Zeit
+abfahrend Rotkreuz noch weit vor 13 Uhr erreichen könnte, und also sogar noch Zeit
 hätte, sich vor Beginn des ersten Nachmittagslektionenblockes ein Mittagessen zu
 Leibe zu führen, wurden von der Studenplanungskomission der HSLU ‒ Informatik
 damit entgegnet, dass man sich bei der Semesterplanung nicht auf studentische
@@ -55,20 +56,23 @@ Pharmafirmen bedankend ‒ «eine überaus grosszügige Spende!» (die
 Studiengangleitung); «ein selbstloser Beitrag an unser aufstrebendes Institut!»
 (das Rektorat); «ein im Anflug altruistischer Spendierfreude getätigter
 hochwillkommener Zustupf zu unserer Forschung!» (der Hochschulrat) ‒ bot die
-Institutsleitung an, die Studenten zu medizinischen Studien den beiden
-Pharmafirmen «selbstverständlich kostenlos» (der Institutsleiter) zur Verfügung
-zu stellen. Die Pharmafirmen, dankbar für die zupackende Mithilfe der
-Hochschule, beschlossen, im Rahmen eines _Doppelblindtests_ der einen Gruppe _ein
-leichtes Beruhigungsmittel_, der anderen Gruppe _ein starkes Aufputschmittel_ zu
-verabreichen, was zu diesem Zweck unter Aufsicht des Pharmastudienleiters vom
-Kantinenpersonal in den entsprechenden, vorher aufs Genaueste bestimmten Dosen
-unter das Mittagsmenü gemischt wurde. Als der Pharmastudienleiter die
-Studenten nach dem eingenommenen Essen und dem darauf absolvierten ersten
-Nachmittagsblock zu ihrem Wohlbefinden und zu ihrer selbst eingeschätzten
-Leistungsfähigkeit befragen wollte, musste er die verheissungsvolle Studie jedoch
-abbrechen, da in der Vorlesung von Prof. K. Uhrmann sämtliche Zuhörer ins Koma
-gefallen waren und bisher noch nicht wieder aufgewacht sind. Unter
-Laborbedingungen konnte der Effekt bis dato nicht reproduziert werden.
+Hochschule an, die Studenten zu medizinischen Studien den beiden Pharmafirmen ‒
+«selbstverständlich kostenlos» (die Studiengangleitung!); «ohne Anspruch auf
+etwaige Wiedergutmachung im Schadensfall» (das Rektorat!); «die
+innovationshemmende Sorgfaltspflicht getrost hintanstellend» (der Hochschulrat!)
+‒  zur Verfügung zu stellen. Die Pharmafirmen, dankbar für die zupackende
+Mithilfe der Hochschule, beschlossen, im Rahmen eines _Doppelblindtests_ der
+einen Gruppe _ein leichtes Beruhigungsmittel_, der anderen Gruppe _ein starkes
+Aufputschmittel_ zu verabreichen, was zu diesem Zweck unter Aufsicht des
+Pharmastudienleiters vom Kantinenpersonal in den entsprechenden, vorher aufs
+Genaueste bestimmten Dosen unter das Mittagsmenü gemischt wurde. Als der
+Pharmastudienleiter die Studenten nach dem eingenommenen Essen und dem darauf
+absolvierten ersten Nachmittagsblock zu ihrem Wohlbefinden und zu ihrer selbst
+eingeschätzten Leistungsfähigkeit befragen wollte, musste er die
+verheissungsvolle Studie jedoch abbrechen, da in der Vorlesung von Prof. K.
+Uhrmann sämtliche Zuhörer ins Koma gefallen waren und bisher noch nicht wieder
+aufgewacht sind. Unter Laborbedingungen konnte der Effekt bis dato nicht
+reproduziert werden.
 
 # Die Antiquiertheit des Menschen
 
@@ -80,7 +84,7 @@ Haupteingangs, um sich so vom automatischen Türöffnungs- und
 -schliessmechanismus erdrücken zu lassen; manche betätigten den
 _Zitronentee_-Knopf am Heissgetränktautomaten ‒ wollte der Dozierende Prof. Dr.
 K. de Man seine These von der Überholtheit des Menschen und seinem veralteten,
-viel zu wenig leistungsvollem Gehirn («dieser elende Legacy-Fleischapparat mit
+viel zu wenig leistungsfähigen Gehirn («dieser elende Legacy-Fleischapparat mit
 all den Fehlfunktionen!») nicht zurücknehmen oder auch nur relativieren. Über
 die Selbstmordversuche konnte er aber nur den Kopf schütteln, denn man solle ja
 schliesslich _der Sache nicht vorgreifen_.
