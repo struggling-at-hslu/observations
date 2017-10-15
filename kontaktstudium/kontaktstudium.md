@@ -56,7 +56,7 @@ Pharmafirmen bedankend ‒ «eine überaus grosszügige Spende!» (die
 Studiengangleitung); «ein selbstloser Beitrag an unser aufstrebendes Institut!»
 (das Rektorat); «ein im Anflug altruistischer Spendierfreude getätigter
 hochwillkommener Zustupf zu unserer Forschung!» (der Hochschulrat) ‒ bot die
-Hochschule an, die Studenten zu medizinischen Studien den beiden Pharmafirmen ‒
+Hochschule an, ihre Studenten zu medizinischen Studien den beiden Pharmafirmen ‒
 «selbstverständlich kostenlos» (die Studiengangleitung!); «ohne Anspruch auf
 etwaige Wiedergutmachung im Schadensfall» (das Rektorat!); «die
 innovationshemmende Sorgfaltspflicht getrost hintanstellend» (der Hochschulrat!)
@@ -101,7 +101,7 @@ verteilt; Studenten verschleierten ihre Identität mittels travestierender,
 eigens zu diesem Zweck in den Vorlesungsraum eingeschleuster
 Kostümierungsartikel; Abfeuern von Projektilen mittels Druckluftwaffen in
 Richtung der Leinwand; ohrenbetäubender Lärm durch die Betätigung primitivster
-Blasinstrumente usw. usf.; von Lehrbetrieb konnte keine Rede sein, _Orgie_ wäre
-das passende Wort!». Mit diesen Vorwürfen konfrontiert, gab ein Student
+Blasinstrumente usw. usf.; von Lehrbetrieb konnte keine Rede sein, _Orgie_ wäre 
+das passende Wort dafür!». Mit diesen Vorwürfen konfrontiert, gab ein Student
 schliesslich zu Protokoll, er habe während der Vorlesung eine Tischbombe
-abgefeuert.
+gezündet.
