@@ -95,7 +95,7 @@ denken war; ausgelassene Stimmung; starke Unordnung: Gegenstände, die im
 Vorlesungsbetrieb nichts verloren haben, kreuz und quer durch den Vorlesungsraum
 verteilt; Studenten verschleierten ihre Identität mittels travestierender,
 eigens zu diesem Zweck in den Vorlesungsraum eingeschleuster
-Köstumierungsartikel; Abfeuern von Projektilen mittels Druckluftwaffen in
+Kostümierungsartikel; Abfeuern von Projektilen mittels Druckluftwaffen in
 Richtung der Leinwand; ohrenbetäubender Lärm durch die Betätigung primitivster
 Blasinstrumente usw. usf.; von Lehrbetrieb konnte keine Rede sein, _Orgie_ wäre
 das passende Wort!». Mit diesen Vorwürfen konfrontiert, gab ein Student
