@@ -105,3 +105,23 @@ Blasinstrumente usw. usf.; von Lehrbetrieb konnte keine Rede sein, _Orgie_ wäre
 das passende Wort dafür!». Mit diesen Vorwürfen konfrontiert, gab ein Student
 schliesslich zu Protokoll, er habe während der Vorlesung eine Tischbombe
 gezündet.
+
+# Inkompetenz
+
+Als zu Beginn der ersten Abendlektion kurz nach halb sieben Uhr an einem
+Dienstagabend Herr Prof. Dr. phil. Ister gerade seine erste PowerPoint-Folie auf
+die Leinwand projizieren liess, sprang ein gewisser Gneisberger,
+Informatikstudent des dritten Semesters, auf, griff in seinem Rucksack nach
+seiner Axt, die er noch kurz zuvor in der Abendpause auf einer Parkbank sitzend
+fein säuberlich geschärft hatte, stürmte nach vorne und begann auf Leinwand und
+Projektor einzuschlagen, sodass von der vormals projizierten Folie schon nach
+wenigen Augenblicken nichts mehr zu sehen war, die Leinwand zerfetzt von der
+Decke hing und die Trümmer des Projektors im ganzen Raum verstreut herumlagen.
+Mit den Worten, dass er seine Pflicht für den heutigen Abend getan habe, packte
+er Laptop und Axt zusammen und verliess den Vorlesungssaal. Von der Polizei
+aufgegriffen nach seiner Motivation für diese Tat gefragt, soll er damit
+geantwortet haben, dass der Professor auf der Folie die Schriftart _Comic Sans
+MS_ verwendet hätte. Ausserdem soll dieser an einer Stelle einen Bindestrich
+vergessen und an einer anderen Stelle nach dem Fugen-S ein naturgemäss unnötiges
+Leerzeichen eingefügt haben. Es sei _«diese himmelschreiende Inkompetenz»_
+(Gneisberger) gewesen, die _das Fass zum Überlaufen_ gebracht hätte.
