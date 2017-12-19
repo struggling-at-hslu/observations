@@ -25,17 +25,10 @@ Schopenhauer)**
   _NoSQL_-Datenbanken, die als _Docker_-Images auf einem verteilten
   _IoT_-_Kubernetes_-Cluster laufen, mit _Blockchain_, die wir per verteiltem
   Echtzeit-Java manipulieren, per _Machine Learning_ trainieren und mittels
-  _Augmented Reality_ *BINGO!*... Im Rahmen einer Satiresitzung lehnte sich
+  _Augmented Reality_ ... _BINGO!_ Im Rahmen einer Satiresitzung lehnte sich
   der Modulverantwortliche Prof. Dr. Michael Kaufmann mit der kühnen These, dass
   Digitalisierung ein wichtiger Trend sei, weit aus dem Fenster und erwähnte
-  auch den Begriff _Industrie 4.0_. Für die Vorlesungen erarbeitete er eigene
-  sogenannte Standards, die zwar mit den wirklichen und tatsächlichen Standards
-  in Konflikt stehen, worüber aber ein von ihm selbstgeschriebenes und den
-  Studierenden zur Verfügung gestelltes Buch hinweghelfen soll. Der
-  Gruppenarbeitsstumpfsinn erreicht dabei einen neuen _Höhepunkt_, der
-  Lehrbetrieb also einen neuen _Tiefpunkt_. Ob wohl in der Lektüre Prof. Dr.
-  Kaufmanns etwas darüber zu finden ist, wie man Theoriefragen zu viert
-  beantwortet...?  Weiter werden in der Vorlesung Legacy-Technologien wie SQL
+  auch den Begriff _Industrie 4.0_. Es werden unter anderem Legacy-Technologien wie SQL
   und relationale Datenbanken eingeführt, über die der Modulverantwortliche
   schon längst hinweg ist. Unter der Maxime «NoSQL, bitch!» werden zu
   relationalen Datenbanken gelöste Aufgaben als _zu sehr im relationalen
@@ -46,7 +39,12 @@ Schopenhauer)**
   universitären Fribourger Informatikfilz stammenden Assistenten Denzler vorlieb
   nehmen, der im Nebenfach scheinbar Angli*zi*stik (sic!) belegt hat (bei Prof.
   G. Alao?) und auch mit den gängigsten Trump- und Nordkorea-Witzen bestens
-  vertraut ist. But who cares anyway?
+  vertraut ist. But who cares anyway? Zum Ende des Semesters, also zu einer
+  Zeit, an denen sonst kaum etwas zu tun ist, durften sich die einzelnen Gruppen
+  noch an eine Projektarbeit heranwagen, die eine Migration von einer SQL- zu
+  einer NoSQL-Datenbank zum Gegenstand hatte. Die meisten Gruppen begnügten sich
+  dabei mit einer Übungsdatenbank, die sich manuell wesentlich schneller als
+  mit den Mitteln der Informatik (mit sogenannter _Software_!) migrieren lässt.
 - DMATH: Dr. Joseph Bürglers praktische Zahlentheorie und theoretische Zahlenpraxis
   mit theoretischen und praktischen Zählübungen (ohne Fingereinsatz); offiziell
   als _diskrete Mathematik_ geführt.
@@ -58,6 +56,9 @@ Schopenhauer)**
   Einführung in _das Internet_ von einem Nicht-Informatiker erteilt an
   Informatiker. Es wurde gebloggt und einmal fiel sogar das Wort
   «Schlumpfschach».
+- IMATH: In diesem Modul erbringt Dr. Joseph Bürgler den endgültigen Beweis
+  dafür, dass man sich Mathematik zwar nicht als Gruppenarbeit aneignen
+  kann, dies aber trotzdem unbedingt versucht werden muss.
 - ISF: Der europareisende Security-Kosmopolit Hämmerli und der altgediente, 
   drittweltgewandte Wirtschaftsinformatik-Haudegen Marfurt wechseln sich
   zwischen theoretisch-theoretischen (Hämmerli) und anschaulich-praktischen
@@ -123,7 +124,8 @@ Schopenhauer)**
     - Design Thinking: 30 Studierende sitzen sich in einem Raum gegenüber und
       basteln zu House-Musik eine sogenannte Brieftasche aus Moosgummi, Schnur
       und Papier bis einer der Dozenten Gugolz oder Zwimpfer das Ende der
-      Übungsphase mit einer Hupe signalisierten.
+      Übungsphase mit einer Hupe signalisierten. (Gleich zwei Professoren mit
+      Batikhemden können nichts Gutes verheissen!)
 - SELL: Das aufgrund seiner geringen Pflichtanwesenheit äusserst beliebte _self
   directed english language learning_, bei dem in Zweiergruppen über ein selbst
   gewähltes Thema referiert werden musste, ist das ideale Alternativprogramm zum
