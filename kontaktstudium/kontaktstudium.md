@@ -129,7 +129,7 @@ Leerzeichen eingefügt haben. Es sei _«diese himmelschreiende Inkompetenz»_
 # Infoveranstaltung
 
 Gegen Ende des Herbstsemesters 2017 lud der Studiengangleiter Prof. D. Helmer
-wie schon in den vorhergegangenen Semester zu einer Infoveranstaltung ein.
+‒ wie schon in den vorhergegangenen Semestern ‒ zu einer Infoveranstaltung ein.
 Dabei kündigte er an, dass am schulinternen Institut für Softwaredogmatik und
 Prozessmodellexegese unter Prof. Dr. rel. Rosenzweig ein neues
 Projektabhandlungsparadigma entwickelt worden sei. Das bisherige
@@ -140,7 +140,7 @@ Paradigma _P&P: Pfusch and Push_ soll die Realität an der Hochschule wesentlich
 besser wiederspiegeln und zudem einfacher in der Anwendung sein.
 Studierende des Studiengangs Informatik, die den von Prof. Dr. rel. Rosenzweig
 erarbeiteten Ansatz vertiefen wollten, könnten dies in einem eigens dafür
-erarbeitetem Major-Studiengang _IABC: Incompetence, Absurdity, Bullshit and
+erarbeiteten Major-Studiengang _IABC: Incompetence, Absurdity, Bullshit and
 Clap-Trap_ tun, auch wenn dieser Major-Studiengang bei der Wirtschaftsinformatik
 angesiedelt sei.
 
