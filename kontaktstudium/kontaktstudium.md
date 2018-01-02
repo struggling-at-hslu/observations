@@ -125,3 +125,48 @@ MS_ verwendet hätte. Ausserdem soll dieser an einer Stelle einen Bindestrich
 vergessen und an einer anderen Stelle nach dem Fugen-S ein naturgemäss unnötiges
 Leerzeichen eingefügt haben. Es sei _«diese himmelschreiende Inkompetenz»_
 (Gneisberger) gewesen, die _das Fass zum Überlaufen_ gebracht hätte.
+
+# Infoveranstaltung
+
+Gegen Ende des Herbstsemesters 2017 lud der Studiengangleiter Prof. D. Helmer
+wie schon in den vorhergegangenen Semester zu einer Infoveranstaltung ein.
+Dabei kündigte er an, dass am schulinternen Institut für Softwaredogmatik und
+Prozessmodellexegese unter Prof. Dr. rel. Rosenzweig ein neues
+Projektabhandlungsparadigma entwickelt worden sei. Das bisherige
+Entwicklungsmodell _SoDa_ ‒ die Abkürzung steht für «Software Development
+agile» (sic!), was Englisch-Dozenten regelmässig die Schamesröte ins Gesicht
+trieb ‒ werde wegen Verdachts auf groben Unfug nicht mehr eingesetzt. Das neue
+Paradigma _P&P: Pfusch and Push_ soll die Realität an der Hochschule wesentlich
+besser wiederspiegeln und zudem einfacher in der Anwendung sein.
+Studierende des Studiengangs Informatik, die den von Prof. Dr. rel. Rosenzweig
+erarbeiteten Ansatz vertiefen wollten, könnten dies in einem eigens dafür
+erarbeitetem Major-Studiengang _IABC: Incompetence, Absurdity, Bullshit and
+Clap-Trap_ tun, auch wenn dieser Major-Studiengang bei der Wirtschaftsinformatik
+angesiedelt sei.
+
+Weiter werde die Schule ein neues Kompetenzzentrum für Bioinformatik einrichten.
+Vorzeigeprojekt des noch zu benennenden Instituts sei die Erweiterung des
+Enterprise-Labs um Gehirne, die man den Patienten der Nervenheilanstalt im
+luzernischen St. Urban amputiert habe. Geleitet werde das Projekt vom
+Oberassistenten für angewandte Cyberkunde Juno Broho, wobei zwei in Rotkreuz
+ansässige Pharmafirmen bereits ihre finanzielle Unterstützung zugesagt hätten.
+Ziel des Pilotprojektes sei es, das neu geschaffene Enterprise-Brain-Lab zur
+Cloud-Machine-Learning-Plattform auszubauen. Die Infrastruktur soll dereinst
+dazu dienen, die Stundenplanung der Hochschule vollautomatisch vorzunehmen,
+wobei Oberassistent Bruho diesen gerade mit den Stundenplänen der letzten
+Semester, den Datumsangaben des Malayalam-Kalenders und den Rechenregeln der
+bahaiïschen Zahlenmystik sowie den Geodaten aus einem bekannten Tolkien-Roman
+als Trainingsdaten füttere.
+
+Leider müsse er auch eine schlechte Meldung überbringen, denn das von der
+Schweizer Armee mit 1.2 Milliarden Schweizer Franken budgetierte und mit der
+Firma für optische Schriftzeichenerkennung Abbyy zusammen konzipierte Projekt
+zum elektronischen Auslesen des CreaBeck-Menüplans sei nach einem Jahr leider
+gescheitert. Während des Projekts sei der dafür zuständige Assistent Dr. Tänzler
+wahnsinnig geworden und habe sich im Kantonsspital Zug zu einem operativen
+Eingriff zur Entfernung seines Narrensteins angemeldet. Aber man sei sich
+sicher, dass er in der Nervenheilanstalt im luzernischen St. Urban gut
+aufgehoben ist.
+
+Ansonsten liefe es aber recht gut an der Hochschule, auch wenn sich in Neuland
+naturgemäss noch nicht alles eingeschwungen habe.

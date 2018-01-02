@@ -3,8 +3,8 @@
 INFILE=kontaktstudium.md
 OUTFILE=kontaktstudium.pdf
 
-pandoc -S -s \
-    --latex-engine=xelatex \
+pandoc -s \
+    --pdf-engine=xelatex \
     --variable papersize=a4 \
     --variable documentclass=scrartcl \
     --variable classoption=12pt \
