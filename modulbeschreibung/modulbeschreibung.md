@@ -51,20 +51,23 @@ Schopenhauer)**
 - EENG: English for Engineers (und Wirtschaftsingenieure!) ist ein Modul, das
   hält, was es verspricht; die bisher einzige Überraschung war das Ausbleiben
   von Überraschungen. Selbst der Gruppenarbeitsstumpfsinn wird auf ein
-  erträgliches Mindestmass reduziert.
+  erträgliches Mindestmass reduziert. Bei der Präsentation, die Teil des Testats
+  ist, sollte man den Begriff «Third World Country» vermeiden. Die politisch
+  korrekte Bezeichnung lautet anscheinend «Shithole Country» (Stand Januar
+  2018).
 - FKOM: Fachkommunikation oder Deutsch für Informatiker inklusive einer
   Einführung in _das Internet_ von einem Nicht-Informatiker erteilt an
   Informatiker. Es wurde gebloggt und einmal fiel sogar das Wort
   «Schlumpfschach».
 - IMATH: In diesem Modul erbringt Dr. Joseph Bürgler den endgültigen Beweis
-  dafür, dass man sich Mathematik zwar nicht als Gruppenarbeit aneignen
-  kann, dies aber trotzdem unbedingt versucht werden muss.
-- ISF: Der europareisende Security-Kosmopolit Hämmerli und der altgediente, 
+  dafür, dass man sich Mathematik zwar nicht als Gruppenarbeit aneignen kann,
+  dies aber trotzdem unbedingt versucht werden muss.
+- ISF: Der europareisende Security-Kosmopolit Hämmerli und der altgediente,
   drittweltgewandte Wirtschaftsinformatik-Haudegen Marfurt wechseln sich
   zwischen theoretisch-theoretischen (Hämmerli) und anschaulich-praktischen
-  (Marfurt) Themen im Bereich der Informationssicherheit ab. Assistent Pouly lanciert
-  einen Cyberangriff auf studentische Passwörter, um sie zur Entwicklung ihrer
-  Cyberselbstverteidigungsfähigkeiten anzuregen.
+  (Marfurt) Themen im Bereich der Informationssicherheit ab. Assistent Pouly
+  lanciert einen Cyberangriff auf studentische Passwörter, um sie zur
+  Entwicklung ihrer Cyberselbstverteidigungsfähigkeiten anzuregen.
 - ITEO: IT Engineering & Operations; ist eine CNA-Fortsetzung, die auch als
   _Waldmann-Joho-Kurmannscher Informatik-Almanach_ bekannt ist. In diesem Modul
   kommt nicht nur PowerPoint, sondern auch Excel zum Einsatz.
@@ -78,18 +81,18 @@ Schopenhauer)**
 - OOP: Das Modul, das gleichzeitig mit PLAB am Montagnachmittag und gleichzeitig
   mit dem Auschlafen am Dienstagvormittag stattfand für Studierende, die nicht
   schon mehrjährig Java-geschädigt sind.
-- PLAB: Die bereits in Java bewanderten Studierenden durften unter der
-  Anleitung von Prof. Ruedi Arnold und dem externen Aushilfsassistenten Joachim
-  (ohne Nachnamen) ihre bereits vorhandenen Java-Kenntnisse durch selbstgehaltene
+- PLAB: Die bereits in Java bewanderten Studierenden durften unter der Anleitung
+  von Prof. Ruedi Arnold und dem externen Aushilfsassistenten Joachim (ohne
+  Nachnamen) ihre bereits vorhandenen Java-Kenntnisse durch selbstgehaltene
   Vorträge und Kurzübungen vertiefen.
 - PMB: Projektmanagement, theoretische Physik und _Mensch & Umwelt_ in einem. Es
-  wird ein fiktives Konzept für die fiktive (und zum Untergang verdammte)
-  Firma SwissGrooves (die sogenannte «Rille») ausgearbeitet, das den
-  Studierenden wohl die Unbedingheit des Scheiterns (und dessen Erscheinung im
-  Raum-Zeit-Kontinuum (in seiner physisch-reellen Materialisierung (in der
-  seienden Seinswelt (veranschaulicht durch eine hermeneutischer Dialektik
-  (anhand eines teleologisch-analytischen Ansatzes (usw. usf.)))))) vermittelt
-  durch Herrn Prof. Dr. nat. phil. Martin Jud veranschaulichen soll.
+  wird ein fiktives Konzept für die fiktive (und zum Untergang verdammte) Firma
+  SwissGrooves (die sogenannte «Rille») ausgearbeitet, das den Studierenden wohl
+  die Unbedingheit des Scheiterns (und dessen Erscheinung im Raum-Zeit-Kontinuum
+  (in seiner physisch-reellen Materialisierung (in der seienden Seinswelt
+  (veranschaulicht durch eine hermeneutischer Dialektik (anhand eines
+  teleologisch-analytischen Ansatzes (usw. usf.)))))) vermittelt durch Herrn
+  Prof. Dr. nat. phil. Martin Jud veranschaulichen soll.
 - PREN I: Im Flaggschiff unter den Projektmodulen geht es dieses Jahr um die
   Konzipierung einer autonomen sogenannten _Laufkatze_, die eine Last orten,
   aufnehmen und punktgenau im Zielbereich ablegen soll. Die Gruppengrösse
@@ -99,8 +102,8 @@ Schopenhauer)**
   nur als Verweis in ein geistiges Vakuum verstanden wird. Melancholisch
   veranlagte Studierende geraten dabei schon einmal ins Grübeln («Ach dort
   hätten wir etwas über _die gute Projektführung_ erfahren sollen!»)
-- PTA: Mit der sogenannten _Projekt- und Teamarbeit_ (auf Englisch: _pointless
-  team assignment_) wurde der absolute Tiefpunkt des Studiums strategisch an den
+- PTA: Mit der sogenannten _Projekt- und Teamarbeit_ (auf Englisch: _Pointless
+  Team Assignment_) wurde der absolute Tiefpunkt des Studiums strategisch an den
   Anfang desselben gesetzt. Das gegenseitige Kennenlernen in Sechsergruppen ‒
   gemäss Modulverantwortlichem Hofstetter für dieses Modul essenzieller
   Bestandteil und dessen eigentlicher Zweck ‒ fand aufgrund missverständlicher
@@ -126,8 +129,8 @@ Schopenhauer)**
       und Papier bis einer der Dozenten Gugolz oder Zwimpfer das Ende der
       Übungsphase mit einer Hupe signalisierten. (Gleich zwei Professoren mit
       Batikhemden können nichts Gutes verheissen!)
-- SELL: Das aufgrund seiner geringen Pflichtanwesenheit äusserst beliebte _self
-  directed english language learning_, bei dem in Zweiergruppen über ein selbst
+- SELL: Das aufgrund seiner geringen Pflichtanwesenheit äusserst beliebte _Self
+  Directed English Language Learning_, bei dem in Zweiergruppen über ein selbst
   gewähltes Thema referiert werden musste, ist das ideale Alternativprogramm zum
   mittwöchlichen Feierabendbier.
 - VSK: Im sagenumwobenen Modul _Verteilte Systeme und Komponenten_ geht es
