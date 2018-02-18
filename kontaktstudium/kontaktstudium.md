@@ -1,3 +1,9 @@
+---
+title: 'Kontaktstudium'
+subtitle: 'Wahres und Wahrscheinliches'
+author: 'Patrick Bucher'
+---
+
 # Einschwingen
 
 Pünktlich zu Beginn des Kontaktstudiums, also am Montag der Kalenderwoche 38,
