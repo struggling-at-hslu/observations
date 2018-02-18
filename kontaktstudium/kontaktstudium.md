@@ -217,7 +217,7 @@ einer Badewanne befestigt, sich in diese reingesetzt und einen starken, an einer
 Angelrute befestigten Magneten vor diesen hergehalten habe, mit der Absicht bei
 Verzweigungen _von Fall zu Fall_ über die einzuschlagende Richtung zu
 entscheiden. Nachdem dieser _kollaborative Ansatz unter Miteinbeziehung von
-Diversity-Best-Practices_ gescheitert sei, hab man die Reise zu Fuss fortgesetzt
+Diversity-Best-Practices_ gescheitert sei, habe man die Reise zu Fuss fortgesetzt
 und sei so nach Blödberg gelangt. Da der weitere Weg durch einen Wald geführt
 habe, einige Mitreisende aber nach Lektüre des _Reiseführers_ (nach
 «Digitalien»!) aufgrund ihrer Erinnerung an das Märchen vom Rotkäppchen von
