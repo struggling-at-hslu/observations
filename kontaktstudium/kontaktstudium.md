@@ -170,3 +170,55 @@ aufgehoben ist.
 
 Ansonsten liefe es aber recht gut an der Hochschule, auch wenn sich in Neuland
 naturgemäss noch nicht alles eingeschwungen habe.
+
+# Reise nach «Digitalien»
+
+Von einem Artikel im Hochschulmagazin angeregt meldeten sich einige Studenten
+der Informatik beim sogenannten (und selbsternannten?) _Bildungsexperten_ und
+«Top-25 Influencer» (das Hochschulmagazin!) Stophschmied Christ zu einer Reise in
+das von ihm sogenannte «Digitalien» an. Mit der Begründung, dass er _eine
+äusserst wichtige Persönlichkeit_ sei und einen _über die nächsten Jahre restlos
+ausgebuchten Terminkalender_ habe, entschuldigte sich Stophschmied Christ bei
+den Studenten, gab diesen jedoch seinen selbstgeschriebenen _Reiseführer nach
+«Digitalien»_ ab, mit dem _die Studierenden vereinigt zu Projektgruppen den Weg
+ins gelobte Land «Digitalien» in einem selbstbestimmten Tempo, ohne Zeit-,
+Leistungsdruck und Noten durch agile Feedback-Systeme geleitet_ in jedem Fall
+finden würden.
+
+Als von dieser so formierten _Reisegruppe nach «Digitalien»_ (eine naturgemäss
+_interdisziplinäre Projektgruppe_!) nach mehreren Tagen immer noch jede Spur
+fehlte, musste sich ein Suchtrupp auf den Weg machen, um die verirrten Studenten
+zu retten. Als die mittlerweile völlig ausgehungerten und verwahrlosten
+Studenten nach mehreren Tagen intensivster Suche endlich gefunden und also
+gerettet werden konnten, berichteten sie von ihrem Weg:
+
+Von Rotkreuz aus gehend sei man über einen Trampelpfad nach Stumpfhausen
+spaziert, wo sie ein Schlangenölverkäufer freundlicherweise in seiner Kutsche
+weiter nach Schwätzstetten mitgenommen habe. Dort habe man ein Boot gemietet,
+das bei der Überfahrt über ein seichtes Gewässer namens Plattsee leider Leck
+geschlagen habe. Die richtige Vorgehensmethode diskutierend sei das Boot
+gesunken, worauf man sich wild mit den Armen rudernd der Strömung folgend
+weiter bis in die Ortschaft Beliebigen habe treiben lassen. Nachdem man sich im
+Restaurant _Zur hohlen Birne_ etwas aufgewärmt, gestärkt und anschliessend mit
+dem Stammtisch vernetzt und mit dem Dorftrottel den Begriff _Industrie 4.0_
+erschöpfend erörtert habe, sei die Reise weitergegangen. Nach einem längeren
+Brainstorming und ausgiebiger Lektüre des _Diversity Guide_ im Anhang des
+_Reiseführers_ (nach «Digitalien») habe man sich dazu entschlossen, nicht _die
+beste und schnellste Route mit dem dazu am besten geeigneten Fahrzeug_ zu
+wählen, sondern den (oder _die_?) dunkelhäutige(n) am Down-Syndrom leidende(n)
+Transsexuelle(n) über die Weiterreise entscheiden zu lassen, worauf man Räder an
+einer Badewanne befestigt, sich in diese reingesetzt und einen starken, an einer
+Angelrute befestigten Magneten vor diesen hergehalten habe, mit der Absicht bei
+Verzweigungen _von Fall zu Fall_ über die einzuschlagende Richtung zu
+entscheiden. Nachdem dieser _kollaborative Ansatz unter Miteinbeziehung von
+Diversity-Best-Practices_ gescheitert sei, hab man die Reise zu Fuss fortgesetzt
+und sei so nach Blödberg gelangt. Da der weitere Weg durch einen Wald geführt
+habe, einige Mitreisende aber nach Lektüre des _Reiseführers_ (nach
+«Digitalien»!) aufgrund ihrer Erinnerung an das Märchen vom Rotkäppchen von
+dieser Reiseroute getriggert waren, habe man beschlossen auf Abwegen nach
+Hirnamputien zu gelangen, um dort schliesslich die Nacht zu verbringen. Es sei
+dort gewesen, wo man vom Suchtrupp aufgegriffen worden sei.
+
+Von den Behörden mit dieser Reisebeschreibung konfrontiert meinte Stophschmied
+Christ, dass die Studenten _zu jedem Zeitpunkt alles gemäss dem Reiseführer
+(nach «Digitalien»!) und somit immer alles vollkommen richtig gemacht_ hätten.
