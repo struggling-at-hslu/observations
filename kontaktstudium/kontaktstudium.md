@@ -228,3 +228,72 @@ dort gewesen, wo man vom Suchtrupp aufgegriffen worden sei.
 Von den Behörden mit dieser Reisebeschreibung konfrontiert meinte Stophschmied
 Christ, dass die Studenten _zu jedem Zeitpunkt alles gemäss dem Reiseführer
 (nach «Digitalien»!) und somit immer alles vollkommen richtig gemacht_ hätten.
+
+# Stellenangebot
+
+Die Studiengangleitung informiert die Studierenden:
+
+    Absender:  dieter.helmer@hslu.ch
+    Empfänger: no-no-billag-verteiler@hslu.ch
+    Datum:     Fr, 13.01.2018, 03:18 Uhr CET
+    Betreff:   DIES und DAS
+
+> Sehr geehrte Studierende
+>
+> Ich freue mich, Sie auf ein interessantes Jobangebot aufmerksam zu machen!
+> Die _Idi Amin University for Economics and Technology_ in Kampala (Uganda)
+> bietet im Rahmen ihrer Summer School eine einmalige Gelegenheit zur Anwendung
+> ihrer IT-Kenntnisse und Erweiterung Ihres Horizonts! Im diesjährigen
+> Sommerprojekt geht es darum, die Siedlung Kakoge im Sumpfgebiet beim Kyogasee
+> in der Provinz Luwero an die _Uganda High Speed Interwebs_ anzuschliessen und
+> so den Dorfbewohnern die Segnungen der Blockchain und des Internet of Things
+> in die Basthütte zu bringen.
+>
+> Mit dem Flugzeug geht es von Zürich nach Nairobi, wo sie per Ochsenkarren an
+> die kenianische Grenze gebracht werden. Begleitet von einer Vorhut
+> südsudanesischer Minenauslösungsspezialisten durchschreiten Sie das
+> Sperrgebiet an der Grenze zu Uganda in einem zweitägigen Fussmarsch.
+> (Beachten Sie, dass das Mitbringen von Verpflegung, Bargeld, Kreditkarten und
+> Gepäck _nicht_ gestattet ist!) Weiter geht die Reise auf einem Esel durch den
+> Mount Elgon Nationalpark, an dessen Rand sie durch die Entrichtung einer
+> kleinen Lösegeldsumme den südugandischen Tororo-Rebellen übergeben werden.
+> (Es ist gut möglich, dass Sie um einen kleinen Botendienst gebeten werden.
+> Nehmen Sie darum bitte ein paar grosse aber unauffällige Jutebeutel mit.) Von
+> Gogonyo aus werden Sie über einen Seitenarm des Kyogasees an ihre
+> Zieldestination geflösst, wobei je nach Witterung eine Teilstrecke schwimmend
+> zurückzulegen ist.
+>
+> In Kakoge angekommen wird sie eine Delegation der sich jeweils zuletzt an die
+> Macht geputschten Kommunalregierung begrüssen. Nach einem erfrischenden
+> Begrüssungsgetränk, der darauffolgenden Bewusstlosigkeit und der Entnahme
+> einer Niere werden Sie vom Dorfältesten durch die Siedlung geführt, wo Sie
+> sich mit der beeindruckenden Infrastruktur bestehend aus oberirdisch
+> verlaufenden Abwasserkanälen und offenen Sickergruben vertraut machen können.
+>
+> Bereits am nächsten Tag werden Sie Ihre interessante Tätigkeit unter
+> Instruktion von Prof. Dr. M'dang'klak Tschabobo aufnehmen, wozu das Aufessen
+> des Inhaltes alter Fischinnereienkonserven gehört, damit beim örtliche
+> Schnurtelefonnetz durchgerostete Dosen ersetzt werden können.  Durch das
+> Abfackeln alter Fernsehgeräte auf der offenen Mülldeponie gewinnen Sie das
+> Kupfer; auf der Schlangenjagd erbeuten Sie das notwendige
+> Ummantelungsmaterial um die Patch-Kabel für das örtliche LAN herstellen zu
+> können. Nachdem Sie das örtliche LAN an die _Uganda High Speed Interwebs_
+> erfolgreich angeschlossen haben, wird es schon wieder Zeit für die Rückreise,
+> für welche Sie bitte die jeweils gegenwärtige Bürgerkriegssituation beachten.
+>
+> Die Reisekosten müssen Sie selber auslegen. Für Kost und Logis ist gesorgt.
+> Vor der Abreise lassen Sie sich bitte gegen Amöbenruhr, Cholera, Lepra,
+> Malaria, Gelbfieber, Trypanosomiasis und Buruli-Ulkus impfen.  Die
+> Anschaffung eines Mienensuchgeräts wird Ihnen auch dringend ans Herz gelegt.
+>
+> Ich hoffe, Sie für das interessante Jobangebot begeistert zu haben!  Leider
+> ist von den Teilnehmenden der letzten Jahre nie jemand zurückgekehrt, sodass
+> Sie sich für weitere Auskünfte am besten direkt an die Organisatoren wenden.
+>
+> Freundliche Grüsse
+
+> Prof. Dr. D. Helmer, Studiengangleiter Informatik
+>
+> PS: In Zusammenarbeit mit der Kadaversammelstelle Hüneberg bietet die HSLU in
+> den ersten paar Semesterwochen am Donnerstagabend einen schmackhaften Hot-Dog
+> an. Bitte greifen Sie zu, es hätt solangs hätt!
