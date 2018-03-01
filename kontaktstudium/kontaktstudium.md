@@ -249,13 +249,13 @@ Die Studiengangleitung informiert die Studierenden:
 > so den Dorfbewohnern die Segnungen der Blockchain und des Internet of Things
 > in die Basthütte zu bringen.
 >
-> Mit dem Flugzeug geht es von Zürich nach Nairobi, wo sie per Ochsenkarren an
+> Mit dem Flugzeug geht es von Zürich nach Nairobi, wo Sie per Ochsenkarren an
 > die kenianische Grenze gebracht werden. Begleitet von einer Vorhut
 > südsudanesischer Minenauslösungsspezialisten durchschreiten Sie das
 > Sperrgebiet an der Grenze zu Uganda in einem zweitägigen Fussmarsch.
 > (Beachten Sie, dass das Mitbringen von Verpflegung, Bargeld, Kreditkarten und
 > Gepäck _nicht_ gestattet ist!) Weiter geht die Reise auf einem Esel durch den
-> Mount Elgon Nationalpark, an dessen Rand sie durch die Entrichtung einer
+> Mount Elgon Nationalpark, an dessen Rand Sie durch die Entrichtung einer
 > kleinen Lösegeldsumme den südugandischen Tororo-Rebellen übergeben werden.
 > (Es ist gut möglich, dass Sie um einen kleinen Botendienst gebeten werden.
 > Nehmen Sie darum bitte ein paar grosse aber unauffällige Jutebeutel mit.) Von
@@ -263,7 +263,7 @@ Die Studiengangleitung informiert die Studierenden:
 > Zieldestination geflösst, wobei je nach Witterung eine Teilstrecke schwimmend
 > zurückzulegen ist.
 >
-> In Kakoge angekommen wird sie eine Delegation der sich jeweils zuletzt an die
+> In Kakoge angekommen wird Sie eine Delegation der sich jeweils zuletzt an die
 > Macht geputschten Kommunalregierung begrüssen. Nach einem erfrischenden
 > Begrüssungsgetränk, der darauffolgenden Bewusstlosigkeit und der Entnahme
 > einer Niere werden Sie vom Dorfältesten durch die Siedlung geführt, wo Sie
@@ -284,16 +284,16 @@ Die Studiengangleitung informiert die Studierenden:
 > Die Reisekosten müssen Sie selber auslegen. Für Kost und Logis ist gesorgt.
 > Vor der Abreise lassen Sie sich bitte gegen Amöbenruhr, Cholera, Lepra,
 > Malaria, Gelbfieber, Trypanosomiasis und Buruli-Ulkus impfen.  Die
-> Anschaffung eines Mienensuchgeräts wird Ihnen auch dringend ans Herz gelegt.
+> Anschaffung eines Minensuchgeräts wird Ihnen auch dringend ans Herz gelegt.
 >
 > Ich hoffe, Sie für das interessante Jobangebot begeistert zu haben!  Leider
 > ist von den Teilnehmenden der letzten Jahre nie jemand zurückgekehrt, sodass
 > Sie sich für weitere Auskünfte am besten direkt an die Organisatoren wenden.
 >
 > Freundliche Grüsse
-
+>
 > Prof. Dr. D. Helmer, Studiengangleiter Informatik
 >
 > PS: In Zusammenarbeit mit der Kadaversammelstelle Hüneberg bietet die HSLU in
 > den ersten paar Semesterwochen am Donnerstagabend einen schmackhaften Hot-Dog
-> an. Bitte greifen Sie zu, es hätt solangs hätt!
+> an. Bitte greifen Sie zu: "äs hätt solangs hätt!"
