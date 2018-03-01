@@ -272,9 +272,9 @@ Die Studiengangleitung informiert die Studierenden:
 >
 > Bereits am nächsten Tag werden Sie Ihre interessante Tätigkeit unter
 > Instruktion von Prof. Dr. M'dang'klak Tschabobo aufnehmen, wozu das Aufessen
-> des Inhaltes alter Fischinnereienkonserven gehört, damit beim örtliche
+> des Inhaltes alter Fischinnereienkonserven gehört, damit beim örtlichen
 > Schnurtelefonnetz durchgerostete Dosen ersetzt werden können.  Durch das
-> Abfackeln alter Fernsehgeräte auf der offenen Mülldeponie gewinnen Sie das
+> Abbrennen alter Fernsehgeräte auf der offenen Mülldeponie gewinnen Sie das
 > Kupfer; auf der Schlangenjagd erbeuten Sie das notwendige
 > Ummantelungsmaterial um die Patch-Kabel für das örtliche LAN herstellen zu
 > können. Nachdem Sie das örtliche LAN an die _Uganda High Speed Interwebs_
