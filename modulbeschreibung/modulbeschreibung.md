@@ -45,16 +45,19 @@ Schopenhauer)**
   einer NoSQL-Datenbank zum Gegenstand hatte. Die meisten Gruppen begnügten sich
   dabei mit einer Übungsdatenbank, die sich manuell wesentlich schneller als
   mit den Mitteln der Informatik (mit sogenannter _Software_!) migrieren lässt.
-- DMATH: Dr. Joseph Bürglers praktische Zahlentheorie und theoretische Zahlenpraxis
-  mit theoretischen und praktischen Zählübungen (ohne Fingereinsatz); offiziell
-  als _diskrete Mathematik_ geführt.
+- DMATH: Dr. Joseph Bürglers praktische Zahlentheorie und theoretische
+  Zahlenpraxis mit theoretischen und praktischen Zählübungen (ohne
+  Fingereinsatz); offiziell als _diskrete Mathematik_ geführt. Das Abzählen von
+  Heeresgrössen nach dem chinesischen Restsatz und die von Euler auf die
+  Königsberger Brücken angewandte Spaziergangstheorie sind nur zwei der in
+  DMATH vermittelten praxisrelevanten Fähigkeiten.
 - EENG: English for Engineers (und Wirtschaftsingenieure!) ist ein Modul, das
   hält, was es verspricht; die bisher einzige Überraschung war das Ausbleiben
   von Überraschungen. Selbst der Gruppenarbeitsstumpfsinn wird auf ein
-  erträgliches Mindestmass reduziert. Bei der Präsentation, die Teil des Testats
-  ist, sollte man den Begriff «Third World Country» vermeiden. Die politisch
-  korrekte Bezeichnung lautet anscheinend «Shithole Country» (Stand Januar
-  2018).
+  erträgliches Mindestmass reduziert. Bei der Präsentation, die Teil des
+  Testats ist, sollte man den Begriff «Third World Country» vermeiden. Die
+  politisch korrekte Bezeichnung lautet anscheinend «Shithole Country» (Stand
+  Januar 2018).
 - FKOM: Fachkommunikation oder Deutsch für Informatiker inklusive einer
   Einführung in _das Internet_ von einem Nicht-Informatiker erteilt an
   Informatiker. Es wurde gebloggt und einmal fiel sogar das Wort
@@ -62,6 +65,12 @@ Schopenhauer)**
 - IMATH: In diesem Modul erbringt Dr. Joseph Bürgler den endgültigen Beweis
   dafür, dass man sich Mathematik zwar nicht als Gruppenarbeit aneignen kann,
   dies aber trotzdem unbedingt versucht werden muss.
+- IPCV: Unter Anleitung von Thomas Koller, der das Betrachten von
+  Fussballspielen lieber an OpenCV delegiert, lernen die Studenten, wie man das
+  Playmate Lena auf den Kopf stellt, Hände abschneidet, ein X-Wing-Raumschiff
+  auf dem Mond platziert und Einstein scharf macht. Dr. Joseph Bürgler sorgt
+  mit seinem gekonnten Einstreuen von Integral- und Summenzeichen für den
+  angemessenen wissenschaftlichen Touch.
 - ISF: Der europareisende Security-Kosmopolit Hämmerli und der altgediente,
   drittweltgewandte Wirtschaftsinformatik-Haudegen Marfurt wechseln sich
   zwischen theoretisch-theoretischen (Hämmerli) und anschaulich-praktischen
@@ -73,26 +82,31 @@ Schopenhauer)**
   kommt nicht nur PowerPoint, sondern auch Excel zum Einsatz.
 - MATH: Evaluationsseminar für die E-Learning-Plattform _Learning Catalytics_
   des _Pearson_-Verlages anhand verschiedenster Aufgaben zur Differentiel- und
-  Integralrechnung bei Herrn Dr. Schmidt unter Einsatz eines sogar dem Abakus
-  überlegenen Taschenrechners.
+  Integralrechnung bei Herrn Dr. Schmidt unter Einsatz eines dem Abakus
+  deutlich überlegenen Taschenrechners.
+- KS: Im ISA-Modul _Kreatives Schreiben_ and der HSLU ‒ Wirtschaft wird jeden
+  zweiten Mittwochabend ‒ ja! ‒ kreativ geschrieben. Die dazu vom Hausdienst
+  bereitgestellte Kaffeemaschine unterstützt diesen Prozess, wozu ein mit Bier
+  gefüllter Kühlschrank oder eine Flasche Absinthe wohl noch besser geeignet
+  wären.
 - MOD: Ein weiteres Kurmann-Modul mit Schwäbisch-Exkursen erteilt durch den
-  Professor Zimmermann. Die UML-Notation, die bereits im vorhergehenden Semester
-  vorausgesetzt wurde, wird hier nun eingeführt.
-- OOP: Das Modul, das gleichzeitig mit PLAB am Montagnachmittag und gleichzeitig
-  mit dem Auschlafen am Dienstagvormittag stattfand für Studierende, die nicht
-  schon mehrjährig Java-geschädigt sind.
-- PLAB: Die bereits in Java bewanderten Studierenden durften unter der Anleitung
-  von Prof. Ruedi Arnold und dem externen Aushilfsassistenten Joachim (ohne
-  Nachnamen) ihre bereits vorhandenen Java-Kenntnisse durch selbstgehaltene
-  Vorträge und Kurzübungen vertiefen.
-- PMB: Projektmanagement, theoretische Physik und _Mensch & Umwelt_ in einem. Es
-  wird ein fiktives Konzept für die fiktive (und zum Untergang verdammte) Firma
-  SwissGrooves (die sogenannte «Rille») ausgearbeitet, das den Studierenden wohl
-  die Unbedingheit des Scheiterns (und dessen Erscheinung im Raum-Zeit-Kontinuum
-  (in seiner physisch-reellen Materialisierung (in der seienden Seinswelt
-  (veranschaulicht durch eine hermeneutischer Dialektik (anhand eines
-  teleologisch-analytischen Ansatzes (usw. usf.)))))) vermittelt durch Herrn
-  Prof. Dr. nat. phil. Martin Jud veranschaulichen soll.
+  Professor Zimmermann. Die UML-Notation, die bereits im vorhergehenden
+  Semester vorausgesetzt wurde, wird hier nun eingeführt.
+- OOP: Das Modul, das gleichzeitig mit PLAB am Montagnachmittag und
+  gleichzeitig mit dem Auschlafen am Dienstagvormittag stattfand für
+  Studierende, die nicht schon mehrjährig Java-geschädigt sind.
+- PLAB: Die bereits in Java bewanderten Studierenden durften unter der
+  Anleitung von Prof. Ruedi Arnold und dem externen Aushilfsassistenten Joachim
+  (ohne Nachnamen) ihre bereits vorhandenen Java-Kenntnisse durch
+  selbstgehaltene Vorträge und Kurzübungen vertiefen.
+- PMB: Projektmanagement, theoretische Physik und _Mensch & Umwelt_ in einem.
+  Es wird ein fiktives Konzept für die fiktive (und zum Untergang verdammte)
+  Firma SwissGrooves (die sogenannte «Rille») ausgearbeitet, das den
+  Studierenden wohl die Unbedingheit des Scheiterns (und dessen Erscheinung im
+  Raum-Zeit-Kontinuum (in seiner physisch-reellen Materialisierung (in der
+  seienden Seinswelt (veranschaulicht durch eine hermeneutischer Dialektik
+  (anhand eines teleologisch-analytischen Ansatzes (usw. usf.)))))) vermittelt
+  durch Herrn Prof. Dr. nat. phil. Martin Jud veranschaulichen soll.
 - PREN I: Im Flaggschiff unter den Projektmodulen geht es dieses Jahr um die
   Konzipierung einer autonomen sogenannten _Laufkatze_, die eine Last orten,
   aufnehmen und punktgenau im Zielbereich ablegen soll. Die Gruppengrösse
@@ -103,22 +117,23 @@ Schopenhauer)**
   veranlagte Studierende geraten dabei schon einmal ins Grübeln («Ach dort
   hätten wir etwas über _die gute Projektführung_ erfahren sollen!»)
 - PTA: Mit der sogenannten _Projekt- und Teamarbeit_ (auf Englisch: _Pointless
-  Team Assignment_) wurde der absolute Tiefpunkt des Studiums strategisch an den
-  Anfang desselben gesetzt. Das gegenseitige Kennenlernen in Sechsergruppen ‒
-  gemäss Modulverantwortlichem Hofstetter für dieses Modul essenzieller
+  Team Assignment_) wurde der absolute Tiefpunkt des Studiums strategisch an
+  den Anfang desselben gesetzt. Das gegenseitige Kennenlernen in Sechsergruppen
+  ‒ gemäss Modulverantwortlichem Hofstetter für dieses Modul essenzieller
   Bestandteil und dessen eigentlicher Zweck ‒ fand aufgrund missverständlicher
   Planung leider erst gegen Ende der ersten Semesterhälfte statt. Die
   Reflexionen, bei denen es nur scheinbar um die Reflexion der zu erstellenden
-  Arbeit zum Thema «Digitale Mobilität» ging, diente den Studierenden dazu, sich
-  Gedanken darüber zu machen, was sie denn an dieser Institution überhaupt
+  Arbeit zum Thema «Digitale Mobilität» ging, diente den Studierenden dazu,
+  sich Gedanken darüber zu machen, was sie denn an dieser Institution überhaupt
   verloren haben. Besonders motivierend waren dabei die vernichtenden
   Rückmeldungen auf unbefriedigend präsentierte Zwischenergebnisse von Herr Dr.
   Adrian Aebi. Die Auslosung des Präsentierenden bei der Abschlusspräsentation,
   die den grössten Teil der Gesamtbewertung ausmachte, sollte den Studierenden
-  wohl den hohen Stellenwert der Variable Zufall für den weiteren Studienverlauf
-  und künftigen Lebensweg vor Augen führen und sie dadurch zur demütigen Einkehr
-  anhalten. Die Welt ist ungerecht ‒ die HSLU _grausam_. Die eigentliche
-  Projektarbeit wurde durch verschiedene sogenannte _Inputs_ ergänzt:
+  wohl den hohen Stellenwert der Variable Zufall für den weiteren
+  Studienverlauf und künftigen Lebensweg vor Augen führen und sie dadurch zur
+  demütigen Einkehr anhalten. Die Welt ist ungerecht ‒ die HSLU _grausam_. Die
+  eigentliche Projektarbeit wurde durch verschiedene sogenannte _Inputs_
+  ergänzt:
     - Präsentieren I-XXVI: Videoanalyse studentischer Kurzpräsentationen mit
       packendem Livekommentar vom Dozent Daniel Albert.
     - Literaturrecherche: Einführung in die Literraturrecherche erteilt am
@@ -131,26 +146,28 @@ Schopenhauer)**
       Batikhemden können nichts Gutes verheissen!)
 - SELL: Das aufgrund seiner geringen Pflichtanwesenheit äusserst beliebte _Self
   Directed English Language Learning_, bei dem in Zweiergruppen über ein selbst
-  gewähltes Thema referiert werden musste, ist das ideale Alternativprogramm zum
-  mittwöchlichen Feierabendbier.
+  gewähltes Thema referiert werden musste, ist das ideale Alternativprogramm
+  zum mittwöchlichen Feierabendbier.
 - VSK: Im sagenumwobenen Modul _Verteilte Systeme und Komponenten_ geht es
   darum, eine selbst von der HSLU selbst unter HSLU-Standards als _schlecht_
   beurteilte Software in einen ordentlicheren Zustand zu überführen. Dazu
-  doziert Herr Prof. Dr. nat. phil. Martin Jud unter anderem zu den Themen _«Die
-  Struktur des Strukturlosen: ein Kriegsbericht von der Modulplanungsfront»_;
-  _«Chaos als ästhetische Kategorie oder: wie man Java-Packages strukturiert»_
-  und schliesslich _«Irrungen, Wirrungen: was uns die späte Prosa Fontanes über
-  die Konzeption und Planung von Software nach dem SoDa-Vorgehensmodell zu sagen
-  hat»_. Im Rahmen einer unter dem Motto _«Die Projektinitialisierung: Im
-  Spannungsfeld zwischen Erwartungsangst und Erscheinungsschrecken»_ stehenden
-  Vorlesung wurde den Studierenden der zu überarbeitende Quellcode ausgehändigt,
-  wonach diese sich an die Arbeit machen konnten.
+  doziert Herr Prof. Dr. nat. phil. Martin Jud unter anderem zu den Themen
+  _«Die Struktur des Strukturlosen: ein Kriegsbericht von der
+  Modulplanungsfront»_; _«Chaos als ästhetische Kategorie oder: wie man
+  Java-Packages strukturiert»_ und schliesslich _«Irrungen, Wirrungen: was uns
+  die späte Prosa Fontanes über die Konzeption und Planung von Software nach
+  dem SoDa-Vorgehensmodell zu sagen hat»_. Im Rahmen einer unter dem Motto
+  _«Die Projektinitialisierung: Im Spannungsfeld zwischen Erwartungsangst und
+  Erscheinungsschrecken»_ stehenden Vorlesung wurde den Studierenden der zu
+  überarbeitende Quellcode ausgehändigt, wonach diese sich an die Arbeit machen
+  konnten. Der Versuchung zu widerstehen, ungeliebte Tasks in ScrumDo den
+  Dozenten zuzuweisen, stellt die Hauptschwierigkeit im Modul VSK dar.
 - WEBTEC: Peter Infangers _tour de force_ durch die Web-Technologien HTML, CSS
   und JavaScript etc. mit Zurschaustellung seiner privaten Büchersammlung zu
   selbigen Themen und Surftipps wie `rotten.com` ist ein beliebtes und
-  kurzweiliges Donnerstagnachmittagsvergnügen, das unter Studierenden auch unter
-  der Modulkategorie «betreutes Surfen» geführt wird. Mit einem 6.9 Gigabyte
-  grossem Ubuntu-Image für ein _Hello World_-Beispiel mit AJAX kommt dabei
-  _cutting edge_-Technologie höchster Güte zum Einsatz. Bei der Modulendprüfung
-  ist ein hohes Bearbeitungstempo wichtig, damit man möglichst bald wieder gehen
-  kann.
+  kurzweiliges Donnerstagnachmittagsvergnügen, das unter Studierenden auch
+  unter der Modulkategorie «betreutes Surfen» geführt wird. Mit einem 6.9
+  Gigabyte grossem Ubuntu-Image für ein _Hello World_-Beispiel mit AJAX kommt
+  dabei _cutting edge_-Technologie höchster Güte zum Einsatz. Bei der
+  Modulendprüfung ist ein hohes Bearbeitungstempo wichtig, damit man möglichst
+  bald wieder gehen kann.
