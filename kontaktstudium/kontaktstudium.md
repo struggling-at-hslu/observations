@@ -1,7 +1,11 @@
 ---
-title: 'Kontaktstudium'
-subtitle: 'Wahres und Wahrscheinliches'
-author: 'Patrick Bucher'
+author: Patrick Bucher
+title: Kontaktstudium
+subtitle: Wahres und Wahrscheinliches
+header-includes:
+    - \usepackage{setspace}
+    - \onehalfspacing
+fontsize: 12pt
 ---
 
 # Einschwingen

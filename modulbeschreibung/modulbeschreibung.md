@@ -1,3 +1,13 @@
+---
+author: Patrick Bucher
+title: Inoffizielle Modulbeschreibungen 
+subtitle: Was die HSLU-Broschüren verschweigen
+header-includes:
+    - \usepackage{setspace}
+    - \onehalfspacing
+fontsize: 12pt
+---
+
 **_«Das Schicksal ist grausam und die Menschen sind erbärmlich»_ (Arthur
 Schopenhauer)**
 
