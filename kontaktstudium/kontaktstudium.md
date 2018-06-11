@@ -238,8 +238,10 @@ Christ, dass die Studenten _zu jedem Zeitpunkt alles gemäss dem Reiseführer
 
 Die Studiengangleitung informiert die Studierenden:
 
-    Absender:  dieter.helmer@hslu.ch Empfänger: no-no-billag-verteiler@hslu.ch
-    Datum:     Fr, 13.01.2018, 03:18 Uhr CET Betreff:   DIES und DAS
+    Absender:  dieter.helmer@hslu.ch
+    Empfänger: no-no-billag-verteiler@hslu.ch
+    Datum:     Fr, 13.01.2018, 03:18 Uhr CET
+    Betreff:   DIES und DAS
 
 > Sehr geehrte Studierende
 >
