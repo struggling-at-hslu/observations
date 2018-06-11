@@ -315,10 +315,13 @@ Orten wie Littau oder Emmenbrücke anzutreffen sei.
 
 An der schriftlichen Modulendprüfung definierte ein gewisser Gneisberger,
 Informatikstudent des vierten Semesters, den Begriff der _A-Bevölkerung_
-folgendermassen: Arme, Alte, Arbeitslose, Ausländer, Asylanten, Alkoholiker,
-Atheisten, Auf-den-Hund-Gekommene, Ausgegrenzte, Arabischstämmige, Asoziale,
-Anthroposophen, Albaner, Albinos, Andersdenkende, Akademiker, Andersgläubige,
-Arschgeigen, Analphabeten.
+folgendermassen: «Arme, Alte, Arbeitslose, Ausländer, Asylanten, Alkoholiker,
+Auf-den-Hund-Gekommene, Ausgegrenzte, Arabischstämmige, Asoziale,
+Anthroposophen, Albaner, Albinos, Akademiker, Andersgläubige, Arschgeigen,
+Analphabeten, Anarchisten, ABBA-Fans, Artisten, Autisten, Analgeburten,
+Arbeitsscheue, Akkordeonspieler, ALDI-Tüten-Träger, Auf-die-Klobrille-Pinkler,
+Am-Bahnhof-Rumsteher».
 
 An der mündlichen Modulendprüfung musste sich Gneisberger kürzer fassen und
-definierte den Begriff der _A-Bevölkerung_ als _avec-Kunden_.
+definierte den Begriff der _A-Bevölkerung_ als «_avec_-Kunden». Er bestand die
+Prüfung mit Auszeichnung.
