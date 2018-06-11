@@ -301,3 +301,25 @@ Die Studiengangleitung informiert die Studierenden:
 > PS: In Zusammenarbeit mit der Kadaversammelstelle Hüneberg bietet die HSLU in
 > den ersten paar Semesterwochen am Donnerstagabend einen schmackhaften Hot-Dog
 > an. Bitte greifen Sie zu: "äs hätt solangs hätt!"
+
+# A-Bevölkerung
+
+In einem neuen Soziologiemodul, das naturgemäss als ISA-Modul angeboten und
+nach dem neuesten HSLU-Reglement mit 2¼ Credits vergütet wird, kam an der
+ersten Modulveranstaltung der Begriff der sogenannten _A-Bevölkerung_ zur
+Sprache. Diese Bevölkerungsgruppe umfasse Arme, Alte, Arbeitslose und
+Ausländer, meinte Prof. Dr. Einschläferle, wobei er an der Modulenprüfung, die
+dieses Jahr mündlich und schriftlich abgenommen werde, auch andere und
+ergänzende Definitionen akzeptiere. Es ginge im Grunde um eine von der
+sogenannten arrivierten Gesellschaft gemiedene Bevölkerungsschicht, die in
+Orten wie Littau oder Emmenbrücke anzutreffen sei.
+
+An der schriftlichen Modulendprüfung definierte ein gewisser Gneisberger,
+Informatikstudent des vierten Semesters, den Begriff der _A-Bevölkerung_
+folgendermassen: Arme, Alte, Arbeitslose, Ausländer, Asylanten, Alkoholiker,
+Atheisten, Auf-den-Hund-Gekommene, Ausgegrenzte, Arabischstämmige, Asoziale,
+Anthroposophen, Albaner, Albinos, Andersdenkende, Akademiker, Andersgläubige,
+Arschgeigen, Analphabeten.
+
+An der mündlichen Modulendprüfung musste sich Gneisberger kürzer fassen und
+definierte den Begriff der _A-Bevölkerung_ als _avec-Kunden_.
