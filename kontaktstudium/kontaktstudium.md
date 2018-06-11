@@ -197,10 +197,11 @@ finden würden.
 
 Als von dieser so formierten _Reisegruppe nach «Digitalien»_ (eine naturgemäss
 _interdisziplinäre Projektgruppe_!) nach mehreren Tagen immer noch jede Spur
-fehlte, musste sich ein Suchtrupp auf den Weg machen, um die verirrten Studenten
-zu retten. Als die mittlerweile völlig ausgehungerten und verwahrlosten
-Studenten nach mehreren Tagen intensivster Suche endlich gefunden und also
-gerettet werden konnten, berichteten sie von ihrem Weg:
+fehlte, musste sich ein Suchtrupp auf den Weg machen, um die verirrten und
+anscheinend vom rechten Weg abgekommenen Studenten zu retten. Als die
+mittlerweile völlig ausgehungerten und verwahrlosten Studenten nach mehreren
+Tagen intensivster Suche endlich gefunden und also gerettet werden konnten,
+berichteten sie von ihrem Weg:
 
 Von Rotkreuz aus gehend sei man über einen Trampelpfad nach Stumpfhausen
 spaziert, wo sie ein Schlangenölverkäufer freundlicherweise in seiner Kutsche
@@ -216,16 +217,16 @@ Brainstorming und ausgiebiger Lektüre des _Diversity Guide_ im Anhang des
 _Reiseführers_ (nach «Digitalien») habe man sich dazu entschlossen, nicht _die
 beste und schnellste Route mit dem dazu am besten geeigneten Fahrzeug_ zu
 wählen, sondern den (oder _die_?) dunkelhäutige(n) am Down-Syndrom leidende(n)
-Transsexuelle(n) über die Weiterreise entscheiden zu lassen, worauf man Räder an
-einer Badewanne befestigt, sich in diese reingesetzt und einen starken, an einer
-Angelrute befestigten Magneten vor diesen hergehalten habe, mit der Absicht bei
-Verzweigungen _von Fall zu Fall_ über die einzuschlagende Richtung zu
-entscheiden. Nachdem dieser _kollaborative Ansatz unter Miteinbeziehung von
-Diversity-Best-Practices_ gescheitert sei, habe man die Reise zu Fuss fortgesetzt
-und sei so nach Blödberg gelangt. Da der weitere Weg durch einen Wald geführt
-habe, einige Mitreisende aber nach Lektüre des _Reiseführers_ (nach
-«Digitalien»!) aufgrund ihrer Erinnerung an das Märchen vom Rotkäppchen von
-dieser Reiseroute getriggert waren, habe man beschlossen auf Abwegen nach
+Transsexuelle(n) über die Weiterreise entscheiden zu lassen, worauf man Räder
+an einer Badewanne befestigt, sich in diese reingesetzt und einen starken, an
+einer Angelrute befestigten Magneten vor diesen hergehalten habe, mit der
+Absicht bei Verzweigungen _von Fall zu Fall_ über die einzuschlagende Richtung
+zu entscheiden. Nachdem dieser _kollaborative Ansatz unter Miteinbeziehung von
+Diversity-Best-Practices_ gescheitert sei, habe man die Reise zu Fuss
+fortgesetzt und sei so nach Blödberg gelangt. Da der weitere Weg durch einen
+Wald geführt habe, einige Mitreisende aber nach Lektüre des _Reiseführers_
+(nach «Digitalien»!) aufgrund ihrer Erinnerung an das Märchen vom Rotkäppchen
+von dieser Reiseroute getriggert waren, habe man beschlossen auf Abwegen nach
 Hirnamputien zu gelangen, um dort schliesslich die Nacht zu verbringen. Es sei
 dort gewesen, wo man vom Suchtrupp aufgegriffen worden sei.
 
@@ -237,10 +238,8 @@ Christ, dass die Studenten _zu jedem Zeitpunkt alles gemäss dem Reiseführer
 
 Die Studiengangleitung informiert die Studierenden:
 
-    Absender:  dieter.helmer@hslu.ch
-    Empfänger: no-no-billag-verteiler@hslu.ch
-    Datum:     Fr, 13.01.2018, 03:18 Uhr CET
-    Betreff:   DIES und DAS
+    Absender:  dieter.helmer@hslu.ch Empfänger: no-no-billag-verteiler@hslu.ch
+    Datum:     Fr, 13.01.2018, 03:18 Uhr CET Betreff:   DIES und DAS
 
 > Sehr geehrte Studierende
 >
