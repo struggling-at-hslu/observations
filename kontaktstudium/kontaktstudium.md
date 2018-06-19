@@ -327,3 +327,35 @@ Am-Bahnhof-Rumsteher».
 An der mündlichen Modulendprüfung musste sich Gneisberger kürzer fassen und
 definierte den Begriff der _A-Bevölkerung_ als «_avec_-Kunden». Er bestand die
 Prüfung mit Auszeichnung.
+
+# Innovationspreis
+
+Die Zuger Zeitung vom 19. Juni 2018 berichtet:
+
+> Am Samstag wurde in der Zuger BOSSARD Arena der von der Innerschweizer
+> Wirtschaftsförderung in Zusammenarbeit mit Siemens Schweiz gestiftete
+> _Innovationspreis für Spitzenforschung_ verliehen. Ausgezeichnet wurde Dr.
+> Alois Tänzler von der Hochschule Luzern für seine herausragende Forschung im
+> Bereich der blockchaingestützten dezentralen Energiewirtschaft. Ziel von Dr.
+> Tänzlers Forschung ist es, das durch eine stetige Zunahme an
+> Solarstronanlagen gesteigerte Energieangebot mithilfe der
+> Blockchain-Technologie zu neutralisieren. Einfamilienhausbesitzer, die sich
+> Solarpanels auf dem Dach montieren, werden dadurch nicht von ihrer neuen
+> Rolle als Stromproduzenten und mit zusätzlichen Einkünften durch Stromverkauf
+> aus Eigenproduktion überfordert, sondern können den eingespeisten
+> elektrischen Strom per App direkt wieder in der Blockchain verheizen und es
+> sich als von Dr. Tänzler sogenannte _Prosumenten_ in ihrem kuschlig-warmen
+> Minergiehaus mit Elektroautoparkplatz bequem machen und darin ihre
+> süffisant-linksneoliberal-ökologische Schizophrenie ausleben. Auf das
+> Verfahren sei Dr. Tänzler während eines Studienaufenthalts in Brooklyn
+> gekommen, wo er ein mit unregulierbaren Radiatoren überheiztes Haus durch
+> gezielten Einsatz mehrerer Klimaanlagen auf die ideale Raumtemperatur von
+> 23°C regulierte. Das Preisgeld von 100'000 Schweizer Franken werde er
+> vollumfänglich in seine Forschung einfliessen lassen, verkündete Dr. Tänzler
+> bei seiner Dankesrede. Als erstes sei die Anschaffung eines mit Grafikkarten
+> beheizten Jacuzzi mit eingebautem Kühlmechanismus für Champagnerflaschen für
+> sein Institut an der HSLU ‒ Informatik in Rotkreuz geplant. Leider konnte
+> Herr Dr. Tänzler nach der Preisverleihung unserer Zeitung für Fragen zu
+> seiner Forschung nicht Rede und Antwort stehen, da Preisträger und Jury nach
+> der Veranstaltung in eine geschlossene psychiatrische Anstalt überwiesen
+> wurden.
