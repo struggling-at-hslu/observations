@@ -346,8 +346,8 @@ Die Zuger Zeitung vom 19. Juni 2018 berichtet:
 > elektrischen Strom per App direkt wieder in der Blockchain verheizen und es
 > sich als von Dr. Tänzler sogenannte _Prosumenten_ in ihrem kuschlig-warmen
 > Minergiehaus mit Elektroautoparkplatz bequem machen und darin ihre
-> süffisant-linksneoliberal-ökologische Schizophrenie ausleben. Auf das
-> Verfahren sei Dr. Tänzler während eines Studienaufenthalts in Brooklyn
+> postmodern-süffisant-linksneoliberal-ökologische Schizophrenie ausleben. Auf
+> das Verfahren sei Dr. Tänzler während eines Studienaufenthalts in Brooklyn
 > gekommen, wo er ein mit unregulierbaren Radiatoren überheiztes Haus durch
 > gezielten Einsatz mehrerer Klimaanlagen auf die ideale Raumtemperatur von
 > 23°C regulierte. Das Preisgeld von 100'000 Schweizer Franken werde er
