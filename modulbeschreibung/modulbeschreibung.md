@@ -175,8 +175,12 @@ Schopenhauer)**
   Projektarbeit machen, wobei Studierende jüngerer Jahrgänge zum ersten -- und
   letzten! -- mal in ihrem Leben ein Java-Applet ausführten. Der Versuchung zu
   widerstehen, ungeliebte Tasks in ScrumDo Herrn Hofstetter zuzuweisen, stellt
-  die Hauptschwierigkeit in der Projektarbeit dar. Neben theoretischem Wissen
-  werden auch zahlreiche praktische Prinzipien eingeführt:
+  die Hauptschwierigkeit in der Projektarbeit dar. Innovation war bei der
+  Prüfungsvorbereitung gefragt, denn an der MEP musste eine Tabelle mit
+  mehreren Reviewarten und zahlreichen dazugehörigen Aspekten hergeleitet
+  werden -- und zwar 1:1 aus dem Gedächtnis. Die Studierenden lösten das
+  Problem schliesslich mit einem rhythmischen Klatsch- und Patsch-Spiel. Neben
+  theoretischem Wissen werden auch zahlreiche praktische Prinzipien eingeführt:
     - Open Closed Principle (OCP): Man ist für Veränderungen offen, das
       Sekretariat für deren Umsetzung aber bereits geschlossen.
     - Single Responsibility Principle (SRP): Roland Gisler ist alleine für die
