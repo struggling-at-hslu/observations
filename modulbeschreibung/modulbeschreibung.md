@@ -159,19 +159,36 @@ Schopenhauer)**
   gewähltes Thema referiert werden musste, ist das ideale Alternativprogramm
   zum mittwöchlichen Feierabendbier.
 - VSK: Im sagenumwobenen Modul _Verteilte Systeme und Komponenten_ geht es
-  darum, eine selbst von der HSLU selbst unter HSLU-Standards als _schlecht_
-  beurteilte Software in einen ordentlicheren Zustand zu überführen. Dazu
-  doziert Herr Prof. Dr. nat. phil. Martin Jud unter anderem zu den Themen
-  _«Die Struktur des Strukturlosen: ein Kriegsbericht von der
-  Modulplanungsfront»_; _«Chaos als ästhetische Kategorie oder: wie man
-  Java-Packages strukturiert»_ und schliesslich _«Irrungen, Wirrungen: was uns
-  die späte Prosa Fontanes über die Konzeption und Planung von Software nach
-  dem SoDa-Vorgehensmodell zu sagen hat»_. Im Rahmen einer unter dem Motto
-  _«Die Projektinitialisierung: Im Spannungsfeld zwischen Erwartungsangst und
-  Erscheinungsschrecken»_ stehenden Vorlesung wurde den Studierenden der zu
-  überarbeitende Quellcode ausgehändigt, wonach diese sich an die Arbeit machen
-  konnten. Der Versuchung zu widerstehen, ungeliebte Tasks in ScrumDo den
-  Dozenten zuzuweisen, stellt die Hauptschwierigkeit im Modul VSK dar.
+  darum, eine von der HSLU unter HSLU-Standards als _schlecht_ beurteilte
+  Software um eine austauschbare, client-seitige Logger-Komponente zu
+  erweitern. Diese Komponente ist insofern austauschbar, dass bei der
+  Verwendung einer fremden Logger-Komponente auch der ganze dazugehöriger
+  Server-Stack ausgetauscht werden muss. Um die Studierenden auf die anstehende
+  Projektarbeit vorzubereiten doziert Herr Prof. Dr. nat. phil.  Martin Jud
+  unter anderem zu den Themen _«Die Struktur des Strukturlosen: ein
+  Kriegsbericht von der Modulplanungsfront»_; _«Chaos als ästhetische Kategorie
+  oder: wie man Java-Packages strukturiert»_ und schliesslich _«Irrungen,
+  Wirrungen: was uns die späte Prosa Fontanes über die Konzeption und Planung
+  von Software nach dem SoDa-Vorgehensmodell zu sagen hat»_. Nach der Vorlesung
+  zum Thema _«Die Projektinitialisierung: Im Spannungsfeld zwischen
+  Erwartungsangst und Erscheinungsschrecken»_ konnten sich die Gruppen an die
+  Projektarbeit machen, wobei Studierende jüngerer Jahrgänge zum ersten -- und
+  letzten! -- mal in ihrem Leben ein Java-Applet ausführten. Der Versuchung zu
+  widerstehen, ungeliebte Tasks in ScrumDo Herrn Hofstetter zuzuweisen, stellt
+  die Hauptschwierigkeit in der Projektarbeit dar. Neben theoretischem Wissen
+  werden auch zahlreiche praktische Prinzipien eingeführt:
+    - Open Closed Principle (OCP): Man ist für Veränderungen offen, das
+      Sekretariat für deren Umsetzung aber bereits geschlossen.
+    - Single Responsibility Principle (SRP): Roland Gisler ist alleine für die
+      Modulqualität verantwortlich.
+    - Separation of Concerns (SOC): Martin Jud erarbeitet die Prüfung, der
+      Computer korrigiert sie.
+    - Principle of Least Surprise (PLS): Positive Überraschungen bleiben wie
+      immer aus.
+    - Don't Repeat Yourself (DRY): Auch mehrmahliges Nachfragen führt nicht zu
+      einer verständlichen Erklärung.
+    - Keep It Simple, Stupid (KISS): Bei der MEP gibt es volle Punktzahl --
+      oder gar keine Punkte.
 - WEBTEC: Peter Infangers _tour de force_ durch die Web-Technologien HTML, CSS
   und JavaScript etc. mit Zurschaustellung seiner privaten Büchersammlung zu
   selbigen Themen und Surftipps wie `rotten.com` ist ein beliebtes und
