@@ -29,10 +29,10 @@ Schopenhauer)**
   C#-Apolegeten immer als «viel besser als Java» bewertet wird. Nach erfolgter
   Einführung soll ein zweimotoriger Roboter angesteuert werden, was gemäss
   studentischen Berichten immer aufgrund schlechter Konnektivität scheitere.
-  Höhepunkt des Moduls -- aus Sicht des Autors dieser Zeilen -- war
+  Höhepunkt des Moduls ‒ aus Sicht des Autors dieser Zeilen ‒ war
   zweifelsfrei die Vorlesung, die mit einer ausgiebigen Instruktion darüber
   begann, wie die Robotersoftware daran gehindert werden kann, Visual Studio
-  zum Abstürzen zu bringen -- und aus Sicht des Autors damit endete, dass er
+  zum Abstürzen zu bringen ‒ und aus Sicht des Autors damit endete, dass er
   entnervt seine Sachen packte, dem Sonnenuntergang entgegen nach Hause ging,
   und sich nie wieder in einer Vorlesung zu diesem Modul blicken liess.
 - DBS: Im Modul Datenbanksysteme machen wir _Big Data_ mit cloud-basierten
@@ -196,13 +196,13 @@ Schopenhauer)**
   von Software nach dem SoDa-Vorgehensmodell zu sagen hat»_. Nach der Vorlesung
   zum Thema _«Die Projektinitialisierung: Im Spannungsfeld zwischen
   Erwartungsangst und Erscheinungsschrecken»_ konnten sich die Gruppen an die
-  Projektarbeit machen, wobei Studierende jüngerer Jahrgänge zum ersten -- und
-  letzten! -- mal in ihrem Leben ein Java-Applet ausführten. Der Versuchung zu
+  Projektarbeit machen, wobei Studierende jüngerer Jahrgänge zum ersten ‒ und
+  letzten! ‒ mal in ihrem Leben ein Java-Applet ausführten. Der Versuchung zu
   widerstehen, ungeliebte Tasks in ScrumDo Herrn Hofstetter zuzuweisen, stellt
   die Hauptschwierigkeit in der Projektarbeit dar. Innovation war bei der
   Prüfungsvorbereitung gefragt, denn an der MEP musste eine Tabelle mit
   mehreren Reviewarten und zahlreichen dazugehörigen Aspekten hergeleitet
-  werden -- und zwar 1:1 aus dem Gedächtnis. Die Studierenden lösten das
+  werden ‒ und zwar 1:1 aus dem Gedächtnis. Die Studierenden lösten das
   Problem schliesslich mit einem rhythmischen Klatsch- und Patsch-Spiel. Neben
   theoretischem Wissen werden auch zahlreiche praktische Prinzipien eingeführt:
     - Open Closed Principle (OCP): Man ist für Veränderungen offen, das
@@ -215,7 +215,7 @@ Schopenhauer)**
       immer aus.
     - Don't Repeat Yourself (DRY): Auch mehrmahliges Nachfragen führt nicht zu
       einer verständlichen Erklärung.
-    - Keep It Simple, Stupid (KISS): Bei der MEP gibt es volle Punktzahl --
+    - Keep It Simple, Stupid (KISS): Bei der MEP gibt es volle Punktzahl ‒
       oder gar keine Punkte.
 - WEBTEC: Peter Infangers _tour de force_ durch die Web-Technologien HTML, CSS
   und JavaScript etc. mit Zurschaustellung seiner privaten Büchersammlung zu
