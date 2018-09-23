@@ -25,12 +25,16 @@ Schopenhauer)**
   Satellitenkommunikation bis ZigBee und durch alle OSI-Layer hindurch erhält
   der Studierende eine Schnellbleiche über _alles das Informatische Betreffende
   und alles damit Zusammenhängende_.
-- CSA: C# in Action ist eine Einführung in die Programmiersprache C#, die von
-  den C#-Apolegeten ‒ Leute, die sich einen Apple-Sticker auf ihr Microsoft
-  Surface kleben! ‒ immer als «viel besser als Java» bewertet wird. Nach
-  erfolgter Einführung soll ein zweimotoriger Roboter angesteuert werden, was
-  gemäss studentischen Berichten immer aufgrund schlechter Konnektivität
-  scheitere.
+- CSA: _C# in Action_ ist eine Einführung in die Programmiersprache C#, die von
+  C#-Apolegeten immer als «viel besser als Java» bewertet wird. Nach erfolgter
+  Einführung soll ein zweimotoriger Roboter angesteuert werden, was gemäss
+  studentischen Berichten immer aufgrund schlechter Konnektivität scheitere.
+  Höhepunkt des Moduls -- aus Sicht des Autors dieser Zeilen -- war
+  zweifelsfrei die Vorlesung, die mit einer ausgiebigen Instruktion darüber
+  begann, wie die Robotersoftware daran gehindert werden kann, Visual Studio
+  zum Abstürzen zu bringen -- und aus Sicht des Autors damit endete, dass er
+  entnervt seine Sachen packte, dem Sonnenuntergang entgegen nach Hause ging,
+  und sich nie wieder in einer Vorlesung zu diesem Modul blicken liess.
 - DBS: Im Modul Datenbanksysteme machen wir _Big Data_ mit cloud-basierten
   _NoSQL_-Datenbanken, die als _Docker_-Images auf einem verteilten
   _IoT_-_Kubernetes_-Cluster laufen, mit _Blockchain_, die wir per verteiltem
@@ -105,6 +109,18 @@ Schopenhauer)**
 - OOP: Das Modul, das gleichzeitig mit PLAB am Montagnachmittag und
   gleichzeitig mit dem Auschlafen am Dienstagvormittag stattfand für
   Studierende, die nicht schon mehrjährig Java-geschädigt sind.
+- MC: Im Modul _Mikrocontroller_ erläutert Peter Sollberger (der bereits 1990 den
+  Linux-Kernel selbst kompiliert haben will, obwohl Linus Torvalds die Arbeit
+  daran erst im April 1991 begonnen hatte) interessierten Studenten der
+  Informatik und Elektrotechnik die Programmiersprache C. Dabei wird von der
+  ersten Lektion an eine IDE (Netbeans) verwendet, welches gigantische
+  Boilerplate-Projekte mit entsprechenden Makefiles erzeugt, sodass der
+  Dozierende sich eine Viertelstunde lang über den Build-Prozess auslassen
+  kann, währenddem Studenten mit C-Vorwissen einfach `make hello && ./hello`
+  eintippen und anschliessend auf das Ende der Ausführungen warten. Im zweiten
+  Teil des Moduls wird unter Anleitung des Dozierenden Christian Jost die
+  Installation weiterer Bloatware eingeübt, womit später ein Mikrocontroller
+  mit äusserst knappen Ressourcen programmiert werden soll.
 - PLAB: Die bereits in Java bewanderten Studierenden durften unter der
   Anleitung von Prof. Ruedi Arnold und dem externen Aushilfsassistenten Joachim
   (ohne Nachnamen) ihre bereits vorhandenen Java-Kenntnisse durch
@@ -117,15 +133,23 @@ Schopenhauer)**
   seienden Seinswelt (veranschaulicht durch eine hermeneutischer Dialektik
   (anhand eines teleologisch-analytischen Ansatzes (usw. usf.)))))) vermittelt
   durch Herrn Prof. Dr. nat. phil. Martin Jud veranschaulichen soll.
-- PREN I: Im Flaggschiff unter den Projektmodulen geht es dieses Jahr um die
-  Konzipierung einer autonomen sogenannten _Laufkatze_, die eine Last orten,
-  aufnehmen und punktgenau im Zielbereich ablegen soll. Die Gruppengrösse
-  übertrifft mit sieben bis acht jedes vernünftige Mass, die Organisation in
-  Horw ist aber derjenigen in Rotkreuz um Lichtjahre voraus. Oft wird auf das
-  Modul _Kontext 1_ verwiesen, das bei den Rotkreuzern unter den Studierenden
-  nur als Verweis in ein geistiges Vakuum verstanden wird. Melancholisch
-  veranlagte Studierende geraten dabei schon einmal ins Grübeln («Ach dort
-  hätten wir etwas über _die gute Projektführung_ erfahren sollen!»)
+- PREN I: Im Flaggschiff unter den Projektmodulen ging es im Herbstsemester
+  2017 um die Konzipierung einer autonomen sogenannten _Laufkatze_, die eine
+  Last orten, aufnehmen und punktgenau im Zielbereich ablegen soll. Die
+  Gruppengrösse übertrifft mit sieben bis acht jedes vernünftige Mass, die
+  Organisation in Horw ist aber derjenigen in Rotkreuz um Lichtjahre voraus.
+  Oft wird auf das Modul _Kontext 1_ verwiesen, das bei den Rotkreuzern unter
+  den Studierenden nur als Verweis in ein geistiges Vakuum verstanden wird.
+  Melancholisch veranlagte Studierende geraten dabei schon einmal ins Grübeln
+  («Ach dort hätten wir etwas über _die gute Projektführung_ erfahren sollen!»)
+- PREN II: Im Frühlingssemester 2018 wurde umgesetzt, was im Herbstsemester
+  zuvor konzipiert wurde. Das Modul endet mit einem Wettkampf, der für viele
+  Dozenten sichtlich und trotz anstehender Semesterferien den existenziellen
+  Höhepunkt des jeweiligen Jahres darstellt. Die Notengebung erfolgt mit einem
+  speziellen Würfel, dessen Wurfergebnisse normalverteilt sind. Erfolgreich
+  umgesetzte und mit _«sehr gut»_ bewertete Konzepte werden so etwa als
+  _«ausreichend»_ bewertet.  Funktionstüchtigkeit des Prototypen und
+  Schlussbewertung weisen keine Korrelation auf.
 - PTA: Mit der sogenannten _Projekt- und Teamarbeit_ (auf Englisch: _Pointless
   Team Assignment_) wurde der absolute Tiefpunkt des Studiums strategisch an
   den Anfang desselben gesetzt. Das gegenseitige Kennenlernen in Sechsergruppen
