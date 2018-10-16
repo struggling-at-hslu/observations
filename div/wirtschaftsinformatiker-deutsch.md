@@ -1,6 +1,6 @@
 # Wirtschaftsinformatiker ‒ Deutsch
 
-Dieses Glosser _Wirtschaftsinformatiker ‒ Deutsch_ wurde gesammelt um die
+Dieses Glossar _Wirtschaftsinformatiker ‒ Deutsch_ wurde gesammelt um die
 Kommunikation zwischen Informatikern und Wirtschaftsinformatikern bzw. das
 Verständnis der Informatiker für die Wirtschaftsinformatiker an der HSLU zu
 verbessern.
