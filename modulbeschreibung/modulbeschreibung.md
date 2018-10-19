@@ -113,14 +113,36 @@ Schopenhauer)**
   Linux-Kernel selbst kompiliert haben will, obwohl Linus Torvalds die Arbeit
   daran erst im April 1991 begonnen hatte) interessierten Studenten der
   Informatik und Elektrotechnik die Programmiersprache C. Dabei wird von der
-  ersten Lektion an eine IDE (Netbeans) verwendet, welches gigantische
-  Boilerplate-Projekte mit entsprechenden Makefiles erzeugt, sodass der
+  ersten Lektion an eine IDE (NetBeans) verwendet, welche gigantische
+  Boilerplate-Projekte mit entsprechenden `Makefile`s erzeugt, sodass der
   Dozierende sich eine Viertelstunde lang über den Build-Prozess auslassen
   kann, währenddem Studenten mit C-Vorwissen einfach `make hello && ./hello`
-  eintippen und anschliessend auf das Ende der Ausführungen warten. Im zweiten
-  Teil des Moduls wird unter Anleitung des Dozierenden Christian Jost die
-  Installation weiterer Bloatware eingeübt, womit später ein Mikrocontroller
-  mit äusserst knappen Ressourcen programmiert werden soll.
+  eintippen und anschliessend auf das Ende der Ausführungen warten. Der Einsatz
+  einer schlanken, Linux-basierten Entwicklungsumgebung bestehend aus `vim`,
+  `gcc`, `gdb` und `make` wird dabei geächtet, sowie das eigenhändige Schreiben
+  einfachster `Makefile`s. Stattdessen ist unbedingt eine IDE wie NetBeans zu
+  verwenden, denn nur damit lasse sich professionell C programmieren. (Würden
+  doch Linus Torvalds, Ken Thompson und Rob Pike nur auf Professor Sollberger
+  hören!) Im zweiten Teil des Moduls wird unter Anleitung des Dozierenden
+  Christian Jost die Installation weiterer Bloatware eingeübt, womit ein
+  Mikrocontroller mit äusserst knappen Ressourcen programmiert werden soll.
+- PCP: Im Modul _Programming Concepts and Paradigms_ geht es einerseits bei
+  Ruedi Arnold um die deklarativ-logische Programmierung in Prolog mit
+  SWI-Prolog, die im starken Kontrast zur spekulativ-unlogischen Programmierung
+  in Java steht, wie sie sonst an der HSLU betrieben wird; andererseits bei
+  Roger Diehl um die deklarativ-funktionale Programmierung in Scheme mit
+  Racket, die im starken Kontrast zur primitiv-funktionsfreien Programmierung
+  in Java steht, wie sie sonst an der HSLU betrieben wird. Die Aufgaben müssen
+  regelmässig erledigt und den Dozenten vorgezeigt werden, wobei die zu
+  lösenden Probleme unter anderem von Ruedi Arnolds _Problem Provider_
+  generiert werden, bei dem der Name Programm und die zugrundeliegende
+  Programmiersprache naturgemäss Java ist. (_«I had a problem and thought to
+  use Java, now I have a ProblemFactory.»_) Die grösste Schwierigkeit neben dem
+  JSON-Handling in Prolog ist das schnelle Eintragen auf das
+  Aufgaben-Kontroll-Doodle, denn nur wer sich früh genug in die Liste einträgt
+  und die Aufgaben bald vorzeigen darf, kann auch das Mittagessen bereits um
+  11:20 Uhr einnehmen und sich so frühzeitig auf das anstehende Rentnerdasein
+  einstellen.
 - PLAB: Die bereits in Java bewanderten Studierenden durften unter der
   Anleitung von Prof. Ruedi Arnold und dem externen Aushilfsassistenten Joachim
   (ohne Nachnamen) ihre bereits vorhandenen Java-Kenntnisse durch
@@ -133,6 +155,13 @@ Schopenhauer)**
   seienden Seinswelt (veranschaulicht durch eine hermeneutischer Dialektik
   (anhand eines teleologisch-analytischen Ansatzes (usw. usf.)))))) vermittelt
   durch Herrn Prof. Dr. nat. phil. Martin Jud veranschaulichen soll.
+- PMRE: Aufgrund spärlicher Anwesenheit im Modul _Project Management und
+  Requirements Engineering_ kann der Autor dieser Zeilen keine qualifizierten
+  Aussagen darüber machen und muss über den Umweg der Spekulation ausgehend von
+  Modulunterlagen (_«das System soll auf der Basis ‹WWW-Browsertechnologie›
+  entwickelt werden»_) zu seinem Urteil gelangen, das aufgrund seiner
+  Voreingenommenheit gegen Wirtschaftsinformatiker hiermit «grober Unfug»
+  lauten soll.
 - PREN I: Im Flaggschiff unter den Projektmodulen ging es im Herbstsemester
   2017 um die Konzipierung einer autonomen sogenannten _Laufkatze_, die eine
   Last orten, aufnehmen und punktgenau im Zielbereich ablegen soll. Die
@@ -202,8 +231,8 @@ Schopenhauer)**
   die Hauptschwierigkeit in der Projektarbeit dar. Innovation war bei der
   Prüfungsvorbereitung gefragt, denn an der MEP musste eine Tabelle mit
   mehreren Reviewarten und zahlreichen dazugehörigen Aspekten hergeleitet
-  werden ‒ und zwar 1:1 aus dem Gedächtnis. Die Studierenden lösten das
-  Problem schliesslich mit einem rhythmischen Klatsch- und Patsch-Spiel. Neben
+  werden ‒ und zwar 1:1 aus dem Gedächtnis. Die Studierenden lösten das Problem
+  schliesslich mit einem rhythmischen Klatsch- und Patsch-Spiel. Neben
   theoretischem Wissen werden auch zahlreiche praktische Prinzipien eingeführt:
     - Open Closed Principle (OCP): Man ist für Veränderungen offen, das
       Sekretariat für deren Umsetzung aber bereits geschlossen.
@@ -215,8 +244,8 @@ Schopenhauer)**
       immer aus.
     - Don't Repeat Yourself (DRY): Auch mehrmahliges Nachfragen führt nicht zu
       einer verständlichen Erklärung.
-    - Keep It Simple, Stupid (KISS): Bei der MEP gibt es volle Punktzahl ‒
-      oder gar keine Punkte.
+    - Keep It Simple, Stupid (KISS): Bei der MEP gibt es volle Punktzahl ‒ oder
+      gar keine Punkte.
 - WEBTEC: Peter Infangers _tour de force_ durch die Web-Technologien HTML, CSS
   und JavaScript etc. mit Zurschaustellung seiner privaten Büchersammlung zu
   selbigen Themen und Surftipps wie `rotten.com` ist ein beliebtes und
