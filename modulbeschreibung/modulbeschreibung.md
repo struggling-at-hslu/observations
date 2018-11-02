@@ -131,18 +131,22 @@ Schopenhauer)**
   SWI-Prolog, die im starken Kontrast zur spekulativ-unlogischen Programmierung
   in Java steht, wie sie sonst an der HSLU betrieben wird; andererseits bei
   Roger Diehl um die deklarativ-funktionale Programmierung in Scheme mit
-  Racket, die im starken Kontrast zur primitiv-funktionsfreien Programmierung
-  in Java steht, wie sie sonst an der HSLU betrieben wird. Die Aufgaben müssen
-  regelmässig erledigt und den Dozenten vorgezeigt werden, wobei die zu
-  lösenden Probleme unter anderem von Ruedi Arnolds _Problem Provider_
-  generiert werden, bei dem der Name Programm und die zugrundeliegende
-  Programmiersprache naturgemäss Java ist. (_«I had a problem and thought to
-  use Java, now I have a ProblemFactory.»_) Die grösste Schwierigkeit neben dem
-  JSON-Handling in Prolog ist das schnelle Eintragen auf das
-  Aufgaben-Kontroll-Doodle, denn nur wer sich früh genug in die Liste einträgt
-  und die Aufgaben bald vorzeigen darf, kann auch das Mittagessen bereits um
-  11:20 Uhr einnehmen und sich so frühzeitig auf das anstehende Rentnerdasein
-  einstellen.
+  Racket, wobei lexikalisches Scoping (was schon alle kennen) und prozedurale
+  Programmierung (was man damit nicht machen sollte) behandelt werden (was
+  infolgedessen niemanden interessierte). Die Behandlung des funktionalen
+  Paradigmas beschränkt sich auf die Übergabe von Funktionsparametern und
+  trivialste Lambda-Expressions. Makros (das Alleinstellungsmerkmal der
+  Sprache) und Closures werden nicht erwähnt, geschweige denn behandelt. Die
+  Aufgaben müssen regelmässig erledigt und den Dozenten vorgezeigt werden,
+  wobei die zu lösenden Probleme unter anderem von Ruedi Arnolds _Problem
+  Provider_ generiert werden, bei dem der Name Programm und die
+  zugrundeliegende Programmiersprache naturgemäss Java ist. (_«I had a problem
+  and thought to use Java, now I have a ProblemFactory.»_) Die grösste
+  Schwierigkeit neben dem JSON-Handling in Prolog ist das schnelle Eintragen
+  auf das Aufgaben-Kontroll-Doodle, denn nur wer sich früh genug in die Liste
+  einträgt und die Aufgaben bald vorzeigen darf, kann auch das Mittagessen
+  bereits um 11:20 Uhr einnehmen und sich so frühzeitig auf das anstehende
+  Rentnerdasein einstellen.
 - PLAB: Die bereits in Java bewanderten Studierenden durften unter der
   Anleitung von Prof. Ruedi Arnold und dem externen Aushilfsassistenten Joachim
   (ohne Nachnamen) ihre bereits vorhandenen Java-Kenntnisse durch
