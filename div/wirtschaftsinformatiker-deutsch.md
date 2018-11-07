@@ -7,7 +7,7 @@ verbessern.
 
 | Wirtschaftsinformatiker         | Deutsch                                                                                      |
 |---------------------------------|----------------------------------------------------------------------------------------------|
-| Augmented Reality               | EarPods während eines Gespräch drin lassen                                                   |
+| Augmented Reality               | EarPods während eines Gesprächs drin lassen                                                  |
 | Blockchain                      | Datenbank (vorzugsweise Microsoft Access)                                                    |
 | Data Mining                     | Summen- und Suchfunktion von Excel                                                           |
 | Data Science                    | Excel                                                                                        |
