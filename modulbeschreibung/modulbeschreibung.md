@@ -136,12 +136,14 @@ Schopenhauer)**
   infolgedessen niemanden interessierte). Die Behandlung des funktionalen
   Paradigmas beschränkt sich auf die Übergabe von Funktionsparametern und
   trivialste Lambda-Expressions. Makros (das Alleinstellungsmerkmal der
-  Sprache) und Closures werden nicht erwähnt, geschweige denn behandelt. Die
-  Aufgaben müssen regelmässig erledigt und den Dozenten vorgezeigt werden,
-  wobei die zu lösenden Probleme unter anderem von Ruedi Arnolds _Problem
-  Provider_ generiert werden, bei dem der Name Programm und die
-  zugrundeliegende Programmiersprache naturgemäss Java ist. (_«I had a problem
-  and thought to use Java, now I have a ProblemFactory.»_) Die grösste
+  Sprache) und Closures werden nicht erwähnt, geschweige denn behandelt.
+  Funktionale Programmierung in Java 8 (d.h. `filter`, `map`, `reduce` auf
+  Streams) wird hingegen an vier Vormittagen mit Foliensätzen à 50 MB ausgiebig
+  behandelt. Die Aufgaben müssen regelmässig erledigt und den Dozenten
+  vorgezeigt werden, wobei die zu lösenden Probleme unter anderem von Ruedi
+  Arnolds _Problem Provider_ generiert werden, bei dem der Name Programm und
+  die zugrundeliegende Programmiersprache naturgemäss Java ist. («I had a
+  problem and thought to use Java, now I have a ProblemFactory.») Die grösste
   Schwierigkeit neben dem JSON-Handling in Prolog ist das schnelle Eintragen
   auf das Aufgaben-Kontroll-Doodle, denn nur wer sich früh genug in die Liste
   einträgt und die Aufgaben bald vorzeigen darf, kann auch das Mittagessen
