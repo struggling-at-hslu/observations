@@ -309,7 +309,7 @@ In einem neuen Soziologiemodul, das naturgemäss als ISA-Modul angeboten und
 nach dem neuesten HSLU-Reglement mit 2¼ Credits vergütet wird, kam an der
 ersten Modulveranstaltung der Begriff der sogenannten _A-Bevölkerung_ zur
 Sprache. Diese Bevölkerungsgruppe umfasse Arme, Alte, Arbeitslose und
-Ausländer, meinte Prof. Dr. Einschläferle, wobei er an der Modulenprüfung, die
+Ausländer, meinte Prof. Dr. Einschläferle, wobei er an der Modulendprüfung, die
 dieses Jahr mündlich und schriftlich abgenommen werde, auch andere und
 ergänzende Definitionen akzeptiere. Es ginge im Grunde um eine von der
 sogenannten arrivierten Gesellschaft gemiedene Bevölkerungsschicht, die in
