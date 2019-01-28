@@ -377,7 +377,7 @@ _Stressreduktion_ gleichkomme, woraufhin ein gewisser Gneisberger,
 Informatikstudierender allerhöchsten Semesters, es aufgebeben hat, satirisch
 über den Hochschulbetrieb zu schreiben, und sich stattdessen seither auf die
 wahrheitsgetreue Wiedergabe der tatsächlich an der Hochschule vorkommenden
-Hochschulvorkommnisse konzentrieren will, was bei ihm wiederum zu einer
-Stressreduktion während der Prüfungsphase führte, zumal die Prüfungsphase
+Hochschulvorkommnisse konzentriert, was bei ihm wiederum zu einer
+Stressreduktion während der Prüfungsphase führt, zumal die Prüfungsphase
 traditionsgemäss an der Hochschule Luzern immer die absurdeste und daher für
 das Verfassen von Satire immer die intensivste war.
