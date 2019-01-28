@@ -255,7 +255,7 @@ Die Studiengangleitung informiert die Studierenden:
 > in die Basthütte zu bringen.
 >
 > Mit dem Flugzeug geht es von Zürich nach Nairobi, wo Sie per Ochsenkarren an
-> die kenianische Grenze gebracht werden. Begleitet von einer Vorhut
+> die kenianisch-ugandische Grenze gebracht werden. Begleitet von einer Vorhut
 > südsudanesischer Minenauslösungsspezialisten durchschreiten Sie das
 > Sperrgebiet an der Grenze zu Uganda in einem zweitägigen Fussmarsch.
 > (Beachten Sie, dass das Mitbringen von Verpflegung, Bargeld, Kreditkarten und
