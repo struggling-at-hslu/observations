@@ -362,8 +362,8 @@ Die Zuger Zeitung vom 19. Juni 2018 berichtet:
 
 # Stressreduktion
 
-Auf Berichte des _Unterschichten Anzeigers_ über unter Prüfufungsstress
-leidende, sich selber auf den Hochschultoiletten weinend einsperrende, Ritalin
+Auf Berichte des _Unterschichten Anzeigers_ über unter Prüfungsstress leidende,
+sich selber auf den Hochschultoiletten weinend einsperrende, Ritalin
 konsumierende und, da Wirtschaftswissenschaften studierende, sich naturgemäss
 immer am Rande eines Nervenzusammenbruchs befindliche Studierende der
 Hochschule Luzern ‒ Wirtschaft reagierend, beschloss die Prüfungskommission der
