@@ -369,15 +369,15 @@ immer am Rande eines Nervenzusammenbruchs befindliche Studierende der
 Hochschule Luzern ‒ Wirtschaft reagierend, beschloss die Prüfungskommission der
 Hochschule Luzern nach einer achtundsiebzigstündigen Sitzung, den Beginn der
 Prüfungsphase bereits auf den Samstag vor den ursprünglich geplanten Beginn der
-Prüfungsphase vorzuverlegen, den Einwänden Herrn Prof. Dr. Xaver Nünftler
+Prüfungsphase vorzuverlegen, den Einwänden des Herrn Prof. Dr. Xaver Nünftlers
 (wonach eine Verkürzung der Lernphase um ein Wochenende wenig hilfreich sei)
 entgegen, mit der Begründung, dass Lernen Stress bedeute, eine Verkürzung der
 Lernphase einer Reduktion der Strassphase und daher folgerichtig einer
 _Stressreduktion_ gleichkomme, woraufhin ein gewisser Gneisberger,
-Informatikstudierender allerhöchsten Semesters, es aufgebeben hat, satirisch
-über den Hochschulbetrieb zu schreiben, und sich stattdessen seither auf die
-wahrheitsgetreue Wiedergabe der tatsächlich an der Hochschule vorkommenden
-Hochschulvorkommnisse konzentriert, was bei ihm wiederum zu einer
+Informatikstudierender allerhöchsten Semesters, es als nicht länger notwendig
+erachtete, sich satirisch zum Hochschulbetrieb zu äussern, und sich stattdessen
+seither auf die wahrheitsgetreue Wiedergabe der tatsächlich an der Hochschule
+vorkommenden Hochschulvorkommnisse konzentriert, was bei ihm wiederum zu einer
 Stressreduktion während der Prüfungsphase führt, zumal die Prüfungsphase
 traditionsgemäss an der Hochschule Luzern immer die absurdeste und daher für
-das Verfassen von Satire immer die intensivste war.
+das Verfassen von Satire immer die allerintensivste ist.
