@@ -8,6 +8,12 @@ header-includes:
 fontsize: 12pt
 ---
 
+> _«Dein Vater war immer der irrigen Meinung gewesen, hochtrabende akademische
+> Titel seien die Gewähr für ein gewisses ansehnliches Geistesvermögen. Darin
+> hat er immer geirrt.»_ 
+>
+> \hfill — Thomas Bernhard (Auslöschung)
+
 # Einschwingen
 
 Pünktlich zu Beginn des Kontaktstudiums, also am Montag der Kalenderwoche 38,

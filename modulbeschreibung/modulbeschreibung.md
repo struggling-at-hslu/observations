@@ -8,8 +8,9 @@ header-includes:
 fontsize: 12pt
 ---
 
-**_«Das Schicksal ist grausam und die Menschen sind erbärmlich»_ (Arthur
-Schopenhauer)**
+> _«Das Schicksal ist grausam und die Menschen sind erbärmlich»_ 
+> 
+> \hfill — Arthur Schopenhauer, Aphorismen zur Lebensweisheit
 
 - AD: Algorithmen und Datenstrukturen (und Nebenläufigkeit!) sagt schon alles.
   Es geht wirklich um Algorithmen und um Datenstrukturen (und um
