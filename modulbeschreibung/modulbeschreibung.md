@@ -10,15 +10,17 @@ fontsize: 12pt
 
 > _«Das Schicksal ist grausam und die Menschen sind erbärmlich»_ 
 > 
-> \hfill — Arthur Schopenhauer, Aphorismen zur Lebensweisheit
+> \hfill — Arthur Schopenhauer, _Aphorismen zur Lebensweisheit_
 
-- AD: Algorithmen und Datenstrukturen (und Nebenläufigkeit!) sagt schon alles.
+- AD: _Algorithmen und Datenstrukturen_ (und Nebenläufigkeit!) sagt schon alles.
   Es geht wirklich um Algorithmen und um Datenstrukturen (und um
   Nebenläufigkeit!), was anhand von mehr oder weniger sinnvollen Aufgaben
   eingeübt wird. Jede Woche werden drei von fünf vorher bestimmten Studenten
   ausgelost, die ihre Lösungen präsentieren müssen. Dabei kann es sein, dass
   manche Studenten _immer_ und andere _nie_ präsentieren müssen. (Siehe auch die
   Ausführungen zum Thema Zufall in der Beschreibung des Moduls PTA.)
+- CAB: _Cloud Angebot und Betrieb_, siehe CI: _Cloud Infrastructure_
+- CI: _Cloud Infrastructure_, siehe CAB: _Cloud Angebot und Betrieb_
 - CNA: Computer- und Netzwerkarchitektur ist ein Sammelsurium von Themen. Die
   Vorlesung wird gehalten vom Martin-Schulz-Double Wannemacher, vom
   Systemtechnik-Schwergewicht Waldmann und vom Professor für extraterrestrischen
@@ -36,7 +38,7 @@ fontsize: 12pt
   zum Abstürzen zu bringen ‒ und aus Sicht des Autors damit endete, dass er
   entnervt seine Sachen packte, dem Sonnenuntergang entgegen nach Hause ging,
   und sich nie wieder in einer Vorlesung zu diesem Modul blicken liess.
-- DBS: Im Modul Datenbanksysteme machen wir _Big Data_ mit cloud-basierten
+- DBS: Im Modul _Datenbanksysteme_ machen wir _Big Data_ mit cloud-basierten
   _NoSQL_-Datenbanken, die als _Docker_-Images auf einem verteilten
   _IoT_-_Kubernetes_-Cluster laufen, mit _Blockchain_, die wir per verteiltem
   Echtzeit-Java manipulieren, per _Machine Learning_ trainieren und mittels
@@ -62,7 +64,7 @@ fontsize: 12pt
   mit den Mitteln der Informatik (mit sogenannter _Software_!) migrieren lässt.
 - DMATH: Dr. Joseph Bürglers praktische Zahlentheorie und theoretische
   Zahlenpraxis mit theoretischen und praktischen Zählübungen (ohne
-  Fingereinsatz); offiziell als _diskrete Mathematik_ geführt. Das Abzählen von
+  Fingereinsatz); offiziell als _Diskrete Mathematik_ geführt. Das Abzählen von
   Heeresgrössen nach dem chinesischen Restsatz und die von Euler auf die
   Königsberger Brücken angewandte Spaziergangstheorie sind nur zwei der in
   DMATH vermittelten praxisrelevanten Fähigkeiten.
@@ -73,43 +75,48 @@ fontsize: 12pt
   Testats ist, sollte man den Begriff «Third World Country» vermeiden. Die
   politisch korrekte Bezeichnung lautet anscheinend «Shithole Country» (Stand
   Januar 2018).
-- FKOM: Fachkommunikation oder Deutsch für Informatiker inklusive einer
+- FKOM: _Fachkommunikation_ oder Deutsch für Informatiker inklusive einer
   Einführung in _das Internet_ von einem Nicht-Informatiker erteilt an
   Informatiker. Es wurde gebloggt und einmal fiel sogar das Wort
   «Schlumpfschach».
-- IMATH: In diesem Modul erbringt Dr. Joseph Bürgler den endgültigen Beweis
-  dafür, dass man sich Mathematik zwar nicht als Gruppenarbeit aneignen kann,
-  dies aber trotzdem unbedingt versucht werden muss.
+- IMATH: In diesem Modul, genannt _Informatik-Mathematik_, erbringt Dr. Joseph
+  Bürgler den endgültigen Beweis dafür, dass man sich Mathematik zwar nicht als
+  Gruppenarbeit aneignen kann, dies aber trotzdem unbedingt versucht werden
+  muss.
 - IPCV: Unter Anleitung von Thomas Koller, der das Betrachten von
-  Fussballspielen lieber an OpenCV delegiert, lernen die Studenten, wie man das
-  Playmate Lena auf den Kopf stellt, Hände abschneidet, ein X-Wing-Raumschiff
-  auf dem Mond platziert und Einstein scharf macht. Dr. Joseph Bürgler sorgt
-  mit seinem gekonnten Einstreuen von Integral- und Summenzeichen für den
-  angemessenen wissenschaftlichen Touch.
+  Fussballspielen lieber an OpenCV delegiert, lernen die Studenten im Modul
+  _Image Processing and Computer Vision_, wie man das Playmate Lena auf den
+  Kopf stellt, Hände abschneidet, ein X-Wing-Raumschiff auf dem Mond platziert
+  und Einstein scharf macht. Dr. Joseph Bürgler sorgt mit seinem gekonnten
+  Einstreuen von Integral- und Summenzeichen für den angemessenen
+  wissenschaftlichen Touch.
 - ISF: Der europareisende Security-Kosmopolit Hämmerli und der altgediente,
-  drittweltgewandte Wirtschaftsinformatik-Haudegen Marfurt wechseln sich
-  zwischen theoretisch-theoretischen (Hämmerli) und anschaulich-praktischen
-  (Marfurt) Themen im Bereich der Informationssicherheit ab. Assistent Pouly
-  lanciert einen Cyberangriff auf studentische Passwörter, um sie zur
-  Entwicklung ihrer Cyberselbstverteidigungsfähigkeiten anzuregen.
-- ITEO: IT Engineering & Operations; ist eine CNA-Fortsetzung, die auch als
+  drittweltgewandte Wirtschaftsinformatik-Haudegen Marfurt wechseln sich im
+  Modul _Information Security Fundamentals_ zwischen theoretisch-theoretischen
+  (Hämmerli) und anschaulich-praktischen (Marfurt) Themen im Bereich der
+  Informationssicherheit ab. Assistent Pouly lanciert einen Cyberangriff auf
+  studentische Passwörter, um sie zur Entwicklung ihrer
+  Cyberselbstverteidigungsfähigkeiten anzuregen.
+- ITEO: _IT Engineering & Operations_ ist eine CNA-Fortsetzung, die auch als
   _Waldmann-Joho-Kurmannscher Informatik-Almanach_ bekannt ist. In diesem Modul
   kommt nicht nur PowerPoint, sondern auch Excel zum Einsatz.
 - MATH: Evaluationsseminar für die E-Learning-Plattform _Learning Catalytics_
   des _Pearson_-Verlages anhand verschiedenster Aufgaben zur Differentiel- und
   Integralrechnung bei Herrn Dr. Schmidt unter Einsatz eines dem Abakus
-  deutlich überlegenen Taschenrechners.
+  deutlich überlegenen Taschenrechners; offiziell als _Mathematik-Grundlagen_
+  geführt.
 - KS: Im ISA-Modul _Kreatives Schreiben_ and der HSLU ‒ Wirtschaft wird jeden
   zweiten Mittwochabend ‒ ja! ‒ kreativ geschrieben. Die dazu vom Hausdienst
   bereitgestellte Kaffeemaschine unterstützt diesen Prozess, wozu ein mit Bier
   gefüllter Kühlschrank oder eine Flasche Absinthe wohl noch besser geeignet
   wären.
-- MOD: Ein weiteres Kurmann-Modul mit Schwäbisch-Exkursen erteilt durch den
-  Professor Zimmermann. Die UML-Notation, die bereits im vorhergehenden
-  Semester vorausgesetzt wurde, wird hier nun eingeführt.
-- OOP: Das Modul, das gleichzeitig mit PLAB am Montagnachmittag und
-  gleichzeitig mit dem Auschlafen am Dienstagvormittag stattfand für
-  Studierende, die nicht schon mehrjährig Java-geschädigt sind.
+- MOD: Ein weiteres Kurmann-Modul, geführt als _Modellieren Grundlagen_ mit
+  Schwäbisch-Exkursen erteilt durch den Professor Zimmermann. Die UML-Notation,
+  die bereits im vorhergehenden Semester vorausgesetzt wurde, wird hier nun
+  eingeführt.
+- OOP: Das Modul _Objektorientierte Programmierung_, das gleichzeitig mit PLAB
+  am Montagnachmittag und gleichzeitig mit dem Auschlafen am Dienstagvormittag
+  stattfand für Studierende, die nicht schon mehrjährig Java-geschädigt sind.
 - MC: Im Modul _Mikrocontroller_ erläutert Peter Sollberger (der bereits 1990 den
   Linux-Kernel selbst kompiliert haben will, obwohl Linus Torvalds die Arbeit
   daran erst im April 1991 begonnen hatte) interessierten Studenten der
@@ -153,7 +160,8 @@ fontsize: 12pt
 - PLAB: Die bereits in Java bewanderten Studierenden durften unter der
   Anleitung von Prof. Ruedi Arnold und dem externen Aushilfsassistenten Joachim
   (ohne Nachnamen) ihre bereits vorhandenen Java-Kenntnisse durch
-  selbstgehaltene Vorträge und Kurzübungen vertiefen.
+  selbstgehaltene Vorträge und Kurzübungen im Modul _Programmierlabor_
+  vertiefen.
 - PMB: Projektmanagement, theoretische Physik und _Mensch & Umwelt_ in einem.
   Es wird ein fiktives Konzept für die fiktive (und zum Untergang verdammte)
   Firma SwissGrooves (die sogenannte «Rille») ausgearbeitet, das den
@@ -161,7 +169,8 @@ fontsize: 12pt
   Raum-Zeit-Kontinuum (in seiner physisch-reellen Materialisierung (in der
   seienden Seinswelt (veranschaulicht durch eine hermeneutischer Dialektik
   (anhand eines teleologisch-analytischen Ansatzes (usw. usf.)))))) vermittelt
-  durch Herrn Prof. Dr. nat. phil. Martin Jud veranschaulichen soll.
+  durch Herrn Prof. Dr. nat. phil. Martin Jud im Rahmen des Moduls _Project
+  Management Basics_ veranschaulichen soll.
 - PMRE: Aufgrund spärlicher Anwesenheit im Modul _Project Management und
   Requirements Engineering_ kann der Autor dieser Zeilen keine qualifizierten
   Aussagen darüber machen und muss über den Umweg der Spekulation ausgehend von
@@ -169,23 +178,24 @@ fontsize: 12pt
   entwickelt werden»_) zu seinem Urteil gelangen, das aufgrund seiner
   Voreingenommenheit gegen Wirtschaftsinformatiker hiermit «grober Unfug»
   lauten soll.
-- PREN I: Im Flaggschiff unter den Projektmodulen ging es im Herbstsemester
-  2017 um die Konzipierung einer autonomen sogenannten _Laufkatze_, die eine
-  Last orten, aufnehmen und punktgenau im Zielbereich ablegen soll. Die
-  Gruppengrösse übertrifft mit sieben bis acht jedes vernünftige Mass, die
-  Organisation in Horw ist aber derjenigen in Rotkreuz um Lichtjahre voraus.
-  Oft wird auf das Modul _Kontext 1_ verwiesen, das bei den Rotkreuzern unter
-  den Studierenden nur als Verweis in ein geistiges Vakuum verstanden wird.
-  Melancholisch veranlagte Studierende geraten dabei schon einmal ins Grübeln
-  («Ach dort hätten wir etwas über _die gute Projektführung_ erfahren sollen!»)
+- PREN I: Im Flaggschiff unter den Projektmodulen _Produktentwicklung 1_ ging es
+  im Herbstsemester 2017 um die Konzipierung einer autonomen sogenannten
+  _Laufkatze_, die eine Last orten, aufnehmen und punktgenau im Zielbereich
+  ablegen soll. Die Gruppengrösse übertrifft mit sieben bis acht jedes
+  vernünftige Mass, die Organisation in Horw ist aber derjenigen in Rotkreuz um
+  Lichtjahre voraus.  Oft wird auf das Modul _Kontext 1_ verwiesen, das bei den
+  Rotkreuzern unter den Studierenden nur als Verweis in ein geistiges Vakuum
+  verstanden wird.  Melancholisch veranlagte Studierende geraten dabei schon
+  einmal ins Grübeln («Ach dort hätten wir etwas über _die gute Projektführung_
+  erfahren sollen!»)
 - PREN II: Im Frühlingssemester 2018 wurde umgesetzt, was im Herbstsemester
-  zuvor konzipiert wurde. Das Modul endet mit einem Wettkampf, der für viele
-  Dozenten sichtlich und trotz anstehender Semesterferien den existenziellen
-  Höhepunkt des jeweiligen Jahres darstellt. Die Notengebung erfolgt mit einem
-  speziellen Würfel, dessen Wurfergebnisse normalverteilt sind. Erfolgreich
-  umgesetzte und mit _«sehr gut»_ bewertete Konzepte werden so etwa als
-  _«ausreichend»_ bewertet.  Funktionstüchtigkeit des Prototypen und
-  Schlussbewertung weisen keine Korrelation auf.
+  zuvor konzipiert wurde. Das Modul _Produktentwicklung 2_ endet mit einem
+  Wettkampf, der für viele Dozenten sichtlich und trotz anstehender
+  Semesterferien den existenziellen Höhepunkt des jeweiligen Jahres darstellt.
+  Die Notengebung erfolgt mit einem speziellen Würfel, dessen Wurfergebnisse
+  normalverteilt sind. Erfolgreich umgesetzte und mit _«sehr gut»_ bewertete
+  Konzepte werden so etwa als _«ausreichend»_ bewertet.  Funktionstüchtigkeit
+  des Prototypen und Schlussbewertung weisen keine Korrelation auf.
 - PTA: Mit der sogenannten _Projekt- und Teamarbeit_ (auf Englisch: _Pointless
   Team Assignment_) wurde der absolute Tiefpunkt des Studiums strategisch an
   den Anfang desselben gesetzt. Das gegenseitige Kennenlernen in Sechsergruppen
@@ -218,6 +228,19 @@ fontsize: 12pt
   Directed English Language Learning_, bei dem in Zweiergruppen über ein selbst
   gewähltes Thema referiert werden musste, ist das ideale Alternativprogramm
   zum mittwöchlichen Feierabendbier.
+- SPRG: Im Modul _Sicheres Programmieren_ haucht Bernhard Hämmerli der
+  K.u.K-Monarchie neues Leben ein, indem er von Woche zu Woche zwischen einer
+  österreichischen und ungarischen Besetzung variiert: Einmal der von seinen
+  norwegischen Wanderferien bekannte Herr Prof. Dr. Paul Tavolato aus St.
+  Pölten; einmal der von ihm sogenannte _höngärian Prögrämmer_, den er
+  mutmasslich auf dem Weg zu einem Altersheimbesuch kennengelernt hat. Das
+  Modul findet (der Modulausschreibung entgegen) teilweise ganztägig am Samstag
+  statt, aber wer damit ein Problem habe, könne sich ja gerne wieder abmelden,
+  meint das HSLU-Sekretariat dazu.
+- SWT: Im Modul _Software Testing_ stellt der Dozent Dominique Portmann die
+  Studenten vor unlösbare Aufgaben, indem er diese vor unlösbare Aufgaben
+  stellt, um zu demonstrieren, dass sich unlösbare Aufgaben nicht lösen lassen,
+  da diese nicht lösbar seien, und schon gar nicht mit _Selenium_.
 - VSK: Im sagenumwobenen Modul _Verteilte Systeme und Komponenten_ geht es
   darum, eine von der HSLU unter HSLU-Standards als _schlecht_ beurteilte
   Software um eine austauschbare, client-seitige Logger-Komponente zu
@@ -253,12 +276,13 @@ fontsize: 12pt
       einer verständlichen Erklärung.
     - Keep It Simple, Stupid (KISS): Bei der MEP gibt es volle Punktzahl ‒ oder
       gar keine Punkte.
-- WEBTEC: Peter Infangers _tour de force_ durch die Web-Technologien HTML, CSS
-  und JavaScript etc. mit Zurschaustellung seiner privaten Büchersammlung zu
-  selbigen Themen und Surftipps wie `rotten.com` ist ein beliebtes und
-  kurzweiliges Donnerstagnachmittagsvergnügen, das unter Studierenden auch
-  unter der Modulkategorie «betreutes Surfen» geführt wird. Mit einem 6.9
-  Gigabyte grossem Ubuntu-Image für ein _Hello World_-Beispiel mit AJAX kommt
-  dabei _cutting edge_-Technologie höchster Güte zum Einsatz. Bei der
-  Modulendprüfung ist ein hohes Bearbeitungstempo wichtig, damit man möglichst
-  bald wieder gehen kann.
+- WEBTEC: Beim Modul _Web Technologies_ handelt es sich um Peter Infangers
+  _tour de force_ durch die Web-Technologien HTML, CSS und JavaScript etc. mit
+  Zurschaustellung seiner privaten Büchersammlung zu selbigen Themen und
+  Surftipps wie `rotten.com` ist ein beliebtes und kurzweiliges
+  Donnerstagnachmittagsvergnügen, das unter Studierenden auch unter der
+  Modulkategorie «betreutes Surfen» geführt wird. Mit einem 6.9 Gigabyte
+  grossem Ubuntu-Image für ein _Hello World_-Beispiel mit AJAX kommt dabei
+  _cutting edge_-Technologie höchster Güte zum Einsatz. Bei der Modulendprüfung
+  ist ein hohes Bearbeitungstempo wichtig, damit man möglichst bald wieder
+  gehen kann.

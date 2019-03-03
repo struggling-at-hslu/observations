@@ -12,7 +12,7 @@ fontsize: 12pt
 > Titel seien die Gewähr für ein gewisses ansehnliches Geistesvermögen. Darin
 > hat er immer geirrt.»_ 
 >
-> \hfill — Thomas Bernhard (Auslöschung)
+> \hfill — Thomas Bernhard, _Auslöschung_
 
 # Einschwingen
 
