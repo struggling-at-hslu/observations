@@ -18,7 +18,12 @@ fontsize: 12pt
   eingeübt wird. Jede Woche werden drei von fünf vorher bestimmten Studenten
   ausgelost, die ihre Lösungen präsentieren müssen. Dabei kann es sein, dass
   manche Studenten _immer_ und andere _nie_ präsentieren müssen. (Siehe auch die
-  Ausführungen zum Thema Zufall in der Beschreibung des Moduls PTA.)
+  Ausführungen zum Thema Zufall in der Beschreibung des Moduls PTA.) Von
+  tieferen Semestern ist zu vernehmen, dass der Präsentierende aufgrund der
+  gestiegenen Studierendenzahl neu mit gleich _zwei_ Würfeln ausgelost werde.
+  Bis zur Einführung des Modulo-Operators im Folgesemester müssen sich also
+  Studierende, die sich auf der Liste neben der Zahl 1 wiederfinden, noch etwas
+  mit dem Präsentieren gedulden.
 - CAB: _Cloud Angebot und Betrieb_, siehe CI: _Cloud Infrastructure_
 - CI: _Cloud Infrastructure_, siehe CAB: _Cloud Angebot und Betrieb_
 - CNA: Computer- und Netzwerkarchitektur ist ein Sammelsurium von Themen. Die
