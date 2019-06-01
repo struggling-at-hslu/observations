@@ -83,6 +83,25 @@ fontsize: 12pt
   Bürgler den endgültigen Beweis dafür, dass man sich Mathematik zwar nicht als
   Gruppenarbeit aneignen kann, dies aber trotzdem unbedingt versucht werden
   muss.
+- INFKOL: Das Modul _Informatik-Kolloquium_ oder _Computer Science Hot Topics_
+  wurde als Energiesparprogramm für Studierende und Dozierende konzipiert und
+  findet am Mittwochabend als Konkurrenzveranstaltung zu verschiedensten
+  ISA-Modulen statt. Das Modul besteht einerseits aus fünf Gastvorträgen, wobei
+  der erste Gastvortrag von einem der Modulverantwortlichen (Rainer Schaub)
+  bestritten -- jedoch wie die vier anderen Gastvorträge auch mit einer _Zuger
+  Kirschtorte_ vom anderen Modulverantwortlichen (Martin Jud) abgegolten wird.
+  (Böse Zungen behaupten, das Modul INFKOL sei als Lösung für Rainer Schaubs
+  Geburtstagstortenproblem konzipiert worden, zumal er seit der Einführung
+  dieses Moduls seine Tante Elfriede jeden Frühling mit einer _Zuger
+  Kirschtorte_ im Gepäck in einem Altersheim im Schwarzwald besucht.) Beim
+  Hochladen der zu jedem Gastvortrag fälligen Zusammenfassung, Fragen und
+  Antworten hat es sich als vorteilhaft erwiesen, wenn der Name der
+  Studierenden jeweils Teil des Dateinamens war, sodass diese Dokumente zur
+  Kontrolle nicht noch zuerst umständlich geöffnet werden mussten. Der zweite
+  Teil des Moduls besteht in einem Term Paper, das von Studierenden alleine
+  oder in Zweiergruppen verfasst wird. Der Begriff des _Computer Science Hot
+  Topic_ ist dabei so weit gefasst, dass subjektiv vermutete Unterschiede
+  zwischen Asien und Europa als Thema gelten können.
 - IPCV: Unter Anleitung von Thomas Koller, der das Betrachten von
   Fussballspielen lieber an OpenCV delegiert, lernen die Studenten im Modul
   _Image Processing and Computer Vision_, wie man das Playmate Lena auf den
@@ -220,7 +239,7 @@ fontsize: 12pt
       Einführungstag, sodass der Stoff bis zur Anwendung garantiert wieder
       vergessen wurde.
     - Design Thinking: 30 Studierende sitzen sich in einem Raum gegenüber und
-      basteln zu House-Musik eine sogenannte Brieftasche aus Moosgummi, Schnur
+      basteln zu House-Musik eine Brieftasche aus Moosgummi, Schnur
       und Papier bis einer der Dozenten Gugolz oder Zwimpfer das Ende der
       Übungsphase mit einer Hupe signalisierten. (Gleich zwei Professoren mit
       Batikhemden können nichts Gutes verheissen!)
@@ -240,7 +259,24 @@ fontsize: 12pt
 - SWT: Im Modul _Software Testing_ stellt der Dozent Dominique Portmann die
   Studenten vor unlösbare Aufgaben, indem er diese vor unlösbare Aufgaben
   stellt, um zu demonstrieren, dass sich unlösbare Aufgaben nicht lösen lassen,
-  da diese nicht lösbar seien, und schon gar nicht mit _Selenium_.
+  da diese nicht lösbar seien, und schon gar nicht mit _Selenium_. Wichtige
+  IT-Fragestellungen, etwa wie man Tee zubereitet oder wie man einen Ball
+  testet, sind eine willkommene Abwechslung zu den mehrstündigen
+  PowerPoint-Karaoke-Sessions, die teilweise mit eigenen und teilweise mit
+  fremden Folien bestritten werden. Für die Testatprüfung kommt Excel (oder war
+  es «Exel»?) zum Einsatz, wobei das Worksheet mit einer ausgeklügelten
+  Kombination von einem Testing-Begriff und einer SCB-Schreihalserei
+  passwortgeschützt ist. Die letzte Modulveranstaltung kann dabei
+  schon einmal aus «familiären Gründen» ausfallen, gerade wenn diese auf einen
+  Freitagabend nach dem Auffahrtsdonnerstag fällt. Als Alternativprogramm zur
+  PowerPoint-Karaoke beim SCB-Fan Portmann an der HSLU bietet sich am
+  jeweiligen Freitag das Blick-Playback bei den EVZ-Fans in der örtlichen
+  avec-Filiale an, das kognitiv, rhetorisch und logisch auf einem ähnlich hohen
+  Niveau angesiedelt ist und mit einer vergleichbaren Inbrunst und Wehemenz
+  vorgetragen wird. Ersetze man den Ausruf _«verdammti huere Schoofseckle!»_
+  mental durch _«Teststrategie!»_, ist das intellektuelle Flair einer
+  SWT-Vorlesung auch in der avec-Filiale zu verspüren, wobei der Lernprozess in
+  letzterem Setting durch verschiedene Sorten Dosenbier unterstützt wird.
 - VSK: Im sagenumwobenen Modul _Verteilte Systeme und Komponenten_ geht es
   darum, eine von der HSLU unter HSLU-Standards als _schlecht_ beurteilte
   Software um eine austauschbare, client-seitige Logger-Komponente zu
