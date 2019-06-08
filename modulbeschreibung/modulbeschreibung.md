@@ -50,12 +50,12 @@ fontsize: 12pt
   _Augmented Reality_ ... _BINGO!_ Im Rahmen einer Satiresitzung lehnte sich
   der Modulverantwortliche Prof. Dr. Michael Kaufmann mit der kühnen These, dass
   Digitalisierung ein wichtiger Trend sei, weit aus dem Fenster und erwähnte
-  auch den Begriff _Industrie 4.0_. Es werden unter anderem Legacy-Technologien wie SQL
-  und relationale Datenbanken eingeführt, über die der Modulverantwortliche
-  schon längst hinweg ist. Unter der Maxime «NoSQL, bitch!» werden zu
-  relationalen Datenbanken gelöste Aufgaben als _zu sehr im relationalen
-  Paradigma verhaftet_; Datenbanken, die gemäss Aufgabenstellung in die dritte
-  Normalform überführt wurden, als _viel zu dogmatisch mit der
+  auch den Begriff _Industrie 4.0_. Es werden unter anderem Legacy-Technologien
+  wie SQL und relationale Datenbanken eingeführt, über die der
+  Modulverantwortliche schon längst hinweg ist. Unter der Maxime «NoSQL,
+  bitch!» werden zu relationalen Datenbanken gelöste Aufgaben als _zu sehr im
+  relationalen Paradigma verhaftet_; Datenbanken, die gemäss Aufgabenstellung
+  in die dritte Normalform überführt wurden, als _viel zu dogmatisch mit der
   Normalformen-Scheuklappe modelliert_ bewertet. Aufgrund vieler Abwesenheiten
   des Professors müssen die Studierenden oftmals mit seinem ebenfalls aus dem
   universitären Fribourger Informatikfilz stammenden Assistenten Denzler vorlieb
@@ -252,15 +252,24 @@ fontsize: 12pt
   Directed English Language Learning_, bei dem in Zweiergruppen über ein selbst
   gewähltes Thema referiert werden musste, ist das ideale Alternativprogramm
   zum mittwöchlichen Feierabendbier.
-- SPRG: Im Modul _Sicheres Programmieren_ haucht Bernhard Hämmerli der
-  K.u.K-Monarchie neues Leben ein, indem er von Woche zu Woche zwischen einer
-  österreichischen und ungarischen Besetzung variiert: Einmal der von seinen
-  norwegischen Wanderferien bekannte Herr Prof. Dr. Paul Tavolato aus St.
-  Pölten; einmal der von ihm sogenannte _höngärian Prögrämmer_, den er
-  mutmasslich auf dem Weg zu einem Altersheimbesuch kennengelernt hat. Das
+- SPRG: Im Modul _Sicheres Programmieren_ haucht Bernhard Hämmerli (in Indien
+  auch bekannt als Prof. Bernhard Hamarily/Hamarilli von der Lucini University)
+  der K.u.K-Monarchie neues Leben ein, indem er zwischen einer österreichischen
+  und ungarischen Besetzung variiert: Einmal der von seinen norwegischen
+  Wanderferien bekannte Herr Prof. Dr. Paul Tavolato aus St.  Pölten; einmal
+  der von ihm sogenannte _höngärian Prögrämmer_, den er mutmasslich auf dem Weg
+  zu einem Altersheimbesuch (_«to visit my möther»_) kennengelernt hat. Das
   Modul findet (der Modulausschreibung entgegen) teilweise ganztägig am Samstag
   statt, aber wer damit ein Problem habe, könne sich ja gerne wieder abmelden,
-  meint das HSLU-Sekretariat dazu.
+  meint das HSLU-Sekretariat dazu. Die letzte Modulveranstaltung fällt dabei
+  nicht wie im Modul SWT aus familiären, sondern aus bis dato unbekannten
+  Gründen aus. (Für eine Stellungnahme waren weder der Modulverantwortliche
+  Hämmerli noch der _«höngärian Prögrämmer»_ erreichbar.) Die Modulunterlagen
+  werden teilweise (für die Studenten nicht einsehbar) auf der Übungsablage,
+  teilweise (durch die Studenten modifizier- und löschbar) auf dem
+  Dateiaustausch abgegeben, sodass nur die regelmässigen Archivare unter den
+  Studierenden überhaupt beweisen konnten, dass die letzte Modulveranstaltung
+  überhaupt im Semesterplan erwähnt worden war.
 - SWT: Im Modul _Software Testing_ stellt der Dozent Dominique Portmann die
   Studenten vor unlösbare Aufgaben, indem er diese vor unlösbare Aufgaben
   stellt, um zu demonstrieren, dass sich unlösbare Aufgaben nicht lösen lassen,
