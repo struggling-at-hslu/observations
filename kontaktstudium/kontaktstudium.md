@@ -387,3 +387,58 @@ vorkommenden Hochschulvorkommnisse konzentriert, was bei ihm wiederum zu einer
 Stressreduktion während der Prüfungsphase führt, zumal die Prüfungsphase
 traditionsgemäss an der Hochschule Luzern immer die absurdeste und daher für
 das Verfassen von Satire immer die allerintensivste ist.
+
+# Verzögerungen
+
+Die Schulleitung informiert:
+
+> Sehr geehrte Studierende, Dozierende und Angestellte der HSLU ‒ Informatik
+>
+> Wir bedauern Ihnen mitteilen zu müssen, dass der neue Campus in Rotkreuz
+> nicht wie ursprünglich geplant bereits Mitte September zum Beginn des
+> Herbstsemesters 2019 eröffnet werden kann. Grund dafür sind Beschädigungen an
+> sämtlichen Lichtschaltern des neuen Gebäudes, die bedauerlicherweise bei den
+> Abnahmetests gemäss ISO-Standard 29119 unter der Leitung von Pominique
+> Dortmann entstanden sind. Verschiedene explorative Testläufe, wobei die
+> Lichtschalter mit verschiedensten Körperteilen, Werkzeugen, Schusswaffen und
+> durch Anschreien betätigt worden sind, ergaben, dass die Lichtschalter nicht
+> den geforderten Qualitätsstandards genügen und durch hochwertigere Modelle
+> ersetzt werden müssen. Die Evaluation für die neuen
+> Lichtschalter-Modelle ist derzeit noch im Gange.
+>
+> Aufgrund eines Missgeschicks in der Testdokumentation, wobei Herr Dortmann
+> seine Testtabelle von Excel in eine CSV-Datei exportierte, um damit eine
+> [studentische Testatarbeit](http://skiapoden.herokuapp.com/) einem
+> Fuzzying-Test zu unterziehen, und dabei die Titelzeile aus Versehen nicht
+> mitexportierte, und er Tage darauf die ursprüngliche Excel-Arbeitsmappe in
+> eine Testatprüfung umfunktionierte, ging die zur Interpretation der
+> Testergebnisse notwendige Informationen verloren, welche Testbehandlungen bei
+> den Lichtschaltern Defekte hervorriefen. Zur Wiederholung der Testdurchläufe
+> muss das neue Gebäude mit Lichtschaltern der bisherigen Modellreihe bestückt
+> werden.
+>
+> Dem Hinweis von Prof. Dr. Apfelbäumchen folgend, dass identische
+> Testbedingungen nicht nur identische Testobjekte und Behandlungen erfordern,
+> sondern auch mögliche andere Einflussgrössen (Confounding) ausgeschlossen
+> werden müssen, können die Tests erst dann wiederholt werden, wenn mittlere
+> Tagestemperatur, Distanz zwischen Erde und Jupiter und Austragungsorte des
+> Eidgenössischen Schwing- und Älplerfests und des Eidenössischen Turnfests
+> gleich sind wie im Sommer 2019. Eine Abschätzung dieses Zeitraums ist derzeit
+> noch nicht möglich, wird aber noch im nächsten Semester von einer
+> interdisziplinären Gruppe aus Machine-Learning-Spezialisten, Wahrsagern und
+> dem neuen Kantinenpersonal unter Einbezug mehrerer PTA-Arbeitsgruppen der
+> neuen Erstsemesterstudierenden angegangen.
+>
+> Da das Gebäude Suurstoffi 41 mittlerweile vollumfänglich vom Institut für
+> Statistisches Software-Testing in Beschlag genommen wurde, bitten wir Sie,
+> sich den Vorlesungsstoff bis auf Weiteres im Selbststudium anzueignen. Die
+> Modulendprüfungen zum Herbstsemester 2019 werden dann im Januar/Februar 2020
+> mittels passwortgeschützter Excel-Dateien abgenommen.
+>
+> Wir bitten Sie um Verständnis für diese zugegebenermassen nicht optimale
+> Studiensituation und wünschen Ihnen erfolgreiches Lernen auch im neuen
+> Semester.
+>
+> Mit freundlichen Grüssen
+>
+> Die Schulleitung
