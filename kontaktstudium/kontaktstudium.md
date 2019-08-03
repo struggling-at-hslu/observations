@@ -412,10 +412,10 @@ Die Schulleitung informiert:
 > Fuzzying-Test zu unterziehen, und dabei die Titelzeile aus Versehen nicht
 > mitexportierte, und er Tage darauf die ursprüngliche Excel-Arbeitsmappe in
 > eine Testatprüfung umfunktionierte, ging die zur Interpretation der
-> Testergebnisse notwendige Informationen verloren, welche Testbehandlungen bei
+> Testergebnisse notwendige Information verloren, welche Testbehandlungen bei
 > den Lichtschaltern Defekte hervorriefen. Zur Wiederholung der Testdurchläufe
-> muss das neue Gebäude mit Lichtschaltern der bisherigen Modellreihe bestückt
-> werden.
+> muss das neue Gebäude nun wieder mit Lichtschaltern der bisherigen
+> Modellreihe bestückt werden.
 >
 > Dem Hinweis von Prof. Dr. Apfelbäumchen folgend, dass identische
 > Testbedingungen nicht nur identische Testobjekte und Behandlungen erfordern,
@@ -430,10 +430,10 @@ Die Schulleitung informiert:
 > neuen Erstsemesterstudierenden angegangen.
 >
 > Da das Gebäude Suurstoffi 41 mittlerweile vollumfänglich vom Institut für
-> Statistisches Software-Testing in Beschlag genommen wurde, bitten wir Sie,
-> sich den Vorlesungsstoff bis auf Weiteres im Selbststudium anzueignen. Die
-> Modulendprüfungen zum Herbstsemester 2019 werden dann im Januar/Februar 2020
-> mittels passwortgeschützter Excel-Dateien abgenommen.
+> Statistisches Software-Testing in Beschlag genommen worden ist, bitten wir
+> Sie, sich den Vorlesungsstoff bis auf Weiteres im Selbststudium zu Hause
+> anzueignen.  Die Modulendprüfungen zum Herbstsemester 2019 werden dann im
+> Januar/Februar 2020 mittels passwortgeschützter Excel-Dateien abgenommen.
 >
 > Wir bitten Sie um Verständnis für diese zugegebenermassen nicht optimale
 > Studiensituation und wünschen Ihnen erfolgreiches Lernen auch im neuen
