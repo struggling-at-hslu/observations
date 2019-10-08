@@ -169,7 +169,7 @@ ansässige Pharmafirmen bereits ihre finanzielle Unterstützung zugesagt hätten
 Ziel des Pilotprojektes sei es, das neu geschaffene Enterprise-Brain-Lab zur
 Cloud-Machine-Learning-Plattform auszubauen. Die Infrastruktur soll dereinst
 dazu dienen, die Stundenplanung der Hochschule vollautomatisch vorzunehmen,
-wobei Oberassistent Bruho diesen gerade mit den Stundenplänen der letzten
+wobei Oberassistent Broho diesen gerade mit den Stundenplänen der letzten
 Semester, den Datumsangaben des Malayalam-Kalenders und den Rechenregeln der
 bahaiïschen Zahlenmystik sowie den Geodaten aus einem bekannten Tolkien-Roman
 als Trainingsdaten füttere.
