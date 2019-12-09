@@ -442,3 +442,38 @@ Die Schulleitung informiert:
 > Mit freundlichen Grüssen
 >
 > Die Schulleitung
+
+# Das stinkende Karussell zu Rotkreuz
+
+Die Leiche, die sich am drehenden Baum vor dem neuen Hauptgebäude des
+Departements Informatik der Hochschule Luzern, der als Symbol für die
+Nachhaltigkeit der Suurstoffi in die aller komplizierteste und
+ressourcenintensivste Drehvorrichtung, die eben aufgrund ihrer solargespeisten
+Antriebsmechanismus als nachhaltig gelten soll, jedoch letzten Endes überhaupt
+nicht nachhaltig ist, ja geradezu das Gegenteil von Nachhaltigkeit
+symbolisiert, und also geradezu eine kranke Perversion ist, die man sich nur im
+Kanton Zug im frühen einundzwanzigsten Jahrhundert -- in diesem Hedge-Fonds mit
+ÖV-Anschluss und Autobahnzubringer -- ausdenken und leisten kann, wo auch immer
+häufiger solche Selbstmorde zu beobachten sind, wie er eben in der Suurstoffi
+zu beobachten ist, sodass sich die satzeingangs erwähnte Leiche an einer solch
+perversen Drehvorrichtung auf das Nachhaltigste im Rhytmus des Sonnenlaufes
+sich solarstrombetrieben im Kreise dreht; mal Richtung Luzern schauend, mal
+Richtung Aargau schauend, dann wieder zum Informatikhauptgebäude in der
+sogenannt nachhaltig gebauten und betriebenen Suurstoffi schauend, und später
+wiederum Richtung Zugerseee schauend; dabei einen widerwärtigen
+Verwesungsgeruch ausströmend sich langsam am aus ökologisch angebautem Hanf
+gedrehten Seil baumelnd zersetzt, da die schon im letzten Sommer bestellten
+Sonnenschirme für das Dach des Informatikhauptgebäudes in der Suurstoffi noch
+nicht geliefert worden sind, und so nicht über den Solarpanels aufgestellt
+werden können, was den drehenden Baum zeitweilig zum Stillstand bringen, und so
+der Polizei zu Bürozeiten erlauben würde, eine Leiter an den sich dann nicht
+mehr nachhaltig drehenden Baum anzustellen, um die satzeingangs erwähnte Leiche
+davon runterzuschneiden, und so der Gerichtsmedizin für ihre Untersuchung
+übergeben zu können, die dabei herausfinden würde, dass es sich bei der Leiche
+um diejenige eines bekannten situationistisch-postmodernen französischen
+Aktionskünstler handelt, der sich nach langen Recherchereisen für den drehenden
+Baum in der Suurstoffi als den idealen Ort für seine letzte Installation
+entschieden hat: _Das stinkende Karussell zu Rotkreuz_. Die Firma Zug Estates,
+die sich letztlich für die Planung und Realisierung des drehenden Baum von
+Rotkreuz verantwortlich zeichnet, erwägt mittlerweile den Gang vor Gericht, um
+sich die Vermarktungsrechte an diesem Kunstwerk zu sichern.
