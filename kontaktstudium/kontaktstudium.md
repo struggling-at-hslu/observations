@@ -471,7 +471,7 @@ mehr nachhaltig drehenden Baum anzustellen, um die satzeingangs erwähnte Leiche
 davon runterzuschneiden, und so der Gerichtsmedizin für ihre Untersuchung
 übergeben zu können, die dabei herausfinden würde, dass es sich bei der Leiche
 um diejenige eines bekannten situationistisch-postmodernen französischen
-Aktionskünstler handelt, der sich nach langen Recherchereisen für den drehenden
+Aktionskünstlers handelt, der sich nach langen Recherchereisen für den drehenden
 Baum in der Suurstoffi als den idealen Ort für seine letzte Installation
 entschieden hat: _Das stinkende Karussell zu Rotkreuz_. Die Firma Zug Estates,
 die sich letztlich für die Planung und Realisierung des drehenden Baum von
