@@ -270,6 +270,16 @@ fontsize: 12pt
   Dateiaustausch abgegeben, sodass nur die regelmässigen Archivare unter den
   Studierenden überhaupt beweisen konnten, dass die letzte Modulveranstaltung
   überhaupt im Semesterplan erwähnt worden war.
+- STAT: _Statistics for Data Science_ wurde zum Zwecke der Dezimierung des
+  Studentenbestands höheren Semesters eingeführt. Die Existenz dieses Moduls,
+  und die Tatsache, dass es sich hierbei um ein Pflichtmodul handelt, wird den
+  Studienberatern dabei jeweils nach den Modulendschlussprüfungen ins
+  Bewusstsein gerufen, wenn Studierende nach zweimaligem Scheitern an einer
+  sadistischen und wirren Modulendprüfung des Modulverantwortlichen Mirko
+  Birbaumer um eine Ausnahmebewilligung betteln müssen, um sich im
+  darauffolgenden Semester noch ein drittes und letztes mal einer solchen
+  sadistischen und wirren Modulendprüfung (des Modulverantwortlichen Mirko
+  Birbaumer!) stellen zu dürfen.
 - SWT: Im Modul _Software Testing_ stellt der Dozent Dominique Portmann die
   Studenten vor unlösbare Aufgaben, indem er diese vor unlösbare Aufgaben
   stellt, um zu demonstrieren, dass sich unlösbare Aufgaben nicht lösen lassen,
