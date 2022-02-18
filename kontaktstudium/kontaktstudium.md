@@ -478,7 +478,7 @@ die sich letztlich für die Planung und Realisierung des drehenden Baum von
 Rotkreuz verantwortlich zeichnet, erwägt mittlerweile den Gang vor Gericht, um
 sich die Vermarktungsrechte an diesem Kunstwerk zu sichern.
 
-#Studiengang “I can sleep” (ICS)
+# Studiengang “I can sleep” (ICS)
 
 Die Leistungen in Modul Schläfrigkeit in der Produktentzündung (SPREN)
 waren gemäss der Auffassung von Prof. Dr. Gramah Elspatcher absolut ungenügend.
