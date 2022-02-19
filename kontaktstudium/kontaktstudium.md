@@ -1,5 +1,5 @@
 ---
-author: Patrick Bucher
+author: Patrick Bucher et al.
 title: Kontaktstudium
 subtitle: Wahres und Wahrscheinliches
 header-includes:
@@ -480,12 +480,13 @@ sich die Vermarktungsrechte an diesem Kunstwerk zu sichern.
 
 # Studiengang “I can sleep” (ICS)
 
-Die Leistungen in Modul Schläfrigkeit in der Produktentzündung (SPREN)
-waren gemäss der Auffassung von Prof. Dr. Gramah Elspatcher absolut ungenügend.
-Deshalb entschied er sich kurzerhand zu einer Demonstration in der richtigen 
-Anwendung und Dosierung von Schläfrigkeit während des Unterrichts. 
-Seine Fähigkeit während der Abnahme der mündlichen Modulendprüfung einzuschlafen,
-zeichnete sich vor allem durch seine gute Form und Schlafpose aus.
-Studenten gaben zu Protokoll, von der Fähigkeit auch unter Einfluss einer fast
-tödlichen Menge an Koffein auf Kommando und vor laufender Kamera einzuschlafen, 
-hell begeistert und zutiefst beeindruckt zu sein.
+Die Leistungen im Modul Schläfrigkeit in der Produktentzündung (SPREN) waren
+gemäss der Auffassung von Prof. Dr. Gramah Elspatcher absolut ungenügend.
+Deshalb entschied er sich kurzerhand zu einer Demonstration in der richtigen
+Anwendung und Dosierung von Schläfrigkeit während des Unterrichts. Seine
+Fähigkeit, während der Abnahme der mündlichen Modulendprüfung einzuschlafen,
+zeichnete sich vor allem durch seine gute Form und Schlafpose aus. Studenten
+gaben zu Protokoll, von der Fähigkeit auch unter Einfluss einer fast tödlichen
+Menge an Koffein auf Kommando und vor laufender Kamera einzuschlafen, hell
+begeistert und zutiefst beeindruckt zu sein.
+
